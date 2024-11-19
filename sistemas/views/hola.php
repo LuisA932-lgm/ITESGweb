@@ -217,18 +217,32 @@ fieldset[disabled] .btn-primary:hover {
     background: linear-gradient(to bottom, #e0e0e0 0, #fff 100%)
 }
     </style>
-  <center class="Ti">Información Financiera -Armonización Contable LGCG y LDF</center>
+ <center class="Ti">Información Financiera - Armonización Contable LGCG y LDF</center>
   <center>   
           <div class="btn-group btn-group-lg" role="group">
    
-          <a href="http://localhost/ITESGWEB/sistemas/views/hola.php?option=com_content&amp;view=article&amp;id=68&amp;Itemid=572"><button type="button" style="color: #2EC3F8; font-size: 22px " class="  btn btn-default btn" onclick="changeColor(this)">2018</button>
-          </a><a href="http://localhost/ITESGWEB/sistemas/views/hola.php?option=com_content&amp;view=article&amp;id=75&amp;Itemid=572"><button type="button" style="color: #2EC3F8; font-size: 22px" class=" btn btn-default">2019</button>
-          </a><a href="http://localhost/ITESGWEB/sistemas/views/hola.php?option=com_content&amp;view=article&amp;id=79&amp;Itemid=572"><button type="button" style="color: #2EC3F8; font-size: 22px" class="btn btn-default">2020</button>
-            </a><a href="http://localhost/ITESGWEB/sistemas/views/hola.php?option=com_content&amp;view=article&amp;id=87&amp;Itemid=572"><button type="button" style="color: #2EC3F8; font-size: 22px" class="btn btn-default">2021</button></a>
-          <a href="http://localhost/ITESGWEB/sistemas/views/hola.php?option=com_content&amp;view=article&amp;id=92&amp;Itemid=572"><button type="button" style="color: #2EC3F8; font-size: 22px" class="btn btn-default">2022</button></a>
-           <a href="http://localhost/ITESGWEB/sistemas/views/hola.php?option=com_content&amp;view=article&amp;id=99&amp;Itemid=572"><button type="button" style="color: #2EC3F8; font-size: 22px" class="btn btn-default">2023</button></a>
-          <a href="http://localhost/ITESGWEB/sistemas/views/hola.php?option=com_content&amp;view=article&amp;id=104&amp;Itemid=572"><button type="button" style="color: #2EC3F8; font-size: 22px" class="btn btn-default">2024</button></a>
-          </div>
+          <a href="http://localhost/ITESGWEB/sistemas/views/hola.php?option=com_content&amp;view=article&amp;id=68&amp;Itemid=572">
+              <button type="button" style="font-size: 22px" class="btn btn-default" onclick="changeColor(this)">2018</button>
+          </a>
+          <a href="http://localhost/ITESGWEB/sistemas/views/hola.php?option=com_content&amp;view=article&amp;id=75&amp;Itemid=572">
+              <button type="button" style="font-size: 22px" class="btn btn-default" onclick="changeColor(this)">2019</button>
+          </a>
+          <a href="http://localhost/ITESGWEB/sistemas/views/hola.php?option=com_content&amp;view=article&amp;id=79&amp;Itemid=572">
+              <button type="button" style="font-size: 22px" class="btn btn-default" onclick="changeColor(this)">2020</button>
+          </a>
+          <a href="http://localhost/ITESGWEB/sistemas/views/hola.php?option=com_content&amp;view=article&amp;id=87&amp;Itemid=572">
+              <button type="button" style="font-size: 22px" class="btn btn-default" onclick="changeColor(this)">2021</button>
+          </a>
+          <a href="http://localhost/ITESGWEB/sistemas/views/hola.php?option=com_content&amp;view=article&amp;id=92&amp;Itemid=572">
+              <button type="button" style="font-size: 22px" class="btn btn-default" onclick="changeColor(this)">2022</button>
+          </a>
+          <a href="http://localhost/ITESGWEB/sistemas/views/hola.php?option=com_content&amp;view=article&amp;id=99&amp;Itemid=572">
+              <button type="button" style="font-size: 22px" class="btn btn-default" onclick="changeColor(this)">2023</button>
+          </a>
+          <a href="http://localhost/ITESGWEB/sistemas/views/hola.php?option=com_content&amp;view=article&amp;id=104&amp;Itemid=572">
+              <button type="button" style="font-size: 22px" class="btn btn-default" onclick="changeColor(this)">2024</button>
+          </a>
+       </div>
   </center>
   <div>
   </div>
@@ -242,7 +256,6 @@ fieldset[disabled] .btn-primary:hover {
     }
 </script>
   </body>
-</script>
   </html>
 <?php
 include ("footer.php");
