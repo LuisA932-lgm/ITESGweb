@@ -18,7 +18,7 @@ include ("header.php");
             font-size: 21px;
             font-weight:bold;
        }
-       .btn-group btn-group-lg{
+       .btn-group{
         background-image: linear-gradient(rgb(255, 255, 255), rgb(230, 230, 230));
        }
     </style>
