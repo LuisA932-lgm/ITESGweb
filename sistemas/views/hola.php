@@ -90,7 +90,7 @@ fieldset[disabled] a.btn {
 .btn-default.focus,
 .btn-default:focus {
     color: #FFF;
-    background-color: #6F7271;
+    background-color: #333;
     border-color: #6F7271
 }
 
