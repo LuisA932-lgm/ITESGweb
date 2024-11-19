@@ -100,7 +100,7 @@ fieldset[disabled] a.btn {
 .open>.btn-default.dropdown-toggle {
     color: #FFF;
     background-color: #fff;
-    border-color: #6F7271
+    border-color: #fff;
 }
 
 .btn-default.active.focus,
