@@ -147,7 +147,6 @@ fieldset[disabled] .btn-default:hover {
           </div>
   </center>
   <div>
-    HOLA
   </div>
   </body>
   </html>
