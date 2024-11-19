@@ -229,7 +229,7 @@ fieldset[disabled] .btn-primary:hover {
             </a><a href="http://localhost/ITESGWEB/sistemas/views/hola.php?option=com_content&amp;view=article&amp;id=87&amp;Itemid=572"><button type="button" style="color: #2EC3F8; font-size: 22px" class="btn btn-default">2021</button></a>
           <a href="http://localhost/ITESGWEB/sistemas/views/hola.php?option=com_content&amp;view=article&amp;id=92&amp;Itemid=572"><button type="button" style="color: #2EC3F8; font-size: 22px" class="btn btn-default">2022</button></a>
            <a href="http://localhost/ITESGWEB/sistemas/views/hola.php?option=com_content&amp;view=article&amp;id=99&amp;Itemid=572"><button type="button" style="color: #2EC3F8; font-size: 22px" class="btn btn-default">2023</button></a>
-          <a href="http://localhost/ITESGWEB/sistemas/views/hola.php?option=com_content&amp;view=article&amp;id=104&amp;Itemid=572"><button type="button" style="color: #2EC3F8; font-size: 22px" class="btn btn-default">2024</button></a>
+          <a href="http://localhost/ITESGWEB/sistemas/views/hola.php?option=com_content&view=article&id=104&Itemid=572"><button type="button" style="color: #2EC3F8; font-size: 22px" class="btn btn-default">2024</button></a>
           </div>
   </center>
   </body>
