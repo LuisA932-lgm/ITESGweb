@@ -25,6 +25,7 @@ include ("header.php");
           .dos:hover{
         background-color: transparent;
         color: #12C;
+        border-color: transparent;
           }
     </style>
   <center class="Ti">Información Financiera -Armonización Contable LGCG y LDF</center>
