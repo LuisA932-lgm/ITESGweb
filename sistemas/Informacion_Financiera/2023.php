@@ -15,6 +15,6 @@
             font-weight:bold;
        }
        </style>
-    <center class="Ti">Información Anual 2023</center>
+    <class="Ti">Información Anual 2023</class>
 </body>
 </html>
