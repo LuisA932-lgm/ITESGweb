@@ -61,7 +61,7 @@ include ("header.php");
 }
 
 .btn-default.selected {
-    color: #FFF;
+    color: #9D2449;
     background-color: #6F7271;
 }
 
