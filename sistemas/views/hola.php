@@ -8,8 +8,6 @@ include ("header.php");
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Ejercicios Fiscales 2021</title>
-      <link rel="stylesheet" href="../css/gobmx.css">
-
   </head>
   <body>
     <!-- <style>
@@ -232,8 +230,6 @@ fieldset[disabled] .btn-primary:hover {
           <a href="http://localhost/ITESGWEB/sistemas/views/hola.php?option=com_content&amp;view=article&amp;id=104&amp;Itemid=572"><button type="button" style="color: #2EC3F8; font-size: 22px" class="btn btn-default">2024</button></a>
           </div>
   </center>
-  <div>
-  </div>
   </body>
   </html>
 <?php
