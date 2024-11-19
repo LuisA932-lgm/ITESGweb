@@ -10,6 +10,7 @@ include ("header.php");
       <title>Document</title>
   </head>
   <body>
+  <center>Información Financiera -Armonización Contable LGCG y LDF</center>
   <center>   
           <div class="btn-group btn-group-lg" role="group">
    
