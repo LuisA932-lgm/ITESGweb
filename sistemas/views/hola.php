@@ -18,10 +18,10 @@ include ("header.php");
             font-size: 21px;
             font-weight:bold;
        }
-       .uno{
+       .uno:hover{
         background-color: #FB008A; 
         font-size: 22px;
-        cursor: default;
+        
         
        }
     </style>
