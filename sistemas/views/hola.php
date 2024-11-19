@@ -231,12 +231,34 @@ fieldset[disabled] .btn-primary:hover {
            <a href="http://localhost/ITESGWEB/sistemas/Informacion_Financiera/2023.php"><button type="button" style="color: #2EC3F8; font-size: 22px" class="btn btn-default">2023</button></a>
           <a href="http://localhost/ITESGWEB/sistemas/Informacion_Financiera/2024.php"><button type="button" style="color: #2EC3F8; font-size: 22px" class="btn btn-default">2024</button></a>
           </div>
+      <button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2018')">2018</button>
+        <button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2019')">2019</button>
+        <button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2020')">2020</button>
+        <button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2021')">2021</button>
+        <button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2022')">2022</button>
+        <button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2023')">2023</button>
+        <button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2024')">2024</button>
   </center>
-  <div>
-    
-  </div>
+  <div id="contentDiv">
+    <!-- Aquí se cargará el archivo PHP correspondiente -->
+</div>
   </body>
   </html>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    function loadContent(year) {
+        // Realiza la solicitud AJAX para cargar el archivo PHP correspondiente al año
+        $.ajax({
+            url: "http://localhost/ITESGWEB/sistemas/views/hola.php", // Cambiar la URL dependiendo del año
+            type: "GET",
+            data: { year: year },
+            success: function(response) {
+                $('#contentDiv').html(response); // Inserta la respuesta en el div
+            }
+        });
+    }
+</script>
+
 <?php
 include ("footer.php");
 ?>
