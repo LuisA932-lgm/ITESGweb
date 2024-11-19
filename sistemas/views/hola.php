@@ -146,6 +146,9 @@ fieldset[disabled] .btn-default:hover {
           <a href="http://www.itesg.edu.mx/index.php?option=com_content&amp;view=article&amp;id=104&amp;Itemid=572"><button type="button" style="color: #FB008A; font-size: 22px" class="btn btn-default">2024</button></a>
           </div>
   </center>
+  <div>
+    HOLA
+  </div>
   </body>
   </html>
 <?php
