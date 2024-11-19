@@ -15,7 +15,8 @@
         margin-left: 10px;
     }
     .lin{
-        font-size: 15px;
+        font-size: 20px;
+        margin-top: 3px;
     }
 </style>
 <body>
