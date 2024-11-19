@@ -21,6 +21,7 @@ include ("header.php");
        .uno{
         background-color: #FB008A; 
         font-size: 22px;
+        cursor: default;
         
        }
     </style>
