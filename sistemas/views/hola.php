@@ -216,6 +216,20 @@ fieldset[disabled] .btn-primary:hover {
     background: -webkit-linear-gradient(top, #e0e0e0 0, #fff 100%);
     background: linear-gradient(to bottom, #e0e0e0 0, #fff 100%)
 }
+
+ /* Estilo por defecto de los botones */
+ .btn-default {
+              color: #6F7271;
+              background-color: #fff;
+              font-weight: bold;
+          }
+
+          /* Estilo cuando un botón es seleccionado */
+          .btn-selected {
+              color: #FF5733; /* Cambia el color del texto */
+              background-color: #E6EBEC; /* Opcional: puedes cambiar el fondo si lo deseas */
+              border-color: #fff;
+          }
     </style>
   <center class="Ti">Información Financiera -Armonización Contable LGCG y LDF</center>
   <center>   
