@@ -1,7 +1,6 @@
-<?php
-include 'header.php';
+<php?
+include '/sistemas/views/header.php';
 ?>
-
 <body>
     <h1 align="center">Directorio</h1>
     <h2 style="font-size:200%;" align="center">PERSONAL DOCENTE DE TIEMPO COMPLETO</h2>
@@ -255,6 +254,6 @@ include 'header.php';
     </table>';
     ?>
 </body>
-<?php
-include 'footer.php';
+<php?
+include '/sistemas/views/footer.php';
 ?>
