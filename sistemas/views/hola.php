@@ -13,7 +13,7 @@ include ("header.php");
     <style>
        .Ti {
            
-            color: #EAC748;
+            color: #996633;
        }
     </style>
   <center class="Ti">Información Financiera -Armonización Contable LGCG y LDF</center>
