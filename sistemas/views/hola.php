@@ -240,25 +240,20 @@ fieldset[disabled] .btn-primary:hover {
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
     function loadContent(year) {
-        // Realiza la solicitud AJAX para cargar el archivo PHP correspondiente al año
+        // Realiza la solicitud AJAX para cargar únicamente el archivo correspondiente al año seleccionado
         $.ajax({
-            url: "http://localhost/ITESGWEB/sistemas/Informacion_Financiera/2023.php", 
+            url: `http://localhost/ITESGWEB/sistemas/Informacion_Financiera/${year}.php`, // Archivo PHP específico
             type: "GET",
-            data: { year: year },
             success: function(response) {
-                $('#contentDiv').html(response);
-            }
-        });
-        $.ajax({
-            url: "http://localhost/ITESGWEB/sistemas/Informacion_Financiera/2024.php", 
-            type: "GET",
-            data: { year: year },
-            success: function(response) {
-                $('#contentDiv').html(response);
+                $('#contentDiv').html(response); // Actualiza el contenido solo con la respuesta correspondiente
+            },
+            error: function() {
+                $('#contentDiv').html('<p>Error al cargar el contenido. Por favor, intenta nuevamente.</p>'); // Manejo de errores
             }
         });
     }
 </script>
+
 
 <?php
 include ("footer.php");
