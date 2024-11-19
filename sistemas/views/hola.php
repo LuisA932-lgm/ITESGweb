@@ -242,7 +242,15 @@ fieldset[disabled] .btn-primary:hover {
     function loadContent(year) {
         // Realiza la solicitud AJAX para cargar el archivo PHP correspondiente al año
         $.ajax({
-            url: "http://localhost/ITESGWEB/sistemas/Informacion_Financiera/.php", 
+            url: "http://localhost/ITESGWEB/sistemas/Informacion_Financiera/2023.php", 
+            type: "GET",
+            data: { year: year },
+            success: function(response) {
+                $('#contentDiv').html(response);
+            }
+        });
+        $.ajax({
+            url: "http://localhost/ITESGWEB/sistemas/Informacion_Financiera/2024.php", 
             type: "GET",
             data: { year: year },
             success: function(response) {
