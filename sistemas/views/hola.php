@@ -233,9 +233,7 @@ fieldset[disabled] .btn-primary:hover {
           </div>
   </center>
   <div>
-  <?php
-  include ("./sistemas/Informacion_Financiera/2023.php");
-  ?>
+    
   </div>
   </body>
   </html>
