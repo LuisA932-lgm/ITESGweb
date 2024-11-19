@@ -93,7 +93,7 @@ fieldset[disabled] a.btn {
 .btn-default:hover,
 .open>.btn-default.dropdown-toggle {
     color: #FFF;
-    background-color: #E6EBEC;
+    background-color: #D0D5E5;
     border-color: #fff;
 }
 
