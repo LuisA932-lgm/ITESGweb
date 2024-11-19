@@ -223,14 +223,7 @@ fieldset[disabled] .btn-primary:hover {
   <center>   
           <div class="btn-group btn-group-lg" role="group">
    
-          <a href="http://localhost/ITESGWEB/sistemas/views/hola.php"><button type="button" style="color: #2EC3F8; font-size: 22px " class="  btn btn-default">2018</button>
-          </a><a href="http://localhost/ITESGWEB/sistemas/views/hola.php"><button type="button" style="color: #2EC3F8; font-size: 22px" class=" btn btn-default">2019</button>
-          </a><a href="http://localhost/ITESGWEB/sistemas/views/hola.php"><button type="button" style="color: #2EC3F8; font-size: 22px" class="btn btn-default">2020</button>
-            </a><a href="http://localhost/ITESGWEB/sistemas/views/hola.php"><button type="button" style="color: #2EC3F8; font-size: 22px" class="btn btn-default">2021</button></a>
-          <a href="http://localhost/ITESGWEB/sistemas/views/hola.php"><button type="button" style="color: #2EC3F8; font-size: 22px" class="btn btn-default">2022</button></a>
-           <a href="http://localhost/ITESGWEB/sistemas/Informacion_Financiera/2023.php"><button type="button" style="color: #2EC3F8; font-size: 22px" class="btn btn-default">2023</button></a>
-          <a href="http://localhost/ITESGWEB/sistemas/Informacion_Financiera/2024.php"><button type="button" style="color: #2EC3F8; font-size: 22px" class="btn btn-default">2024</button></a>
-          </div>
+      
       <button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2018')">2018</button>
         <button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2019')">2019</button>
         <button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2020')">2020</button>
