@@ -14,7 +14,7 @@
     }
 </style>
 <body>
-    <h2 class="sub">Información Anual</h2>
+    <h2 class="sub">Información Anual 2024</h2>
 </body>
 </html>
 
