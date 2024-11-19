@@ -29,6 +29,7 @@ include ("header.php");
         
           }
           .btn {
+            font-weight:bold;
     display: inline-block;
     margin-bottom: 0;
     font-weight: 300;
