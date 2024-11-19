@@ -20,16 +20,19 @@ include ("header.php");
        }
        .uno:hover{
         background-color: transparent;
-      color: #12C;
+        color: #12C;
           }
-        
+          .dos:hover{
+        background-color: transparent;
+        color: #12C;
+          }
     </style>
   <center class="Ti">Información Financiera -Armonización Contable LGCG y LDF</center>
   <center>   
           <div class="btn-group btn-group-lg" role="group">
    
           <a href="http://www.itesg.edu.mx/index.php?option=com_content&amp;view=article&amp;id=68&amp;Itemid=572"><button type="button" style="color: #2EC3F8; font-size: 22px" class="uno">2018</button>
-          </a><a href="http://www.itesg.edu.mx/index.php?option=com_content&amp;view=article&amp;id=75&amp;Itemid=572"><button type="button" style="color: #2EC3F8; font-size: 22px" class="btn btn-default">2019</button>
+          </a><a href="http://www.itesg.edu.mx/index.php?option=com_content&amp;view=article&amp;id=75&amp;Itemid=572"><button type="button" style="color: #2EC3F8; font-size: 22px" class="btn btn-default dos">2019</button>
           </a><a href="http://www.itesg.edu.mx/index.php?option=com_content&amp;view=article&amp;id=79&amp;Itemid=572"><button type="button" style="color: #2EC3F8; font-size: 22px" class="btn btn-default">2020</button>
            </a><a href="http://www.itesg.edu.mx/index.php?option=com_content&amp;view=article&amp;id=87&amp;Itemid=572"><button type="button" style="color: #2EC3F8; font-size: 22px" class="btn btn-default">2021</button></a>
           <a href="http://www.itesg.edu.mx/index.php?option=com_content&amp;view=article&amp;id=92&amp;Itemid=572"><button type="button" style="color: #2EC3F8; font-size: 22px" class="btn btn-default">2022</button></a>
