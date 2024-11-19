@@ -12,6 +12,7 @@
         text-align: left;
         font-weight: bold;
         margin-bottom: 20px;
+        margin-left: 10px;
     }
 </style>
 <body>
