@@ -558,7 +558,7 @@
                             </ul>
                         </li>
                         <li class="nav-item dropdown simple-dropdown">
-                            <a href="hola.html" class="nav-link">Información Financiera LGCG y LDF</a><i class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i
+                            <a href="hola.php" class="nav-link">Información Financiera LGCG y LDF</a><i class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i
                         </li>
 
                     </ul>
