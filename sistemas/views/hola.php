@@ -19,7 +19,8 @@ include ("header.php");
             font-weight:bold;
        }
        .btn{
-        background-color:rgb(245, 245, 245);
+        color: #2EC3F8; 
+        font-size: 22px;
         
        }
     </style>
