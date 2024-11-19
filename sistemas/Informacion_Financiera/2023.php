@@ -22,5 +22,6 @@
 <body>
     <h2 class="sub">Información Anual 2023</h2>
     <a href="https://portaldgi.guanajuato.gob.mx/CuentaPublica/public/main" target="_blank"><h3 class="link" style="color:  #095ba3 ">Liga de Cuenta Pública 2023 (SFIyA)</h3></a>
+    <h3>Transparencia y Difusión de la Información Financiera LGCG</h3>
 </body>
 </html>
