@@ -60,10 +60,6 @@ include ("header.php");
     box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125)
 }
 
-.btn-default.selected {
-    color: #9D2449;
-    background-color: #6F7271;
-}
 
 .btn.disabled,
 .btn[disabled],
@@ -205,7 +201,7 @@ fieldset[disabled] .btn-primary:hover {
   <center>   
           <div class="btn-group btn-group-lg" role="group">
    
-          <a href="http://localhost/ITESGWEB/sistemas/views/hola.php?option=com_content&amp;view=article&amp;id=68&amp;Itemid=572"><button type="button" style="color: #2EC3F8; font-size: 22px " class="  btn btn-default btn-default.selected">2018</button>
+          <a href="http://localhost/ITESGWEB/sistemas/views/hola.php?option=com_content&amp;view=article&amp;id=68&amp;Itemid=572"><button type="button" style="color: #2EC3F8; font-size: 22px " class="  btn btn-default">2018</button>
           </a><a href="http://localhost/ITESGWEB/sistemas/views/hola.php?option=com_content&amp;view=article&amp;id=75&amp;Itemid=572"><button type="button" style="color: #2EC3F8; font-size: 22px" class=" btn btn-default">2019</button>
           </a><a href="http://localhost/ITESGWEB/sistemas/views/hola.php?option=com_content&amp;view=article&amp;id=79&amp;Itemid=572"><button type="button" style="color: #2EC3F8; font-size: 22px" class="btn btn-default">2020</button>
             </a><a href="http://localhost/ITESGWEB/sistemas/views/hola.php?option=com_content&amp;view=article&amp;id=87&amp;Itemid=572"><button type="button" style="color: #2EC3F8; font-size: 22px" class="btn btn-default">2021</button></a>
