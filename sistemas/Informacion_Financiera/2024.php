@@ -7,6 +7,7 @@
 </head>
 <style>
     .sub{
+        color: rgb(181, 129, 45);
         font-size: 24px;
         text-align: center;
         font-weight: bold;
@@ -14,7 +15,7 @@
     }
 </style>
 <body>
-    <h2 class="sub">Información Anual 2024</h2>
+    <h2 class="sub">Información Anual</h2>
 </body>
 </html>
 
