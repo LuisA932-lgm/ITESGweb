@@ -242,7 +242,7 @@ fieldset[disabled] .btn-primary:hover {
     function loadContent(year) {
         // Realiza la solicitud AJAX para cargar el archivo PHP correspondiente al año
         $.ajax({
-            url: "http://localhost/ITESGWEB/sistemas/views/hola.php", // Cambiar la URL dependiendo del año
+            url: "http://localhost/ITESGWEB/sistemas/Informacion_Financiera/2023.php", // Cambiar la URL dependiendo del año
             type: "GET",
             data: { year: year },
             success: function(response) {
