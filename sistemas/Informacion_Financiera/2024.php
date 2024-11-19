@@ -9,7 +9,7 @@
     .sub{
         color: rgb(181, 129, 45);
         font-size: 24px;
-        text-align: center;
+        text-align: left;
         font-weight: bold;
         margin-bottom: 20px;
     }
