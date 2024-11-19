@@ -11,7 +11,7 @@
         color: rgb(181, 129, 45);
         font-size: 24px;
         font-weight: bold;
-        margin-bottom: 20px;
+        margin-bottom: 1px;
         margin-left: 10px;
     }
     .h3{
