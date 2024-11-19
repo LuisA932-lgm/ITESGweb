@@ -132,6 +132,69 @@ fieldset[disabled] .btn-default:hover {
     background-color: #6F7271;
     border-color: #6F7271
 }
+.btn-default .badge {
+    color: #fff;
+    background-color: #333
+}
+
+.btn-primary {
+    color: #9D2449;
+    background-color: #FFF;
+    border-color: #9D2449
+}
+
+.btn-primary.focus,
+.btn-primary:focus {
+    color: #FFFFFF;
+    background-color: #9D2449;
+    border-color: #9D2449
+}
+
+.btn-primary.active,
+.btn-primary:active,
+.btn-primary:hover,
+.open>.btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #9D2449;
+    border-color: #9D2449
+}
+
+.btn-primary.active.focus,
+.btn-primary.active:focus,
+.btn-primary.active:hover,
+.btn-primary:active.focus,
+.btn-primary:active:focus,
+.btn-primary:active:hover,
+.open>.btn-primary.dropdown-toggle.focus,
+.open>.btn-primary.dropdown-toggle:focus,
+.open>.btn-primary.dropdown-toggle:hover {
+    color: #fff;
+    background-color: #9D2449;
+    border-color: #9D2449
+}
+
+.btn-primary.disabled,
+.btn-primary.disabled.active,
+.btn-primary.disabled.focus,
+.btn-primary.disabled:active,
+.btn-primary.disabled:focus,
+.btn-primary.disabled:hover,
+.btn-primary[disabled],
+.btn-primary[disabled].active,
+.btn-primary[disabled].focus,
+.btn-primary[disabled]:active,
+.btn-primary[disabled]:focus,
+.btn-primary[disabled]:hover,
+fieldset[disabled] .btn-primary,
+fieldset[disabled] .btn-primary.active,
+fieldset[disabled] .btn-primary.focus,
+fieldset[disabled] .btn-primary:active,
+fieldset[disabled] .btn-primary:focus,
+fieldset[disabled] .btn-primary:hover {
+    color: #FFF;
+    background-color: #9D2449;
+    border-color: #9D2449
+}
     </style>
   <center class="Ti">Información Financiera -Armonización Contable LGCG y LDF</center>
   <center>   
