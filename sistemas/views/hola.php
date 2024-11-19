@@ -8,6 +8,7 @@ include ("header.php");
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Ejercicios Fiscales 2021</title>
+      <link rel="stylesheet" href="../css/gobmx.css">
 
   </head>
   <body>
