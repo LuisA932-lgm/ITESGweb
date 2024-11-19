@@ -232,18 +232,16 @@ fieldset[disabled] .btn-primary:hover {
   </center>
   <div>
   </div>
-  </body>
   <script>
     function changeColor(button) {
-        // Elimina la clase 'selected' de todos los botones
         var buttons = document.querySelectorAll('.btn');
         buttons.forEach(function(btn) {
             btn.style.color = '#2EC3F8'; // Restaura el color original del texto
         });
-
-        // Cambia el color del texto del botón clickeado a rojo
         button.style.color = 'red';
     }
+</script>
+  </body>
 </script>
   </html>
 <?php
