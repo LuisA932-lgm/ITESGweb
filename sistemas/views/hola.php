@@ -217,6 +217,8 @@ fieldset[disabled] .btn-primary:hover {
     background: linear-gradient(to bottom, #e0e0e0 0, #fff 100%)
 }
 
+</style>
+
  <center class="Ti">Información Financiera - Armonización Contable LGCG y LDF</center>
   <center>   
           <div class="btn-group btn-group-lg" role="group">
