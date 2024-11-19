@@ -84,7 +84,7 @@ fieldset[disabled] a.btn {
 
 .btn-default {
     color: #6F7271;
-    background-color: #777;
+    background-color: #fff;
 }
 
 .btn-default.focus,
@@ -99,7 +99,7 @@ fieldset[disabled] a.btn {
 .btn-default:hover,
 .open>.btn-default.dropdown-toggle {
     color: #FFF;
-    background-color: #6F7271;
+    background-color: #fff;
     border-color: #6F7271
 }
 
