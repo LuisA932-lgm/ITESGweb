@@ -7,14 +7,15 @@
   </head>
   <body>
   <style>
-       .Ti {
-           
-            color: rgb(181, 129, 45);
-            font-family: Lato, sans-serif;
-            font-size: 21px;
-            font-weight:bold;
-       }
-       </style>
-    <class="Ti">Información Anual 2023</class>
+    .sub{
+        color: rgb(181, 129, 45);
+        font-size: 24px;
+        text-align: center;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+</style>
+<body>
+    <h2 class="sub">Información Anual</h2>
 </body>
 </html>
