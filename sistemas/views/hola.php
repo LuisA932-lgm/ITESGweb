@@ -218,22 +218,6 @@ fieldset[disabled] .btn-primary:hover {
 }
     </style> -->
  <center class="Ti">Información Financiera - Armonización Contable LGCG y LDF</center>
-
- /* Estilo por defecto de los botones */
- .btn-default {
-              color: #6F7271;
-              background-color: #fff;
-              font-weight: bold;
-          }
-
-          /* Estilo cuando un botón es seleccionado */
-          .btn-selected {
-              color: #FF5733; /* Cambia el color del texto */
-              background-color: #E6EBEC; /* Opcional: puedes cambiar el fondo si lo deseas */
-              border-color: #fff;
-          }
-    </style>
-  <center class="Ti">Información Financiera -Armonización Contable LGCG y LDF</center>
   <center>   
           <div class="btn-group btn-group-lg" role="group">
    
