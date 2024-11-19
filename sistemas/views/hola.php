@@ -19,11 +19,10 @@ include ("header.php");
             font-weight:bold;
        }
        .uno:hover{
-        background-color: rgb(245, 245, 245);
-        font-size: 22px;
+        background-color: transparent;
+      color: #12C;
+          }
         
-        
-       }
     </style>
   <center class="Ti">Información Financiera -Armonización Contable LGCG y LDF</center>
   <center>   
