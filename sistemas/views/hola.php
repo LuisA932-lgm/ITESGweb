@@ -196,6 +196,26 @@ fieldset[disabled] .btn-primary:hover {
     background-color: #9D2449;
     border-color: #9D2449
 }
+.font-changer button {
+    display: block;
+    background: 0 0;
+    background: -webkit-linear-gradient(top, #fff 0, #e0e0e0 100%);
+    background: linear-gradient(to bottom, #fff 0, #e0e0e0 100%);
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, .33);
+    border: 1px solid #fff;
+    outline: 0;
+    border-radius: 5px;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    font-size: 13px;
+    margin-bottom: 7px
+}
+
+.font-changer button:hover {
+    background: -webkit-linear-gradient(top, #e0e0e0 0, #fff 100%);
+    background: linear-gradient(to bottom, #e0e0e0 0, #fff 100%)
+}
     </style>
   <center class="Ti">Información Financiera -Armonización Contable LGCG y LDF</center>
   <center>   
