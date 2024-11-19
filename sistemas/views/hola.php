@@ -16,7 +16,10 @@ include ("header.php");
             color: rgb(181, 129, 45);
             font-family: Lato, sans-serif;
             font-size: 21px;
-            font-weight: bold;
+            font-weight:bold;
+       }
+       .btn-group btn-group-lg{
+        background-image: linear-gradient(rgb(255, 255, 255), rgb(230, 230, 230));
        }
     </style>
   <center class="Ti">Información Financiera -Armonización Contable LGCG y LDF</center>
