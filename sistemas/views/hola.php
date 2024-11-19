@@ -60,6 +60,11 @@ include ("header.php");
     box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125)
 }
 
+.btn-default.selected {
+    color: #FFF;
+    background-color: #6F7271;
+}
+
 .btn.disabled,
 .btn[disabled],
 fieldset[disabled] .btn {
