@@ -1,8 +1,6 @@
 <php?
   include '/sistemas/views/header.php';
   ?>
-  <title>Personal Administrativo</title>
-
 <body>
     <h1 align="center">Directorio</h1>
     <h2 style="font-size:200%;">Dirección General</h2>
