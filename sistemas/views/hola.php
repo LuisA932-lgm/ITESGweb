@@ -19,7 +19,7 @@ include ("header.php");
             font-weight:bold;
        }
        .uno:hover{
-        background-color: #FB008A; 
+        background-color: rgb(245, 245, 245);
         font-size: 22px;
         
         
