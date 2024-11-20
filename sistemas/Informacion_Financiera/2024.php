@@ -27,6 +27,11 @@
         margin-top: -20px;
         font-weight: bold;
     }
+    .ing{
+        font-size: 24px;
+        margin-left: 10px;
+    }
+
 </style>
 <body>
     <h2 class="sub">Información Anual</h2>
@@ -36,7 +41,7 @@
    
         <h5 class="Trans">Transparencia y Difusión de la Información Financiera LGCG</h5>
         
-        <h3 style="color: #FB008A">Ingreso</h3>
+        <h3 class="ing" style="color: #FB008A">Ingreso</h3>
     
 </body>
 </html>
