@@ -53,7 +53,7 @@
     .PR {
         font-size: 24px;
         margin-left: 15px;
-        margin-top: -20px;
+        margin-top: -30px;
         font-weight: bold;
     }
 
