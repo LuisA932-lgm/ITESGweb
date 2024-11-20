@@ -87,8 +87,8 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 80%;">Calendario de Ingresos</td>
-                        <td style="width: 20%;">
+                        <td style="width: 80px;">Calendario de Ingresos</td>
+                        <td style="width: 20px;">
                             <a href="/LGCGyLDF/EJ2024/2.CALENDARIO%20INGRESOS%20ITSG%202024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
                             <a href="/LGCGyLDF/EJ2024/2.CALENDARIO%20INGRESOS%20ITSG%202024.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
