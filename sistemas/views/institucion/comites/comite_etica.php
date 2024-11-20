@@ -1,5 +1,5 @@
   <?php
-    include '/sistemas/views/footer.php';
+    include '/sistemas/views/header.php';
   ?>
 <body>
     <div class="text-center">
