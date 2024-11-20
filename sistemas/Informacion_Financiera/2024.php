@@ -94,6 +94,12 @@
         margin-top: 10px;
         font-weight: bold;
     }
+    .IDB{
+        font-size: 18px;
+        margin-left: 15px;
+        margin-top: 10px;
+        font-weight: bold;
+    }
 
     .table1 {
         width: 800px;
@@ -144,6 +150,13 @@
     }
 
     .table7 {
+        width: 1000px;
+        border-collapse: collapse;
+        border-radius: 5px;
+        margin-top: 13px;
+        margin-left: 300px;
+    }
+    .table8 {
         width: 1000px;
         border-collapse: collapse;
         border-radius: 5px;
@@ -899,6 +912,7 @@
         </tbody>
     </table>
 
+    <h3 class="IDB" style="color: #FB008A">Inventario De Bienes</h3>
 
 </body>
 
