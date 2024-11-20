@@ -18,6 +18,7 @@
         font-size: 20px;
         margin-top: -25px;
         margin-left: 10px;
+        font-weight: bold;
     }
     .Trans{
         color:black;
