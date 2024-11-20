@@ -24,6 +24,7 @@
         font-size: 15px;
         margin-left: 10px;
         margin-top: -20px;
+        font-weight: bold;
     }
 </style>
 <body>
