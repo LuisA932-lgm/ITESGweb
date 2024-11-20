@@ -61,7 +61,7 @@
         <table width="70%" align="center" class="table ">
                 <thead style="background-color: #0073D1; color: #FFFFFF"><tr><th>Documento</th><th>Descarga</th></tr></thead>
             <tbody>
-                    <tr style="background-color: #D9E4EC;">
+                    <tr style="background-color: #e2e2e2;">
                         <td style="width: 80%;">Iniciativa de Ingresos</td>
                         <td style="width: 20%;">
                                <a href="/LGCGyLDF/EJ2024/Iniciativa_de_Ingresos_2024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
