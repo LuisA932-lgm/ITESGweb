@@ -1,7 +1,6 @@
-<?php
-include 'header.php';
-?>
-
+  <php?
+    include '/sistemas/views/footer.php';
+  ?>
 <body>
     <div class="text-center">
         <img src='/ITESG/images/banner/logo_comite.png' class="mx-auto">
@@ -92,6 +91,6 @@ for($i=0;$i<5;$i++)
     }
 }?>
 </body>
-<?php
-include 'footer.php';
-?>
+  <php?
+    include '/sistemas/views/footer.php';
+  ?>
