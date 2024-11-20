@@ -1,4 +1,4 @@
-<php?
+<?php
 include '/sistemas/views/header.php';
 ?>
 <body>
@@ -254,6 +254,6 @@ include '/sistemas/views/header.php';
     </table>';
     ?>
 </body>
-<php?
+<?php
 include '/sistemas/views/footer.php';
 ?>

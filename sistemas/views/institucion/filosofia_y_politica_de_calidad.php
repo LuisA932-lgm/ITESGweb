@@ -1,6 +1,6 @@
-<?php
-include 'header.php';
-?>
+  <?php
+    include '/sistemas/views/header.php';
+  ?>
 
 <body>
     <div class="text-center">
