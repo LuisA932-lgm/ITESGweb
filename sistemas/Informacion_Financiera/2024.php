@@ -72,6 +72,12 @@
         margin-top: 10px;
         font-weight: bold;
     }
+    .IC{
+        font-size: 24px;
+        margin-left: 15px;
+        margin-top: 10px;
+        font-weight: bold;
+    }
 
     .table1 {
         width: 800px;
@@ -273,6 +279,7 @@
     </table>
     
     <h2 class="sub2">Información Trimestral</h2>
+    <h3 class="IC">Información Contable</h3>
 
 </body>
 
