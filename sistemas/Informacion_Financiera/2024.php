@@ -279,7 +279,7 @@
     </table>
     
     <h2 class="sub2">Información Trimestral</h2>
-    <h3 class="IC">Información Contable</h3>
+    <h3 class="IC"  style="color: #FB008A">Información Contable</h3>
 
 </body>
 
