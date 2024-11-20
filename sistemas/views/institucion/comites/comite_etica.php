@@ -91,6 +91,6 @@ for($i=0;$i<5;$i++)
     }
 }?>
 </body>
-  <php?
+  <?php
     include '/sistemas/views/footer.php';
   ?>
