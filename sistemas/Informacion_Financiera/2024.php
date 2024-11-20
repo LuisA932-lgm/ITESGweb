@@ -39,6 +39,12 @@
         margin-top: -20px;
         font-weight: bold;
     }
+    .Egre{
+        font-size: 24px;
+        margin-left: 15px;
+        margin-top: -20px;
+        font-weight: bold;
+    }
     .table{
         width: 800px;
         border-collapse: collapse;
@@ -95,6 +101,8 @@
                     </tr>
             </tbody>
         </table>
+
+    <h3 class="Egre" style="color: #FB008A">Egreso</h3>
 </body>
 </html>
 
