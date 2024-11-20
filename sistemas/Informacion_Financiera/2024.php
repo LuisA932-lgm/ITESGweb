@@ -31,7 +31,7 @@
     }
 
     .lin {
-        font-size: 20px;
+        font-size: 18px;
         margin-top: -25px;
         margin-left: 15px;
         font-weight: bold;
@@ -39,41 +39,41 @@
 
     .Trans {
         color: black;
-        font-size: 15px;
+        font-size: 18px;
         margin-left: 15px;
         margin-top: -20px;
         font-weight: bold;
     }
 
     .ing {
-        font-size: 24px;
+        font-size: 18px;
         margin-left: 15px;
         margin-top: -20px;
         font-weight: bold;
     }
 
     .Egre {
-        font-size: 24px;
+        font-size: 18px;
         margin-left: 15px;
         margin-top: -20px;
         font-weight: bold;
     }
 
     .PR {
-        font-size: 24px;
+        font-size: 18px;
         margin-left: 15px;
         margin-top: 10px;
         font-weight: bold;
     }
 
     .ID {
-        font-size: 24px;
+        font-size: 18px;
         margin-left: 15px;
         margin-top: 10px;
         font-weight: bold;
     }
     .IC{
-        font-size: 24px;
+        font-size: 18px;
         margin-left: 15px;
         margin-top: 10px;
         font-weight: bold;
