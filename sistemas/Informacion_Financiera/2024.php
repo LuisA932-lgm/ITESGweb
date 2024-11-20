@@ -61,7 +61,7 @@
         <table width="70%" align="center" class="table ">
                 <thead style="background-color: #0073D1; color: #FFFFFF"><tr><th>Documento</th><th>Descarga</th></tr></thead>
             <tbody>
-                    <tr>
+                    <tr style="background-color: #D9E4EC;">
                         <td style="width: 80%;">Iniciativa de Ingresos</td>
                         <td style="width: 20%;">
                                <a href="/LGCGyLDF/EJ2024/Iniciativa_de_Ingresos_2024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
@@ -87,8 +87,8 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 80px;">Calendario de Ingresos</td>
-                        <td style="width: 20px;">
+                        <td style="width: 80%;">Calendario de Ingresos</td>
+                        <td style="width: 20%;">
                             <a href="/LGCGyLDF/EJ2024/2.CALENDARIO%20INGRESOS%20ITSG%202024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
                             <a href="/LGCGyLDF/EJ2024/2.CALENDARIO%20INGRESOS%20ITSG%202024.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
