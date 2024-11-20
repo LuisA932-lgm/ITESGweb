@@ -1,5 +1,5 @@
-<php?
-  include '/sistemas/views/header.php';
+  <?php
+    include '/sistemas/views/header.php';
   ?>
 <body>
     <h1 align="center">Directorio</h1>
@@ -269,6 +269,6 @@
     </table>';
     ?>
 </body>
-  <php?
+  <?php
     include '/sistemas/views/footer.php';
   ?>
