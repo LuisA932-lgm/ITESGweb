@@ -101,7 +101,8 @@
         margin-top: 10px;
         font-weight: bold;
     }
-    .EJ{
+
+    .EJ {
         font-size: 18px;
         margin-left: 15px;
         margin-top: 10px;
@@ -172,6 +173,7 @@
         margin-top: 13px;
         margin-left: 300px;
     }
+
     .table9 {
         width: 1000px;
         border-collapse: collapse;
@@ -990,6 +992,240 @@
     </table>
 
     <h3 class="EJ" style="color: #FB008A">Ejercicio Presupuestario</h3>
+    <table align="center" width="90%" class="table9">
+        <thead style="background-color: #0073D1; color: #FFFFFF">
+            <tr>
+                <th>Documento</th>
+                <th>1er. Trim.</th>
+                <th>2do. Trim.</th>
+                <th>3er. Trim.</th>
+                <th>4to. Trim.</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="background-color: #f8f8f9;">
+                <td style="width: 60%;  color: black">Ayudas y Subsidios</td>
+                <td style="width: 10%;">
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIO/AYS-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIO/AYS-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIO/AYS-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIO/AYS-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIO/AYS-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIO/AYS-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a><img src="images/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="images/excel_no.jpg" title="Excel No Disponible"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a><img src="images/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="images/excel_no.jpg" title="Excel No Disponible"></a>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 60%; color: black">Programas con recursos Federales por orden de Gobierno</td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+            </tr>
+            <tr style="background-color: #f8f8f9;">
+                <td style="width: 60%; color: black">Cuentas Bancarias Productivas Federales</td>
+                <td style="width: 10%;">
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIO/CBP-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIO/CBP-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIO/CBP-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIO/CBP-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIO/CBP-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIO/CBP-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a><img src="images/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="images/excel_no.jpg" title="Excel No Disponible"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a><img src="images/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="images/excel_no.jpg" title="Excel No Disponible"></a>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 60%; color: black">Aportación Federal para la Salud</td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+            </tr>
+            <tr style="background-color: #f8f8f9;">
+                <td style="width: 60%; color: black">Aportación a la Infraestructura Social (FAIS)</td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 60%; color: black">Aportación Fortalecimiento Municipios (FORTAMUN)</td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+            </tr>
+            <tr style="background-color: #f8f8f9;">
+                <td style="width: 60%; color: black">Aportación Federal para Seguridad Pública</td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 60%; color: black">Aportación para la Educación Tecnológica y de Adultos (FAETA)</td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+            </tr>
+            <tr style="background-color: #f8f8f9;">
+                <td style="width: 60%; color: black">Obligaciones con Fondos Federales</td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 60%; color: black">Ejercicio y Destino de Gasto Federalizado</td>
+                <td style="width: 10%;">
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIO/EYDGF-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIO/EYDGF-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIO/EYDGF-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIO/EYDGF-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIO/EYDGF-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIO/EYDGF-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a><img src="images/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="images/excel_no.jpg" title="Excel No Disponible"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a><img src="images/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="images/excel_no.jpg" title="Excel No Disponible"></a>
+                </td>
+            </tr>
+            <tr style="background-color: #f8f8f9;">
+                <td style="width: 60%; color: black">Evaluación de Recursos Federales</td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+                <td style="width: 10%;">
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </body>
 
 </html>
