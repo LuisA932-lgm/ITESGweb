@@ -318,7 +318,7 @@
                     <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/CONTABLE/EA-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="images/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
                     <a><img src="images/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
                 <td style="width: 10%;">
