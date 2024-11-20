@@ -113,7 +113,7 @@
         margin-left: 300px;
     }
     .table5 {
-        width: 800px;
+        width: 1000px;
         border-collapse: collapse;
         border-radius: 5px;
         margin-top: 13px;
@@ -488,7 +488,7 @@
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
-                <td style="width: 60%;"><b>Notas a los estados financieros:</b></td>
+                <td style="width: 60%; color: black"><b>Notas a los estados financieros:</b></td>
                 <td colspan="4"></td>
             </tr>
             <tr>
