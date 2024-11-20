@@ -18,24 +18,24 @@
         text-align: left;
         font-weight: bold;
         margin-bottom: 20px;
-        margin-left: 10px;
+        margin-left: 15px;
     }
     .lin{
         font-size: 20px;
         margin-top: -25px;
-        margin-left: 10px;
+        margin-left: 15px;
         font-weight: bold;
     }
     .Trans{
         color:black;
         font-size: 15px;
-        margin-left: 10px;
+        margin-left: 15px;
         margin-top: -20px;
         font-weight: bold;
     }
     .ing{
         font-size: 24px;
-        margin-left: 10px;
+        margin-left: 15px;
         margin-top: -20px;
         font-weight: bold;
     }
@@ -44,7 +44,7 @@
         border-collapse: collapse;
         border-radius: 5px;
         margin-top: 20px;
-        margin-left: 200px;
+        margin-left: 300px;
     }
 
 </style>
@@ -74,7 +74,7 @@
                             <a href="/LGCGyLDF/EJ2024/1.INF.%20ADICIONAL%20INIC.%20INGRESOS%20ITSG%202024.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                     </tr>
-                    <tr>
+                    <tr style="background-color: #f8f8f9;">
                         <td style="width: 80%;">Dictámenes Acuerdo y Actas </td>
                         <td style="width: 20%;">
                          <a href="/LGCGyLDF/EJ2024/Dictamenes_Acuerdo_y_Actas_ingreso_2024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
@@ -86,7 +86,7 @@
                            <a href="/LGCGyLDF/EJ2024/Ley_de_Ingresos_2024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
                         </td>
                     </tr>
-                    <tr>
+                    <tr style="background-color: #f8f8f9;">
                         <td style="width: 80%;">Calendario de Ingresos</td>
                         <td style="width: 20%;">
                             <a href="/LGCGyLDF/EJ2024/2.CALENDARIO%20INGRESOS%20ITSG%202024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
