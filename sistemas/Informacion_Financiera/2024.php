@@ -40,15 +40,12 @@
         font-weight: bold;
     }
     .table1{
-        width: 1000px;
+        width: 900px;
         border-collapse: collapse;
         border-radius: 5px;
         margin-top: 20px;
-        margin-left: 70px;
+        margin-left: 50px;
        
-    }
-    .Doc1{
-        margin-left: 3px;
     }
 
 </style>
@@ -62,8 +59,8 @@
         
         <h3 class="ing" style="color: #FB008A">Ingreso</h3>
 
-        <table width="70%" align="center" class="table1 table-condensed table-striped">
-                <thead style="background-color: #0073D1; color: #FFFFFF"><tr><th class="Doc1" >Documento</th><th>Descarga</th></tr></thead>
+        <table width="70%" align="center" class="table1 ">
+                <thead style="background-color: #0073D1; color: #FFFFFF"><tr><th>Documento</th><th>Descarga</th></tr></thead>
             <tbody>
                     <tr>
                         <td style="width: 80%;">Iniciativa de Ingresos</td>
