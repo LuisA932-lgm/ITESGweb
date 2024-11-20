@@ -95,7 +95,7 @@
                 </td>
             </tr>
             <tr>
-                <td style="width: 80%;">Información Adicional a la Iniciativa de Ingresos</td>
+                <td style="width: 80%; color:black">Información Adicional a la Iniciativa de Ingresos</td>
                 <td style="width: 20%;">
                     <a href="/LGCGyLDF/EJ2024/1.INF.%20ADICIONAL%20INIC.%20INGRESOS%20ITSG%202024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
                     <a href="/LGCGyLDF/EJ2024/1.INF.%20ADICIONAL%20INIC.%20INGRESOS%20ITSG%202024.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
