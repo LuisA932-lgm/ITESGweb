@@ -44,7 +44,7 @@
         border-collapse: collapse;
         border-radius: 5px;
         margin-top: 20px;
-        margin-left: 50px;
+        margin-left: 70px;
        
     }
     .Doc1{
@@ -63,7 +63,7 @@
         <h3 class="ing" style="color: #FB008A">Ingreso</h3>
 
         <table width="70%" align="center" class="table1 table-condensed table-striped">
-                <thead class="Doc1" style="background-color: #0073D1; color: #FFFFFF"><tr><th>Documento</th><th>Descarga</th></tr></thead>
+                <thead style="background-color: #0073D1; color: #FFFFFF"><tr><th class="Doc1" >Documento</th><th>Descarga</th></tr></thead>
             <tbody>
                     <tr>
                         <td style="width: 80%;">Iniciativa de Ingresos</td>
