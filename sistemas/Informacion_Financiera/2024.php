@@ -40,7 +40,7 @@
         font-weight: bold;
     }
     .table{
-        width: 100%;
+        width: 60px;
         border-collapse: collapse;
         border-radius: 5px;
         margin-top: 20px;
