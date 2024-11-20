@@ -1,4 +1,4 @@
-  <php?
+  <?php
     include '/sistemas/views/footer.php';
   ?>
 <body>
