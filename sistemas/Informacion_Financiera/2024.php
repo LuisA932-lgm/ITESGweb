@@ -21,6 +21,14 @@
         margin-bottom: 20px;
         margin-left: 15px;
     }
+    .sub2 {
+        color: rgb(181, 129, 45);
+        font-size: 24px;
+        text-align: left;
+        font-weight: bold;
+        margin-bottom: 20px;
+        margin-left: 15px;
+    }
 
     .lin {
         font-size: 20px;
@@ -263,6 +271,9 @@
             </tr>
         </tbody>
     </table>
+    
+    <h2 class="sub2">Información Trimestral</h2>
+
 </body>
 
 </html>
