@@ -1006,43 +1006,43 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 60%;  color: black">Ayudas y Subsidios</td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIO/AYS-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIO/AYS-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIO/AYS-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIO/AYS-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIO/AYS-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIO/AYS-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIO/AYS-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIO/AYS-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIO/AYS-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIO/AYS-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIO/AYS-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIO/AYS-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 60%; color: black">Programas con recursos Federales por orden de Gobierno</td>
                 <td style="width: 10%;">
-                    <a> <img src="images/NA.png" title="No Aplica"></a>
-                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                    <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a> <img src="images/NA.png" title="No Aplica"></a>
-                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                    <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a> <img src="images/NA.png" title="No Aplica"></a>
-                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                    <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a> <img src="images/NA.png" title="No Aplica"></a>
-                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                    <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
@@ -1060,12 +1060,12 @@
                     <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIO/CBP-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
             </tr>
             <tr>
@@ -1197,12 +1197,12 @@
                     <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIO/EYDGF-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
