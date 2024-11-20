@@ -50,6 +50,7 @@
         margin-top: -20px;
         font-weight: bold;
     }
+
     .PR {
         font-size: 24px;
         margin-left: 15px;
@@ -64,6 +65,7 @@
         margin-top: 20px;
         margin-left: 300px;
     }
+
     .table2 {
         width: 800px;
         border-collapse: collapse;
@@ -71,8 +73,14 @@
         margin-top: 20px;
         margin-left: 300px;
     }
-   
-   
+    
+    .table3 {
+        width: 800px;
+        border-collapse: collapse;
+        border-radius: 5px;
+        margin-top: 20px;
+        margin-left: 300px;
+    }
 </style>
 
 <body>
@@ -146,7 +154,7 @@
                 </td>
             </tr>
             <tr>
-                <td style="width: 80%; color:black" >Información Adicional al proyecto de presupuesto de egresos</td>
+                <td style="width: 80%; color:black">Información Adicional al proyecto de presupuesto de egresos</td>
                 <td style="width: 20%;">
                     <a href="/LGCGyLDF/EJ2024/3.INF.%20ADIC.%20PROYECTO%20PPTO.%20EGRESOS%202024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
                     <a href="/LGCGyLDF/EJ2024/3.INF.%20ADIC.%20PROYECTO%20PPTO.%20EGRESOS%202024.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
@@ -181,6 +189,23 @@
     </table>
 
     <h3 class="PR" style="color: #FB008A">Presupuesto Basado En Resultados</h3>
+
+    <table align="center" width="70%" class="table3">
+        <thead style="background-color: #0073D1; color: #FFFFFF">
+            <tr>
+                <th>Documento</th>
+                <th>Descarga</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="width: 80%; color:black">PBR</td>
+                <td style="width: 20%;">
+                    <a href="/LGCGyLDF/EJ2024/PBR_EjeDeGobierno_VI.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </body>
 
 </html>
