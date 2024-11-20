@@ -44,7 +44,7 @@
         border-collapse: collapse;
         border-radius: 5px;
         margin-top: 20px;
-        margin-left: 10px;
+        margin-left: 200px;
     }
 
 </style>
