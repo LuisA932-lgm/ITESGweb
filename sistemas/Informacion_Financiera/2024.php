@@ -88,6 +88,13 @@
         margin-top: 13px;
         margin-left: 300px;
     }
+    .table4 {
+        width: 800px;
+        border-collapse: collapse;
+        border-radius: 5px;
+        margin-top: 13px;
+        margin-left: 300px;
+    }
 </style>
 
 <body>
