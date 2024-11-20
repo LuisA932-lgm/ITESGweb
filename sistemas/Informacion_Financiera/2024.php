@@ -1243,7 +1243,7 @@
     </table>
 
     <h3 class="IDF" style="color: #FB008A">Información Disciplina Financiera</h3>
-    <table align="center" width="90%" class="table table-condensed table-striped">
+    <table align="center" width="90%" class="table10 ">
         <thead style="background-color: #0073D1; color: #FFFFFF">
             <tr>
                 <th>Documento</th>
