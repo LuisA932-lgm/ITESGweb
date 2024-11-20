@@ -51,7 +51,7 @@
         font-weight: bold;
     }
 
-    .table1, table2 {
+    .table1 .table2 {
         width: 800px;
         border-collapse: collapse;
         border-radius: 5px;
