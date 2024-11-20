@@ -80,6 +80,12 @@
         margin-top: 10px;
         font-weight: bold;
     }
+    .IP{
+        font-size: 18px;
+        margin-left: 15px;
+        margin-top: 10px;
+        font-weight: bold; 
+    }
 
     .table1 {
         width: 800px;
@@ -539,6 +545,12 @@
             </tr>
         </tbody>
     </table>
+    <h3 class="IP" style="color: #FB008A">Información Presupuestaria</h3>
+
+
+
+
+
 </body>
 
 </html>
