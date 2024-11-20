@@ -913,7 +913,58 @@
     </table>
 
     <h3 class="IDB" style="color: #FB008A">Inventario De Bienes</h3>
-
+    <table align="center" width="90%" class="table8">
+                    <thead style="background-color: #0073D1; color: #FFFFFF"><tr><th>Documento</th><th>1er. Trim.</th><th>2do. Trim.</th><th>3er. Trim.</th><th>4to. Trim.</th></tr></thead>
+                    <tbody>
+                    <tr style="background-color: #f8f8f9;">
+                         <td style="width: 60%;  color: black"">Relación de Bienes Muebles</td>
+                      <td style="width: 10%;">
+                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/INVENTARIO/RBM-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/INVENTARIO/RBM-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                        </td>
+                       <td style="width: 10%;">
+                           <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/INVENTARIO/RBM-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/INVENTARIO/RBM-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                        </td>
+                       <td style="width: 10%;">
+                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/INVENTARIO/RBM-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/INVENTARIO/RBM-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                        </td>
+                        <td style="width: 10%;">
+                           <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
+                           <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                        </td>
+                        <td style="width: 10%;">
+                          <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
+                           <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="width: 60%;  color: black"">Relación de Bienes Inmuebles</td>
+                        <td style="width: 10%;">
+                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/INVENTARIO/RBI-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/INVENTARIO/RBI-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                        </td>
+                       <td style="width: 10%;">
+                           <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/INVENTARIO/RBI-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg.jpg" title="Archivo PDF"></a>
+                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/INVENTARIO/RBI-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                        </td>
+                       <td style="width: 10%;">
+                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/INVENTARIO/RBI-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/INVENTARIO/RBI-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                        </td>
+                        <td style="width: 10%;">
+                           <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
+                           <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                        </td>
+                        <td style="width: 10%;">
+                          <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
+                           <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                        </td>
+                    </tr>
+                    
+                </tbody>
+                </table>
 </body>
 
 </html>
