@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Informacion Financiera</title>
     <link rel="stylesheet" href="../sistema/css/gobmx.css">
+    <link rel="stylesheet" href="../sistema/css/style.css">
+
 </head>
 <style>
     .sub{
