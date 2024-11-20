@@ -30,6 +30,14 @@
         margin-bottom: 20px;
         margin-left: 15px;
     }
+    .sub3 {
+        color: rgb(181, 129, 45);
+        font-size: 24px;
+        text-align: left;
+        font-weight: bold;
+        margin-bottom: 20px;
+        margin-left: 15px;
+    }
 
     .lin {
         font-size: 18px;
@@ -190,6 +198,13 @@
     }
 
     .table10 {
+        width: 1000px;
+        border-collapse: collapse;
+        border-radius: 5px;
+        margin-top: 13px;
+        margin-left: 300px;
+    }
+    .table11 {
         width: 1000px;
         border-collapse: collapse;
         border-radius: 5px;
@@ -1418,6 +1433,19 @@
             </tr>
         </tbody>
     </table>
+
+    <h2 class="sub3">Cuenta Pública</h2>
+
+    <table align="center" width="70%" class="table11 ">
+                    <thead style="background-color: #0073D1; color: #FFFFFF"><tr><th>Nombre</th><th>Ir a</th></tr></thead>
+                    <tbody>
+                    <tr style="background-color: #f8f8f9;">
+                        <td style="width: 80%;" color: black>Cuenta Pública</td>
+                        <td style="width: 20%;">
+			<a href="http://sed.guanajuato.gob.mx/CuentaPublica/public/main" target="_blank"> <img src="images/linkext.jpg" <="" td="">
+                    </a></td></tr>
+                    </tbody>
+                </table>
 </body>
 
 </html>
