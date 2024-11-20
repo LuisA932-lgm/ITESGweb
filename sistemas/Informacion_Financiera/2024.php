@@ -4,8 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Informacion Financiera</title>
-    <link rel="stylesheet" href="../sistema/css/gobmx.css">
-    <link rel="stylesheet" href="../sistema/css/style.css">
+    <link rel="stylesheet" href="../sistemas/css/gobmx.css">
+    <link rel="stylesheet" href="../sistemas/css/style.css">
+    <link rel="stylesheet" href="../sistemas/css/responsive.css">
+    <link rel="stylesheet" href="../sistemas/css/theme-vendors.min.css">
+
 
 </head>
 <style>
