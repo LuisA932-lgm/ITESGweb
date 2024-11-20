@@ -113,11 +113,11 @@
         margin-left: 300px;
     }
     .table5 {
-        width: 1000px;
+        width: 1500px;
         border-collapse: collapse;
         border-radius: 5px;
         margin-top: 13px;
-        margin-left: 300px;
+        margin-left: 100px;
     }
 </style>
 
