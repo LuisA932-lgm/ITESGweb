@@ -1440,9 +1440,9 @@
                     <thead style="background-color: #0073D1; color: #FFFFFF"><tr><th>Nombre</th><th>Ir a</th></tr></thead>
                     <tbody>
                     <tr style="background-color: #f8f8f9;">
-                        <td style="width: 80%;" color: black>Cuenta Pública</td>
+                        <td style="width: 80%; color: black">Cuenta Pública</td>
                         <td style="width: 20%;">
-			<a href="http://sed.guanajuato.gob.mx/CuentaPublica/public/main" target="_blank"> <img src="images/linkext.jpg" <="" td="">
+			<a href="http://sed.guanajuato.gob.mx/CuentaPublica/public/main" target="_blank"> <img src="https://www.itesg.edu.mx/images/linkext.jpg" <="" td="">
                     </a></td></tr>
                     </tbody>
                 </table>
