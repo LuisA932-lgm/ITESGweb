@@ -51,7 +51,7 @@
         
         <h3 class="ing" style="color: #FB008A">Ingreso</h3>
 
-        <table width="70%" align="center" class="table table-condensed table-striped">
+        <table width="50%" align="center" class="table table-condensed table-striped">
                 <thead style="background-color: #0073D1; color: #FFFFFF"><tr><th>Documento</th><th>Descarga</th></tr></thead>
             <tbody>
                     <tr>
