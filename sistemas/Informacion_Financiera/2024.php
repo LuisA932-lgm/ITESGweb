@@ -40,11 +40,12 @@
         font-weight: bold;
     }
     .table{
-        width: 800px;
+        width: 100px;
         border-collapse: collapse;
         border-radius: 5px;
         margin-top: 20px;
         margin-left: 10px;
+        text-align: center;
     }
 
 </style>
