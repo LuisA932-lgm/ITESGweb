@@ -1,6 +1,6 @@
-<?php
-include("header.php");
-?>
+  <?php
+    include '/sistemas/views/header.php';
+  ?>
 
 <body>
     <div class="text-center">
@@ -14,6 +14,6 @@ include("header.php");
         </a>
     </div>
 </body>
-<?php
-include("footer.php");
-?>
+  <?php
+    include '/sistemas/views/footer.php';
+  ?>
