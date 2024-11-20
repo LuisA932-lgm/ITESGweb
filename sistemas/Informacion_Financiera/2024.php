@@ -45,7 +45,7 @@
         border-radius: 5px;
         margin-top: 20px;
         margin-left: 10px;
-        text-align: center;
+        align-items: center;
     }
 
 </style>
