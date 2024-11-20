@@ -515,7 +515,7 @@
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
-                <td style="width: 60%; color: black">Gestión Administrativa</td>
+                <td style="width: 20%; color: black">Gestión Administrativa</td>
                 <td style="width: 10%;">
                     <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/NGA-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
                     <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/NGA-GTO-ITESG-1T-24.docx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
