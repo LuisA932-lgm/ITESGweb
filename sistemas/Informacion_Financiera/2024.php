@@ -39,13 +39,12 @@
         margin-top: -20px;
         font-weight: bold;
     }
-    .table1{
-        width: 900px;
+    .table{
+        width: 800px;
         border-collapse: collapse;
         border-radius: 5px;
         margin-top: 20px;
-        margin-left: 50px;
-       
+        margin-left: 10px;
     }
 
 </style>
@@ -59,7 +58,7 @@
         
         <h3 class="ing" style="color: #FB008A">Ingreso</h3>
 
-        <table width="70%" align="center" class="table1 ">
+        <table width="70%" align="center" class="table ">
                 <thead style="background-color: #0073D1; color: #FFFFFF"><tr><th>Documento</th><th>Descarga</th></tr></thead>
             <tbody>
                     <tr>
