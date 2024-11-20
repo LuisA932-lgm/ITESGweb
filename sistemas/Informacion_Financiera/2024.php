@@ -44,7 +44,44 @@
         <h5 class="Trans">Transparencia y Difusión de la Información Financiera LGCG</h5>
         
         <h3 class="ing" style="color: #FB008A">Ingreso</h3>
-    
+
+        <table width="70%" align="center" class="table table-condensed table-striped">
+                <thead style="background-color: #0073D1; color: #FFFFFF"><tr><th>Documento</th><th>Descarga</th></tr></thead>
+            <tbody>
+                    <tr>
+                        <td style="width: 80%;">Iniciativa de Ingresos</td>
+                        <td style="width: 20%;">
+                               <a href="/LGCGyLDF/EJ2024/Iniciativa_de_Ingresos_2024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="width: 80%;">Información Adicional a la Iniciativa de Ingresos</td>
+                       <td style="width: 20%;">
+                             <a href="/LGCGyLDF/EJ2024/1.INF.%20ADICIONAL%20INIC.%20INGRESOS%20ITSG%202024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                            <a href="/LGCGyLDF/EJ2024/1.INF.%20ADICIONAL%20INIC.%20INGRESOS%20ITSG%202024.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="width: 80%;">Dictámenes Acuerdo y Actas </td>
+                        <td style="width: 20%;">
+                         <a href="/LGCGyLDF/EJ2024/Dictamenes_Acuerdo_y_Actas_ingreso_2024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="width: 80%;">Ley de Ingresos </td>
+                       <td style="width: 20%;">
+                           <a href="/LGCGyLDF/EJ2024/Ley_de_Ingresos_2024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="width: 80%;">Calendario de Ingresos</td>
+                        <td style="width: 20%;">
+                            <a href="/LGCGyLDF/EJ2024/2.CALENDARIO%20INGRESOS%20ITSG%202024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                            <a href="/LGCGyLDF/EJ2024/2.CALENDARIO%20INGRESOS%20ITSG%202024.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                        </td>
+                    </tr>
+            </tbody>
+        </table>
 </body>
 </html>
 
