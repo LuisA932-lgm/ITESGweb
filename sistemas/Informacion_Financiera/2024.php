@@ -57,7 +57,8 @@
         margin-top: 10px;
         font-weight: bold;
     }
-    .ID{
+
+    .ID {
         font-size: 24px;
         margin-left: 15px;
         margin-top: 10px;
@@ -79,7 +80,7 @@
         margin-top: 20px;
         margin-left: 300px;
     }
-    
+
     .table3 {
         width: 800px;
         border-collapse: collapse;
@@ -204,7 +205,7 @@
             </tr>
         </thead>
         <tbody>
-            <tr>
+            <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">PBR</td>
                 <td style="width: 20%;">
                     <a href="/LGCGyLDF/EJ2024/PBR_EjeDeGobierno_VI.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
@@ -213,7 +214,48 @@
         </tbody>
     </table>
 
-    <h3 class="ID" style="color: #FB008A">Información Disciplinaria</h3>
+    <h3 class="ID" style="color: #FB008A">Información Disciplina Financiera</h3>
+
+    <table align="center" width="70%" class="table4 ">
+        <thead style="background-color: #0073D1; color: #FFFFFF">
+            <tr >
+                <th>Documento</th>
+                <th>Descarga</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="background-color: #f8f8f9;">
+                <td style="width: 80%; color:black">Proyecciones de Ingresos</td>
+                <td style="width: 20%;">
+                    <a href="/LGCGyLDF/EJ2024/5.%20Proyecciones%20de%20Ingresos%202024.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 80%; color:black">Proyecciones de Egresos</td>
+                <td style="width: 20%;">
+                    <a href="/LGCGyLDF/EJ2024/6.%20Proyecciones%20de%20Egresos%202024.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                </td>
+            </tr>
+            <tr style="background-color: #f8f8f9;">
+                <td style="width: 80%; color:black">Resultados de Ingresos</td>
+                <td style="width: 20%;">
+                    <a href="/LGCGyLDF/EJ2024/7.%20Resultados%20de%20los%20ingresos%202024.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 80%; color:black">Resultados de Egresos</td>
+                <td style="width: 20%;">
+                    <a href="/LGCGyLDF/EJ2024/8.%20Resultados%20de%20los%20egresos%202024.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                </td>
+            </tr>
+            <tr style="background-color: #f8f8f9;">
+                <td style="width: 80%; color:black">Informe de Estudios Actuariales</td>
+                <td style="width: 20%;">
+                    <a href="/LGCGyLDF/EJ2024/9.%20Informe%20Estudios%20Actuariales%202024.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </body>
 
 </html>
