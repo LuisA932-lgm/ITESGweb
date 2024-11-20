@@ -50,6 +50,12 @@
         margin-top: -20px;
         font-weight: bold;
     }
+    .PR {
+        font-size: 24px;
+        margin-left: 15px;
+        margin-top: -20px;
+        font-weight: bold;
+    }
 
     .table1 {
         width: 800px;
@@ -173,6 +179,8 @@
             </tr>
         </tbody>
     </table>
+
+    <h3 class="PR" style="color: #FB008A">Presupuesto Basado En Resultados</h3>
 </body>
 
 </html>
