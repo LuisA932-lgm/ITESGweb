@@ -45,6 +45,6 @@
     </div>
 </body>
 
-<?php
-include 'footer.php';
-?>
+  <?php
+    include '/sistemas/views/footer.php';
+  ?>
