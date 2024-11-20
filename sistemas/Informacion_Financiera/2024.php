@@ -57,6 +57,12 @@
         margin-top: 10px;
         font-weight: bold;
     }
+    .ID{
+        font-size: 24px;
+        margin-left: 15px;
+        margin-top: 10px;
+        font-weight: bold;
+    }
 
     .table1 {
         width: 800px;
@@ -206,6 +212,8 @@
             </tr>
         </tbody>
     </table>
+
+    <h3 class="ID" style="color: #FB008A">Información Disciplinaria</h3>
 </body>
 
 </html>
