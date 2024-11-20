@@ -87,6 +87,12 @@
         margin-top: 10px;
         font-weight: bold;
     }
+    .IPro{
+        font-size: 18px;
+        margin-left: 15px;
+        margin-top: 10px;
+        font-weight: bold;
+    }
 
     .table1 {
         width: 800px;
@@ -798,7 +804,8 @@
             </tr>
         </tbody>
     </table>
-
+    
+    <h3 class="IPro" style="color: #FB008A">Información Programática</h3>
 
 
 
