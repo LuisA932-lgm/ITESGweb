@@ -124,7 +124,15 @@
         margin-top: 10px;
         font-weight: bold;
     }
-    .IDFI{
+
+    .IDFI {
+        font-size: 18px;
+        margin-left: 15px;
+        margin-top: 10px;
+        font-weight: bold;
+    }
+
+    .MCG {
         font-size: 18px;
         margin-left: 15px;
         margin-top: 10px;
@@ -219,12 +227,22 @@
         margin-top: 13px;
         margin-left: 300px;
     }
-    .table12{
+
+    .table12 {
         width: 1000px;
         border-collapse: collapse;
         border-radius: 5px;
         margin-top: 13px;
         margin-left: 300px;
+    }
+
+    .table13 {
+        width: 1000px;
+        border-collapse: collapse;
+        border-radius: 5px;
+        margin-top: 13px;
+        margin-left: 300px;
+
     }
 </style>
 
@@ -1470,16 +1488,39 @@
     </table>
     <h3 class="IDFI" style="color: #FB008A">Información Disciplina Financiera</h3>
     <table align="center" width="70%" class="table12">
-                    <thead style="background-color: #0073D1; color: #FFFFFF"><tr><th>Documento</th><th>Descarga</th></tr></thead>
-                    <tbody>
-					<tr style="background-color: #f8f8f9;">
-                        <td style="width: 80%;  color: black">Guía de cumplimiento</td>
-                         <td style="width: 20%;">
-                             <a href="" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
-                        </td>
-                    </tr>
-                    </tbody>
-                </table>
+        <thead style="background-color: #0073D1; color: #FFFFFF">
+            <tr>
+                <th>Documento</th>
+                <th>Descarga</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="background-color: #f8f8f9;">
+                <td style="width: 80%;  color: black">Guía de cumplimiento</td>
+                <td style="width: 20%;">
+                    <a href="" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3 class="MCG" style="color: #FB008A">Manual de Contabilidad Gubernamental</h3>
+    <table align="center" width="70%" class="table13 ">
+        <thead style="background-color: #0073D1; color: #FFFFFF">
+            <tr>
+                <th>Documento</th>
+                <th>Descarga</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="background-color: #f8f8f9;">
+                <td style="width: 80%;  color: black">Manual de Contabilidad Gubernamental</td>
+                <td style="width: 20%;">
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/manual_conta_itesg230524.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 
 </body>
 
