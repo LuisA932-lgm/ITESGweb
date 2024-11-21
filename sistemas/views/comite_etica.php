@@ -3,7 +3,7 @@ include 'header.php';
 ?>
 
 <body>
-    <article class="article fulltext ">
+    <article class="article fulltext mx-5">
         <section class="article-body">
             <div class="text-center">
                 <img src='../images/comite/logo_comite.png' class="mx-auto">
