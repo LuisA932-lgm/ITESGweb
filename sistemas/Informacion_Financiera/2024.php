@@ -170,13 +170,15 @@
         color: black;
         margin-top: -90px;
     }
-    .INGE{
+
+    .INGE {
         margin-left: 100px;
         color: black;
         margin-top: 10px;
-        
+
     }
-    .Enlaces{
+
+    .Enlaces {
         font-size: 17px;
         color: black;
         margin-left: 15px;
@@ -1599,6 +1601,9 @@
     </div><br>
 
     <p><b class="Enlaces">Enlaces:</b></p>
+
+    <a href="http://www.conac.gob.mx/"> <i class="fa fa-link fa-lg" aria-hidden="true" title="Liga">
+    </i> Consejo Nacional de Armonización Contable</a>
 </body>
 
 </html>
