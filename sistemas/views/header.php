@@ -220,54 +220,76 @@
 
 
                         <li class="nav-item dropdown simple-dropdown">
-                            <a href="#" class="nav-link">La Instituci&oacute;n</a><i class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
-                            <ul class="dropdown-menu" role="menu">
-                                <li class="dropdown"><a href=".html">Organigrama</a></li>
-                                <li class="dropdown"><a href="#">Directorio <i class="fas fa-angle-right dropdown-toggle"></i></a>
-                                    <ul class="dropdown-menu">
-                                        <li class="dropdown"><a href="administrativo.php">Personal Administrativo</a></li>
-                                        <li class="dropdown"><a href="docente.php">Personal Docente</a></li>
-                                    </ul></li>
-                                <li class="dropdown"><a href="filosofia_y_politica_de_calidad.php">Filosofía y Política de Calidad y Ambiente</a></li>
-                                <li class="dropdown"><a href="#">Aviso de Privacidad <i class="fas fa-angle-right dropdown-toggle"></i></a>
-                                    <ul class="dropdown-menu">
-                                        <li class="dropdown"><a href="#">Servicios Escolares <i class="fas fa-angle-right dropdown-toggle"></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li class="dropdown"><a href="/sistemas/images/display/datos_contacto.jpg" target="_blank">Datos Contacto</a></li>
-                                                <li class="dropdown"><a href="/sistemas/images/display/adm_insc.jpg" target="_blank">Admisión Inscripción</a></li>
-                                                <li class="dropdown"><a href="/sistemas/images/display/aviso_titulacion.jpg" target="_blank">Titulación</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="/sistemas/images/display/avisoprivacidadrh.jpg" target="_blank">Recursos Humanos</a></li>
-                                        <li class="dropdown"><a href="/sistemas/images/display/aviso_priv_compras.jpg" target="_blank">Compras</a></li>
-                                    </ul></li>
-                                <li class="dropdown"><a href="#">Calendario <i class="fas fa-angle-right dropdown-toggle"></i></a>
-                                    <ul class="dropdown-menu">
-                                        <li class="dropdown"><a href=".html">2019-2020</a></li>
-                                        <li class="dropdown"><a href=".html">2020-2021</a></li>
-                                        <li class="dropdown"><a href=".html">2021-2022</a></li>
-                                        <li class="dropdown"><a href=".html">2022-2023</a></li>
-                                        <li class="dropdown"><a href=".html">2023-2024</a></li>
-                                        <li class="dropdown"><a href="2024-2025.php.php">2024-2025</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown"><a href="#">Comités <i class="fas fa-angle-right dropdown-toggle"></i></a>
-                                    <ul class="dropdown-menu">
-                                        <li class="dropdown"><a href=".html">Igualdad Laboral y No Disciminación</a></li>
-                                        <li class="dropdown"><a href="comite_etica.php">Comité de Ética</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown"><a href="#">Calidad <i class="fas fa-angle-right dropdown-toggle"></i></a>
-                                    <ul class="dropdown-menu">
-                                        <li class="dropdown"><a href=".html">SIGCA</a></li>
-                                        <li class="dropdown"><a href=".html">Acceso Calidad</a></li>
-                                        <li class="dropdown"><a href=".html">Imagen Institucional</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown"><a href="marco_juridico.php">Marco Jurídico</a></li>
-                                <li class="dropdown"><a href=".html">Comunicados</a></li>
-                            </ul>
-                        </li>
+                                <a href="#" class="nav-link">La Instituci&oacute;n</a><i
+                                    class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown"
+                                    aria-hidden="true"></i>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li class="dropdown"><a href=".html">Organigrama</a></li>
+                                    <li class="dropdown"><a href="#">Directorio <i
+                                                class="fas fa-angle-right dropdown-toggle"></i></a>
+                                        <ul class="dropdown-menu">
+                                            <li class="dropdown"><a href="administrativo.php">Personal
+                                                    Administrativo</a></li>
+                                            <li class="dropdown"><a href="docente.php">Personal Docente</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown"><a href="filosofia_y_politica_de_calidad.php">Filosofía y
+                                            Política de Calidad y Ambiente</a></li>
+                                    <li class="dropdown"><a href="#">Aviso de Privacidad <i
+                                                class="fas fa-angle-right dropdown-toggle"></i></a>
+                                        <ul class="dropdown-menu">
+                                            <li class="dropdown"><a href="#">Servicios Escolares <i
+                                                        class="fas fa-angle-right dropdown-toggle"></i></a>
+                                                <ul class="dropdown-menu">
+                                                    <li class="dropdown"><a
+                                                            href="/sistemas/images/display/datos_contacto.jpg"
+                                                            target="_blank">Datos Contacto</a></li>
+                                                    <li class="dropdown"><a href="/sistemas/images/display/adm_insc.jpg"
+                                                            target="_blank">Admisión Inscripción</a></li>
+                                                    <li class="dropdown"><a
+                                                            href="/sistemas/images/display/aviso_titulacion.jpg"
+                                                            target="_blank">Titulación</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="dropdown"><a
+                                                    href="/sistemas/images/display/avisoprivacidadrh.jpg"
+                                                    target="_blank">Recursos Humanos</a></li>
+                                            <li class="dropdown"><a
+                                                    href="/sistemas/images/display/aviso_priv_compras.jpg"
+                                                    target="_blank">Compras</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown"><a href="#">Calendario <i
+                                                class="fas fa-angle-right dropdown-toggle"></i></a>
+                                        <ul class="dropdown-menu">
+                                            <li class="dropdown"><a href=".html">2019-2020</a></li>
+                                            <li class="dropdown"><a href=".html">2020-2021</a></li>
+                                            <li class="dropdown"><a href=".html">2021-2022</a></li>
+                                            <li class="dropdown"><a href=".html">2022-2023</a></li>
+                                            <li class="dropdown"><a href=".html">2023-2024</a></li>
+                                            <li class="dropdown"><a href="2024-2025.php">2024-2025</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown"><a href="#">Comités <i
+                                                class="fas fa-angle-right dropdown-toggle"></i></a>
+                                        <ul class="dropdown-menu">
+                                            <li class="dropdown"><a href="comite_interno.php">Igualdad Laboral y No Disciminación</a>
+                                            </li>
+                                            <li class="dropdown"><a href="comite_etica.php">Comité de Ética</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown"><a href="#">Calidad <i
+                                                class="fas fa-angle-right dropdown-toggle"></i></a>
+                                        <ul class="dropdown-menu">
+                                            <li class="dropdown"><a href=".html">SIGCA</a></li>
+                                            <li class="dropdown"><a href=".html">Acceso Calidad</a></li>
+                                            <li class="dropdown"><a href=".html">Imagen Institucional</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown"><a href="marco_juridico.php">Marco Jurídico</a></li>
+                                    <li class="dropdown"><a href=".html">Comunicados</a></li>
+                                </ul>
+                            </li>
                                 
 
                         <li class="nav-item dropdown simple-dropdown">
