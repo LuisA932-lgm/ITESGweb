@@ -1526,7 +1526,7 @@
                 </td>
             </tr>
         </tbody>
-    </table>
+    </table><br>
     <p class="FE">Fecha de la última actualización de la Información: 16-10-2024</p>
 
 </body>
