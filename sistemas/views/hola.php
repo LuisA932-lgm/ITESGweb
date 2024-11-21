@@ -221,9 +221,10 @@ include("header.php");
             background: linear-gradient(to bottom, #e0e0e0 0, #fff 100%)
         }
         .acciones{
-            margin-left: 1200px;
+            margin-left: 1400px;
         }
     </style>
+    <div>
     <section class="acciones">
         <ul>
             <li class="print-icon">
@@ -238,6 +239,7 @@ include("header.php");
 
         </ul>
     </section>
+    </div>
 
     <center class="Ti">Información Financiera - Armonización Contable LGCG y LDF</center>
     <center>
