@@ -224,22 +224,7 @@ include("header.php");
             margin-left: 1400px;
         }
     </style>
-    <div>
-    <section class="acciones">
-        <ul>
-            <li class="print-icon">
-                <a href="https://www.itesg.edu.mx/hola.php?option=com_content&view=article&id=104:ejercicios-fiscales-2017-itesg-7&catid=2&Itemid=572&tmpl=component&print=1&layout=default&page=" title="Imprimir" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="icon-print"></span>&nbsp;Imprimir&nbsp;</a>
-            </li>
-
-            <li class="email-icon">
-                <a href="/index.php?option=com_mailto&amp;tmpl=component&amp;template=tx_zenith&amp;link=23fe950d33b07fc93d2cea773970da0670833ffc" title="Email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><span class="icon-envelope"></span> Email</a>
-            </li>
-
-
-
-        </ul>
-    </section>
-    </div>
+    
 
     <center class="Ti">Información Financiera - Armonización Contable LGCG y LDF</center>
     <center>
