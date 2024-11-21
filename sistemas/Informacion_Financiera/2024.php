@@ -138,7 +138,7 @@
         margin-top: 10px;
         font-weight: bold;
     }
-    .Fe{
+    .FE{
         font-size: 16px;
         color:black;
         margin-left: 15px;
