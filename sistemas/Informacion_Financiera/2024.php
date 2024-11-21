@@ -1616,7 +1616,7 @@
     <a style="color: #0073D1;" href="https://caceg.guanajuato.gob.mx/"> <i class="Armo" aria-hidden="true" title="Liga">
         </i> Consejo de Armonización Contable del Estado de Guanajuato</a>
 
-    <p align="center"><img src="images/logos/todos.jpg"></p>
+    <p align="center"><img src="https://www.itesg.edu.mx/images/logos/todos.jpg"></p>
 </body>
 
 </html>
