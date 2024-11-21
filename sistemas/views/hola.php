@@ -218,9 +218,10 @@ fieldset[disabled] .btn-primary:hover {
 }
 
 </style>
-<a href="/index.php?option=com_content&amp;view=article&amp;id=104:ejercicios-fiscales-2017-itesg-7&amp;catid=2&amp;Itemid=572&amp;tmpl=component&amp;print=1&amp;layout=default&amp;page=" 
+<a href="/hola.php?option=com_content&amp;view=article&amp;id=104:ejercicios-fiscales-2017-itesg-7&amp;catid=2&amp;Itemid=572&amp;tmpl=component&amp;print=1&amp;layout=default&amp;page=" 
 title="Imprimir" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); 
 return false;" rel="nofollow"><span class="icon-print"></span>&nbsp;Imprimir&nbsp;</a>
+<span class="icon-print"></span>
 
  <center class="Ti">Información Financiera - Armonización Contable LGCG y LDF</center>
   <center>   
