@@ -46,12 +46,12 @@ include 'header.php';
             for ($i = 0; $i < 6; $i++) {
                 if ($i < 3) {
                     echo '<div class="d-flex align-items-center my-3">
-            <img src="../images/comite/' . $img[0] . '"alt="Ícono de Código" class="me-3" style="width: 70px; height: 70px;"> target="_blank">
-            <a href="../images/comite/' . $ligas[$i] . '">';
+            <img src="../images/comite/' . $img[0] . '"alt="Ícono de Código" class="me-3" style="width: 70px; height: 70px;">
+            <a href="../images/comite/' . $ligas[$i] . '" target="_blank">';
                 } else {
                     echo '<div class="d-flex align-items-center my-3">
-            <img src="../images/comite/' . $img[1] . '"alt="Ícono de Código" class="me-3" style="width: 70px; height: 70px;"> target="_blank">
-            <a href="../images/comite/' . $ligas[$i] . '">';
+            <img src="../images/comite/' . $img[1] . '"alt="Ícono de Código" class="me-3" style="width: 70px; height: 70px;">
+            <a href="../images/comite/' . $ligas[$i] . '" target="_blank">';
                 }
                 echo 'Para descargar da click aquí
                 </a>
