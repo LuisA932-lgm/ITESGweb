@@ -170,6 +170,12 @@
         color: black;
         margin-top: -90px;
     }
+    .INGE{
+        margin-left: 100px;
+        color: black;
+        margin-top: -150px;
+        
+    }
 
 
     .table1 {
@@ -1579,6 +1585,13 @@
 
     </div>
 
+
+    <div class="INGE">
+        <td style="width: 34%;">Ing. Eduardo Rojas González <br>
+            Jefe de Departamento de Centro de Cómputo<br>
+            Tel. 473 73 4 78 78 Ext. 4
+        </td>
+    </div>
 </body>
 
 </html>
