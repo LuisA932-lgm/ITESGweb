@@ -13,13 +13,13 @@ include ("header.php");
         .article-body h3 {
             color: #039;
             font-family: 'Lato', sans-serif;
-            font-size: 28px;
+            font-size: 24px;
             font-weight: bold;
         }
         .article-body h4 {
             color: #b5812d;
             font-family: 'Lato', sans-serif;
-            font-size: 28px;
+            font-size: 24px;
             font-weight: bold;
         }
         .iconos {
@@ -31,13 +31,13 @@ include ("header.php");
         .article-body p {
             color: #333;
             font-family: 'Lato', sans-serif;
-            font-size: 24px;
+            font-size: 18px;
             font-weight: normal;
         }
         .article-body li{
             color: #333;
             font-family: 'Lato', sans-serif;
-            font-size: 24px;
+            font-size: 18px;
         }
     </style>
 </head>
@@ -65,9 +65,9 @@ include ("header.php");
                                     </li>
                                 </ul>
                             </section>
-                            <section class="article-body" style="padding: 0px; width: 1400px; height: 3800;">
+                            <section class="article-body" style="padding: 0px; width: 1400px; padding-left: 100px; padding-right: 100px;">
                                 <p align="center">
-                                    <img src="../images/headers/h_gestion.png" style="width: 1050px; height: 143; margin-right: 250px;">
+                                    <img src="../images/headers/h_gestion.png" style="margin-right: 200px;">
                                 </p>
                                 <table width="85%" align="center">
                                     <tbody>
