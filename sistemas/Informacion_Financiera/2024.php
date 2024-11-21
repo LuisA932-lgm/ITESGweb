@@ -166,7 +166,7 @@
     }
 
     .CPCL {
-        margin-left: 500px;
+        margin-left: 700px;
         color: black;
         margin-top: -90px;
     }
