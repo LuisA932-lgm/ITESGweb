@@ -30,6 +30,7 @@
         margin-bottom: 20px;
         margin-left: 15px;
     }
+
     .sub3 {
         color: rgb(181, 129, 45);
         font-size: 24px;
@@ -123,6 +124,12 @@
         margin-top: 10px;
         font-weight: bold;
     }
+    .IDFI{
+        font-size: 18px;
+        margin-left: 15px;
+        margin-top: 10px;
+        font-weight: bold;
+    }
 
 
     .table1 {
@@ -204,7 +211,15 @@
         margin-top: 13px;
         margin-left: 300px;
     }
+
     .table11 {
+        width: 1000px;
+        border-collapse: collapse;
+        border-radius: 5px;
+        margin-top: 13px;
+        margin-left: 300px;
+    }
+    .table12{
         width: 1000px;
         border-collapse: collapse;
         border-radius: 5px;
@@ -1437,15 +1452,35 @@
     <h2 class="sub3">Cuenta Pública</h2>
 
     <table align="center" width="70%" class="table11 ">
-                    <thead style="background-color: #0073D1; color: #FFFFFF"><tr><th>Nombre</th><th>Ir a</th></tr></thead>
+        <thead style="background-color: #0073D1; color: #FFFFFF">
+            <tr>
+                <th>Nombre</th>
+                <th>Ir a</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="background-color: #f8f8f9;">
+                <td style="width: 80%; color: black">Cuenta Pública</td>
+                <td style="width: 20%;">
+                    <a href="http://sed.guanajuato.gob.mx/CuentaPublica/public/main" target="_blank"> <img src="https://www.itesg.edu.mx/images/linkext.jpg" <="" td="">
+                    </a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <h3 class="IDFI" style="color: #FB008A">Información Disciplina Financiera</h3>
+    <table align="center" width="70%" class="table12">
+                    <thead style="background-color: #0073D1; color: #FFFFFF"><tr><th>Documento</th><th>Descarga</th></tr></thead>
                     <tbody>
-                    <tr style="background-color: #f8f8f9;">
-                        <td style="width: 80%; color: black">Cuenta Pública</td>
-                        <td style="width: 20%;">
-			<a href="http://sed.guanajuato.gob.mx/CuentaPublica/public/main" target="_blank"> <img src="https://www.itesg.edu.mx/images/linkext.jpg" <="" td="">
-                    </a></td></tr>
+					<tr style="background-color: #f8f8f9;">
+                        <td style="width: 80%;  color: black">Guía de cumplimiento</td>
+                         <td style="width: 20%;">
+                             <a href="" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                        </td>
+                    </tr>
                     </tbody>
                 </table>
+
 </body>
 
 </html>
