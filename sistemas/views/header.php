@@ -55,7 +55,7 @@
         .article-body a {
             color: blue;
             text-decoration: none;
-            font-size: 28px;
+            font-size: 15px;
         }
 
         .article-body a:hover {
@@ -80,14 +80,14 @@
         .article-body td {
             color: #333;
             font-family: 'Lato', sans-serif;
-            font-size: 24px;
+            font-size: 15px;
             font-weight: normal;
         }
 
         .article-body th {
             color: #333;
             font-family: 'Lato', sans-serif;
-            font-size: 24px;
+            font-size: 15px;
             font-weight: bold;
         }
 
