@@ -220,9 +220,7 @@ include("header.php");
             background: -webkit-linear-gradient(top, #e0e0e0 0, #fff 100%);
             background: linear-gradient(to bottom, #e0e0e0 0, #fff 100%)
         }
-        .acciones{
-            margin-left: 1400px;
-        }
+        
     </style>
     
 
@@ -248,15 +246,15 @@ include("header.php");
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
     function loadContent(year) {
-        // Realiza la solicitud AJAX para cargar únicamente el archivo correspondiente al año seleccionado
+        
         $.ajax({
-            url: `http://localhost/ITESGWEB/sistemas/Informacion_Financiera/${year}.php`, // Archivo PHP específico
+            url: `http://localhost/ITESGWEB/sistemas/Informacion_Financiera/${year}.php`, 
             type: "GET",
             success: function(response) {
-                $('#contentDiv').html(response); // Actualiza el contenido solo con la respuesta correspondiente
+                $('#contentDiv').html(response); 
             },
             error: function() {
-                $('#contentDiv').html('<p>Error al cargar el contenido. Por favor, intenta nuevamente.</p>'); // Manejo de errores
+                $('#contentDiv').html('<p>Error al cargar el contenido. Por favor, intenta nuevamente.</p>'); 
             }
         });
     }
