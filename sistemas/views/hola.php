@@ -218,6 +218,7 @@ fieldset[disabled] .btn-primary:hover {
 }
 
 </style>
+<span class="icon-print"></span>
 
  <center class="Ti">Información Financiera - Armonización Contable LGCG y LDF</center>
   <center>   
