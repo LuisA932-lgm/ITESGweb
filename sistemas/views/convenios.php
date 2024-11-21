@@ -1,20 +1,14 @@
 <?php
 include ("header.php");?>
 <style> 
-      h4 { 
-            color: #b5812d;
-            
-      }
-      h3{
-            color: #039;
-      }
+      h4 { color: #b5812d;}
+      h3{ color: #039;}
       .iconos{
             display: flex; 
             justify-content: flex-end;
             list-style: none;
             padding-top: 30px;
-      }
-
+            }
 </style>
 <head> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"></head>
 
