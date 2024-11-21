@@ -145,6 +145,12 @@
         margin-left: 15px;
         margin-top: 20px;
     }
+    .RI{
+        font-size: 17px;
+        color: black;
+        margin-left: 15px;
+        margin-top: 20px;
+    }
 
 
     .table1 {
@@ -1530,7 +1536,7 @@
     </table><br>
     <p class="FE">Fecha de la última actualización de la Información: 16-10-2024</p>
     <br>
-    <p><b>Responsables de la publicación de la Información:</b></p>
+    <p><b class="RI">Responsables de la publicación de la Información:</b></p>
 </body>
 
 </html>
