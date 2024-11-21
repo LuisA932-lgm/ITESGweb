@@ -186,6 +186,9 @@
     .consejo{
         margin-left: 15px;
     }
+    .Armo{
+        margin-left: 15px;
+    }
 
 
     .table1 {
@@ -1607,6 +1610,9 @@
 
     <a style="color: #0073D1; margin-top:-10px" href="http://www.conac.gob.mx/"> <i class="consejo" aria-hidden="true" title="Liga">
     </i> Consejo Nacional de Armonización Contable</a>
+
+    <a style="color: #0073D1;" href="https://caceg.guanajuato.gob.mx/"> <i class="Armo" aria-hidden="true" title="Liga">
+    </i> Consejo de Armonización Contable del Estado de Guanajuato</a>
 </body>
 
 </html>
