@@ -13,7 +13,7 @@ include ("header.php");
         .article-body h4 {
             color: #b5812d;
             font-family: 'Lato', sans-serif;
-            font-size: 28px;
+            font-size: 24px;
             font-weight: bold;
         }
     </style>
@@ -21,7 +21,7 @@ include ("header.php");
         .article-body p {
             color: darkblue;
             font-family: 'Lato', sans-serif;
-            font-size: 24px;
+            font-size: 18px;
             font-weight: normal;
         }
     </style>
@@ -69,8 +69,8 @@ include ("header.php");
                                     </li>
                                 </ul>
                             </section> 
-                            <section class="article-body" style="padding: 0px">
-                                <p align="center"><img src="../images/headers/h_becas.png" style="width: 1050px; height: 143px;"></p>
+                            <section class="article-body" style="padding-top: 0px; padding-bottom: 0px; padding-right: 150px; padding-left: 150px;">
+                                <p align="center"><img src="../images/headers/h_becas.png" style="width: 700px; height: 95px;"></p>
                                 <h4>Convocatoria Apoyos Internos ITESG AD2024</h4>
                                 <div class="alert alert-info">
                                     <a href="../images/documentos/conv_apoy_AD24.pdf" target="_blank"> 
