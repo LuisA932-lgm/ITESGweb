@@ -173,7 +173,7 @@
     .INGE{
         margin-left: 100px;
         color: black;
-        margin-top: -150px;
+        margin-top: 10px;
         
     }
 
