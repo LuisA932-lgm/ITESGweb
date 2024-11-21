@@ -186,6 +186,7 @@
     .consejo{
         margin-left: 15px;
         color: blue;
+        margin-top: 5px;
     }
 
 
@@ -1606,7 +1607,7 @@
 
     <p><b class="Enlaces">Enlaces:</b></p>
 
-    <a href="http://www.conac.gob.mx/"> <i class="fa fa-lg consejo" aria-hidden="true" title="Liga">
+    <a href="http://www.conac.gob.mx/"> <i class=" consejo" aria-hidden="true" title="Liga">
     </i> Consejo Nacional de Armonización Contable</a>
 </body>
 
