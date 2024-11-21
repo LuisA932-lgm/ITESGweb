@@ -16,7 +16,7 @@ include 'header.php';
                     <div class="alert alert-success mx-4 text-center">
                         <img src="../images/desc_pdf.png" width="44" height="50" alt="Icono de descarga"> 
                         <br>
-                        <a href="../images/documentos/' . $pdf[$i] . '" download="' . $pdf[$i] . '" target="_blank">
+                        <a href="../images/documentos/' . $pdf[$i] . '"  target="_blank">
                             Descarga aquí
                         </a>
                     </div>';
@@ -60,7 +60,7 @@ include 'header.php';
                         <div class="alert alert-success mx-4 text-center">
                             <img src="../images/desc_pdf.png" width="44" height="50" alt="Icono de descarga"> 
                             <br>
-                            <a href="../images/documentos/' . $pdf[$i] . '" download="' . $pdf[$i] . '" target="_blank">
+                            <a href="../images/documentos/' . $pdf[$i] . '"  target="_blank">
                                 Descarga aquí
                             </a>
                         </div>';
