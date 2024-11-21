@@ -3,39 +3,45 @@ include 'header.php';
 ?>
 <header>
     <style>
-        /* Estilo para los botones de control (prev y next) */
+        /* Reducir el tamaño de las imágenes */
+        .carousel-inner img {
+            width: 80%; /* Reduce al 75% del ancho disponible */
+            margin: 0 auto; /* Centrar las imágenes */
+            border-radius: 10px; /* Opcional: bordes redondeados */
+        }
+
+        /* Estilizar los botones de navegación */
         .carousel-control-prev,
         .carousel-control-next {
-            transition: background-color 0.3s ease;
+            width: 50px; /* Hacer los botones más pequeños */
+            height: 50px; /* Hacer los botones más pequeños */
+            background-color: rgba(0, 0, 0, 0.5); /* Color sólido con transparencia */
+            border-radius: 50%; /* Botones circulares */
+            top: 50%; /* Centrar verticalmente */
+            transform: translateY(-50%);
         }
 
-        /* Estilo para los botones cuando el usuario pasa el cursor sobre ellos */
+        /* Colocar los botones más cerca de los lados */
+        .carousel-control-prev {
+            left: -25px; /* Ajusta la posición hacia la izquierda */
+        }
+
+        .carousel-control-next {
+            right: -25px; /* Ajusta la posición hacia la derecha */
+        }
+
+        /* Cambiar color al pasar el cursor sobre los botones */
         .carousel-control-prev:hover,
         .carousel-control-next:hover {
-            background-color: rgba(0, 0, 0, 0.3);
-            /* Oscurece el fondo con un color negro semitransparente */
+            background-color: rgba(0, 0, 0, 0.8); /* Color más oscuro */
         }
-        <style>
-        /* Agregar un margen al carrusel */
-        #carouselExampleIndicators {
-            margin: 20px;
-        }
+        .carousel-control-prev {
+        left: 5px; /* Ajusta la posición hacia la imagen */
+    }
 
-        /* Agregar margen a los controles de las flechas */
-        .carousel-control-prev, .carousel-control-next {
-            margin: 0 10px;
-        }
-
-        /* Si deseas que las imágenes del carrusel tengan un pequeño margen entre ellas */
-        .carousel-inner {
-            margin: 0 20px;
-        }
-
-        /* Si prefieres darle más espacio alrededor de las imágenes dentro del carrusel */
-        .carousel-item img {
-            border-radius: 10px; /* Opcional: bordes redondeados */
-            margin: 10px;
-        }
+    .carousel-control-next {
+        right: 5px; /* Ajusta la posición hacia la imagen */
+    }
     </style>
 </header>
 
@@ -57,16 +63,16 @@ include 'header.php';
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="../images/mision.jpg" class="d-block w-100" alt="...">
+                <img src="../images/mision.jpg" class="d-block" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="../images/vision.jpg" class="d-block w-100" alt="...">
+                <img src="../images/vision.jpg" class="d-block" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="../images/valores.jpg" class="d-block w-100" alt="...">
+                <img src="../images/valores.jpg" class="d-block" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="../images/pol_calidad.jpg" class="d-block w-100" alt="...">
+                <img src="../images/pol_calidad.jpg" class="d-block" alt="...">
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
