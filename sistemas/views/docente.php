@@ -8,7 +8,7 @@ include 'header.php';
             <div class="text-center">
                 <img src="../images/headers/h_directorio.jpg">
             </div>
-            <h4 style="font-size:200%;" align="center">PERSONAL DOCENTE DE TIEMPO COMPLETO</h4>
+            <h4  align="center">PERSONAL DOCENTE DE TIEMPO COMPLETO</h4>
             <?php
             $nombre = [
                 "Angélica González Páramo",
@@ -122,7 +122,7 @@ include 'header.php';
             echo '</tbody>
     </table>';
             ?>
-            <h4 style="font-size:200%;" align="center">PERSONAL DOCENTE DE ASIGNATURA</h4>
+            <h4  align="center">PERSONAL DOCENTE DE ASIGNATURA</h4>
             <?php
             $nombre = [
                 "Alejandro Castillo Esparza",
