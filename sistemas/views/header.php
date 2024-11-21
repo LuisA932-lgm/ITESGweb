@@ -292,7 +292,7 @@
                             <i class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
                             <ul class="dropdown-menu" role="menu">
 
-                                <li class="dropdown"><a href=".html">Convenios</a></li>
+                                <li class="dropdown"><a href="convenios.php">Convenios</a></li>
                                 <li class="dropdown"><a href=".html">Bolsa de Trabajo y Residencias</a></li>
                             </ul>
                         </li>
@@ -307,10 +307,10 @@
                                 <li class="dropdown">
                                     <a data-bs-toggle="dropdown" href="mantenimiento.html">Informe de Rendición de Cuentas<i class="fas fa-angle-right dropdown-toggle"></i></a>
                                     <ul class="dropdown-menu">
-                                    <li><a href=".html">IRC 2021</a></li>
-                                    <li><a href=".html">IRC 2022</a></li>
+                                    <li><a href="https://drive.google.com/file/d/1D0ZjDago7ph8qo2dgIgH4Shj4u3VR71Y/view?usp=share_link">IRC 2022</a></li>
+                                    <li><a href="https://drive.google.com/file/d/1_XScU36e2jqOHIZ5u5z6LClWNf1BGppY/view?usp=sharing">IRC 2023</a></li>
                                 </ul>
-                                <li class="dropdown"><a href=".html">Igualdad de Género y No Discriminación TecNM</a></li>
+                                <li class="dropdown"><a href="Igualdadgenero.php">Igualdad de Género y No Discriminación TecNM</a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown simple-dropdown">
