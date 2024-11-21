@@ -1556,26 +1556,29 @@
     <p class="FE">Fecha de la última actualización de la Información: 16-10-2024</p>
     <br>
     <p><b class="RI">Responsables de la publicación de la Información:</b></p>
-    <tr>
-        <div class="LICF">
-            <td style="width: 33%;">Lic. Félix Valencia Rocha <br>
-                Subdirector de Administración y Finanzas <br>
-                Tel. 473 73 4 78 78 Ext. 4
-            </td>
-        </div>
 
-        <div class="CPC">
-            <td style="width: 33%;">C.P. Clara Vanesa Villar García<br>
-                Jefa de Departamento de Recursos Financieros<br>
-                Tel. 473 73 4 78 78 Ext. 4
-            </td>
-        </div>
+    <div class="LICF">
+        <td style="width: 33%;">Lic. Félix Valencia Rocha <br>
+            Subdirector de Administración y Finanzas <br>
+            Tel. 473 73 4 78 78 Ext. 4
+        </td>
+    </div>
 
-        <div class="CPCL">
+    <div class="CPC">
+        <td style="width: 33%;">C.P. Clara Vanesa Villar García<br>
+            Jefa de Departamento de Recursos Financieros<br>
+            Tel. 473 73 4 78 78 Ext. 4
+        </td>
+    </div>
 
+    <div class="CPCL">
+        <td style="width: 34%;">C.P. Claudia Jaqueline García Juárez<br>
+            Jefa de Departamento de Planeación, Programación y Presupuesto <br>
+            Tel. 473 73 4 78 78 Ext. 3
+        </td>
 
-        </div>
-    </tr>
+    </div>
+
 </body>
 
 </html>
