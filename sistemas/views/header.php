@@ -30,6 +30,80 @@
         };
     </script>
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js"></script>
+    <style>
+        .article-body h3 {
+            color: #039;
+            font-family: 'Lato', sans-serif;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        .article-body h4 {
+            color: #b5812d;
+            font-family: 'Lato', sans-serif;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        .article-body h5 {
+            color: #b5812d;
+            font-family: 'Lato', sans-serif;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        .article-body a {
+            color: blue;
+            text-decoration: none;
+            font-size: 28px;
+        }
+
+        .article-body a:hover {
+            color: darkblue;
+            text-decoration: underline;
+        }
+
+        .iconos {
+            display: flex;
+            justify-content: flex-end;
+            list-style: none;
+            padding-top: 30px;
+        }
+
+        .article-body p {
+            color: #333;
+            font-family: 'Lato', sans-serif;
+            font-size: 24px;
+            font-weight: normal;
+        }
+
+        .article-body td {
+            color: #333;
+            font-family: 'Lato', sans-serif;
+            font-size: 24px;
+            font-weight: normal;
+        }
+
+        .article-body th {
+            color: #333;
+            font-family: 'Lato', sans-serif;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .article-body li {
+            color: #333;
+            font-family: 'Lato', sans-serif;
+            font-size: 24px;
+        }
+
+        .img-full-width {
+            width: 100%;
+            /* Hace que la imagen ocupe todo el ancho del contenedor */
+            height: auto;
+            /* Mantiene la proporción de la imagen */
+        }
+    </style>
 </head>
 
 <body data-mobile-nav-style="classic">
