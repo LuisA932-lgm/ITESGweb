@@ -122,6 +122,9 @@ include 'header.php';
             echo '</tbody>
     </table>';
             ?>
+            <br>
+            <br>
+            <br>
             <h4  align="center">PERSONAL DOCENTE DE ASIGNATURA</h4>
             <?php
             $nombre = [
