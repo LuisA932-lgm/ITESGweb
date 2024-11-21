@@ -160,13 +160,13 @@
     }
 
     .CPC {
-        margin-left: 500px;
+        margin-left: 300px;
         color: black;
         margin-top: -90px;
     }
 
     .CPCL {
-        margin-left: 700px;
+        margin-left: 600px;
         color: black;
         margin-top: -90px;
     }
