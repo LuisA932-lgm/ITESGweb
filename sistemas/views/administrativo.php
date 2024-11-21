@@ -1,5 +1,5 @@
 <?php
-include $_SERVER['DOCUMENT_ROOT'] . '/sistemas/views/header.php';
+include 'header.php';
 ?>
 <head>
 
@@ -9,7 +9,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/sistemas/views/header.php';
 <article class="article fulltext ">
 <section class="article-body">
     <div class="text-center">
-        <img src="/sistemas/images/headers/h_directorio.jpg">
+        <img src="../images/headers/h_directorio.jpg">
     </div>
     <h4 style="font-size:200%;">Dirección General</h4>
     <?php
@@ -312,5 +312,5 @@ include $_SERVER['DOCUMENT_ROOT'] . '/sistemas/views/header.php';
     </article>
 </body>
 <?php
-include $_SERVER['DOCUMENT_ROOT'] . '/sistemas/views/footer.php';
+include $_SERVER['DOCUMENT_ROOT'] . '../views/footer.php';
 ?>
