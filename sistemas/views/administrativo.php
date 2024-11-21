@@ -17,7 +17,7 @@ include 'header.php';
     $puesto = ["Director(a) General", "Abogado(a) General", "Ing. en Sistemas/ Coordinador(a) De Proyectos Institucionales", "Secretaria(o) de Dirección General", "Analista Especializado", "Capturista de Abogada General", "Chofer del Director"];
     $correo = ["eusebio.vp@guanajuato.tecnm.mx", "aide.mm@guanajuato.tecnm.mx", "luis.rp@guanajuato.tecnm.mx", "ma.sp@guanajuato.tecnm.mx", "jose.gf@guanajuato.tecnm.mx", "juana.sl@guanajuato.tecnm.mx", "eduardo.rm@guanajuato.tecnm.mx"];
     $telefono = "473 73 47878";
-    echo '<table class="table">
+    echo '<table class="tables mx-5">
         <thead>
             <tr>
                 <th scope="col">Nombre</th>
@@ -105,7 +105,7 @@ include 'header.php';
 
     $telefono = "473 73 47878";
 
-    echo '<table class="table">
+    echo '<table class="tables mx-5">
         <thead>
             <tr>
                 <th scope="col">Nombre</th>
@@ -196,7 +196,7 @@ include 'header.php';
         "@guanajuato.tecnm.mx"
     ];
     $telefono = "473 73 47878";
-    echo '<table class="table">
+    echo '<table class="tables mx-5">
         <thead>
             <tr>
                 <th scope="col">Nombre</th>
@@ -281,7 +281,7 @@ include 'header.php';
 
     $telefono = "473 73 47878";
 
-    echo '<table class="table">
+    echo '<table class="tables mx-5">
         <thead>
             <tr>
                 <th scope="col">Nombre</th>
