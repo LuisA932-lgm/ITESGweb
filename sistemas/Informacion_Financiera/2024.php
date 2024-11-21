@@ -145,16 +145,23 @@
         margin-left: 15px;
         margin-top: 20px;
     }
-    .RI{
+
+    .RI {
         font-size: 17px;
         color: black;
         margin-left: 15px;
         margin-top: 20px;
     }
-    .LICF{
-        margin-left:150px;
-        color:black;
-    
+
+    .LICF {
+        margin-left: 100px;
+        color: black;
+
+    }
+
+    .CPC {
+        margin-left: 100px;
+        color: black;
     }
 
 
@@ -1544,8 +1551,15 @@
     <p><b class="RI">Responsables de la publicación de la Información:</b></p>
 
     <div class="LICF">
-    <td style="width: 33%;">Lic. Félix Valencia Rocha <br>
-        Subdirector de Administración y Finanzas <br>
+        <td style="width: 33%;">Lic. Félix Valencia Rocha <br>
+            Subdirector de Administración y Finanzas <br>
+            Tel. 473 73 4 78 78 Ext. 4
+        </td>
+    </div>
+
+    <div class="CPC">
+    <td style="width: 33%;">C.P. Clara Vanesa Villar García<br>
+        Jefa de Departamento de Recursos Financieros<br>
         Tel. 473 73 4 78 78 Ext. 4 
     </td>
     </div>
