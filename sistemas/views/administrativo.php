@@ -312,5 +312,5 @@ include 'header.php';
     </article>
 </body>
 <?php
-include $_SERVER['DOCUMENT_ROOT'] . '../views/footer.php';
+include 'footer.php';
 ?>
