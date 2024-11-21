@@ -176,6 +176,11 @@
         margin-top: 10px;
         
     }
+    .Enlaces{
+        font-size: 17px;
+        color: black;
+        margin-left: 15px;
+    }
 
 
     .table1 {
@@ -1591,9 +1596,9 @@
             Jefe de Departamento de Centro de Cómputo<br>
             Tel. 473 73 4 78 78 Ext. 4
         </td>
-    </div>
+    </div><br>
 
-    <p><b>Enlaces:</b></p>
+    <p><b class="Enlaces">Enlaces:</b></p>
 </body>
 
 </html>
