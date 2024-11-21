@@ -8,7 +8,7 @@ include 'header.php';
         <h1 class="page-title">
             Artículos </h1>
     </header>
-    <article class="article fulltext ">
+    <article class="article fulltext mx-5">
         <section class="article-body">
             <p align="center"><img src="../images/comite/titulo_ciilynd.png" alt="Titulo_ILyND"></p><br>
 
