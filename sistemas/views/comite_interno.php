@@ -13,7 +13,7 @@ include 'header.php';
             <p align="center"><img src="../images/comite/titulo_ciilynd.png" alt="Titulo_ILyND"></p><br>
 
             <left>
-                <h2>Introducción.</h2>
+                <h4>Introducción.</h4>
             </left><br>
             <div align="justify">
                 <font face="Arial,Verdana">
@@ -44,7 +44,7 @@ include 'header.php';
             </div><br>
 
             <left>
-                <h2>Política y Código.</h2>
+                <h4>Política y Código.</h4>
             </left><br>
             <div align="justify">
                 <font face="Arial,Verdana">
@@ -112,7 +112,7 @@ include 'header.php';
                 <p> <br><br></p>
 
                 <left>
-                    <h2>Comité Interno de Igualdad Laboral y No Discriminación (CIILyND).</h2>
+                    <h4>Comité Interno de Igualdad Laboral y No Discriminación (CIILyND).</h4>
                 </left><br>
                 <div align="justify">
                     <font face="Arial,Verdana">
@@ -155,7 +155,7 @@ include 'header.php';
                     <p> <br><br><br></p>
 
                     <left>
-                        <h2>Clima laboral.</h2>
+                        <h4>Clima laboral.</h4>
                     </left><br>
                     <div align="justify">
                         <font face="Arial,Verdana">
@@ -175,7 +175,7 @@ include 'header.php';
                         <p> <br><br><br></p>
 
                         <left>
-                            <h2>Acciones dentro del ITESG.</h2>
+                            <h4>Acciones dentro del ITESG.</h4>
                         </left><br>
 
                         <table style="margin: 0 auto;">
@@ -210,7 +210,7 @@ include 'header.php';
                         <p> <br><br><br></p>
 
                         <left>
-                            <h2>Atención de quejas.</h2>
+                            <h4>Atención de quejas.</h4>
                         </left><br>
 
                         <p align="center"><img src="../images/comite/ombusperson_ciilynd.jpg" alt="Ombudsperson"
