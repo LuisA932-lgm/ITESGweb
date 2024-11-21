@@ -1,12 +1,17 @@
 <?php
 include $_SERVER['DOCUMENT_ROOT'] . '/sistemas/views/header.php';
 ?>
+<head>
+
+</head>
 
 <body>
+<article class="article fulltext ">
+<section class="article-body">
     <div class="text-center">
         <img src="/sistemas/images/headers/h_directorio.jpg">
     </div>
-    <h2 style="font-size:200%;">Dirección General</h2>
+    <h4 style="font-size:200%;">Dirección General</h4>
     <?php
     $nombre = ["Eusebio Vega Pérez", "Aide Alejandra Murillo Moreno", "Luis Felipe Rosales Ponce", "Ma. Magdalena Alicia Sánchez Palafox", "José Alberto González Flores", "Juana Micaela Salazar López", "Eduardo Emiliano Ruíz Morfin"];
     $puesto = ["Director(a) General", "Abogado(a) General", "Ing. en Sistemas/ Coordinador(a) De Proyectos Institucionales", "Secretaria(o) de Dirección General", "Analista Especializado", "Capturista de Abogada General", "Chofer del Director"];
@@ -39,7 +44,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/sistemas/views/header.php';
     echo '</tbody>
     </table>';
     ?>
-    <h2 style="font-size:200%;">Subdirección Académica</h2>
+    <h4 style="font-size:200%;">Subdirección Académica</h4>
     <?php
     $nombre = [
         "Nicte-Ha Mejía Vázquez",
@@ -127,7 +132,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/sistemas/views/header.php';
     echo '</tbody>
     </table>';
     ?>
-    <h2 style="font-size:200%;">Subdirección de Planeación y Vinculación</h2>
+    <h4 style="font-size:200%;">Subdirección de Planeación y Vinculación</h4>
     <?php
     $nombre = [
         "Carmen del Rosio Esparza Valencia",
@@ -218,7 +223,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/sistemas/views/header.php';
     echo '</tbody>
     </table>';
     ?>
-    <h2 style="font-size:200%;">Subdirección de Administración y Finanzas</h2>
+    <h4 style="font-size:200%;">Subdirección de Administración y Finanzas</h4>
     <?php
     $nombre = [
         "Félix Valencia Rocha",
@@ -303,6 +308,8 @@ include $_SERVER['DOCUMENT_ROOT'] . '/sistemas/views/header.php';
     echo '</tbody>
     </table>';
     ?>
+    </section>
+    </article>
 </body>
 <?php
 include $_SERVER['DOCUMENT_ROOT'] . '/sistemas/views/footer.php';
