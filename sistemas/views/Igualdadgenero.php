@@ -1,20 +1,14 @@
 <?php
 include ("header.php");?>
 <style> 
-      h4 { 
-            color: #b5812d;
-            
-      }
-      h3{
-            color: #039;
-      }
+      h4 { color: #b5812d;}
+      h3{color: #039;}
       .iconos{
             display: flex; 
             justify-content: flex-end;
             list-style: none;
             padding-top: 30px;
-      }
-
+            }
 </style>
 <head> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"></head>
 
@@ -136,7 +130,6 @@ Campaña de difusión que se realiza desde el Sistema de Gestión de Igualdad de
   <h4 style="center; font-size: 30px; font-weight: bold; margin-left: 1cm; margin-right: 1cm;">Violencia Emocional</h4><div class=""><img src='../images/display/20violencia_emocional.jpg' class="w-85 mx-auto">
        <hr class="dotted"> </div></td>
 </tr>
-
 
 </tbody>
 </table>
