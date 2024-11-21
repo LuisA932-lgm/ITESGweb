@@ -221,7 +221,7 @@ include("header.php");
             background: linear-gradient(to bottom, #e0e0e0 0, #fff 100%)
         }
         .acciones{
-            margin-left: 3000px;
+            margin-left: 1200px;
         }
     </style>
     <section class="acciones">
