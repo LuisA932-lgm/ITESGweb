@@ -97,7 +97,7 @@ include 'header.php';
                 "ana.lo@guanajuato.tecnm.mx"
             ];
 
-            echo '<table class="table">
+            echo '<table class="table mx-5">
         <thead>
             <tr>
                 <th scope="col">Nombre</th>
@@ -236,7 +236,7 @@ include 'header.php';
             ];
 
 
-            echo '<table class="table">
+            echo '<table class="table mx-5">
         <thead>
             <tr>
                 <th scope="col">Nombre</th>
