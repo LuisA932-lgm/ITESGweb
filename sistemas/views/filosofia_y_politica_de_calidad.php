@@ -1,5 +1,5 @@
 <?php
-include $_SERVER['DOCUMENT_ROOT'] . '/sistemas/views/header.php';
+include 'header.php';
 ?>
 <header>
     <style>
@@ -41,7 +41,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/sistemas/views/header.php';
 
 <body>
     <div class="text-center">
-        <img src='/sistemas/images/headers/h_politica.jpg' class="w-25 mx-auto">
+        <img src='../images/headers/h_politica.jpg' class="w-25 mx-auto">
     </div>
     <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-bs-ride="carousel"
         data-bs-interval="7000">
@@ -57,16 +57,16 @@ include $_SERVER['DOCUMENT_ROOT'] . '/sistemas/views/header.php';
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="/sistemas/images/mision.jpg" class="d-block w-100" alt="...">
+                <img src="../images/mision.jpg" class="d-block w-100" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="/sistemas/images/vision.jpg" class="d-block w-100" alt="...">
+                <img src="../images/vision.jpg" class="d-block w-100" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="/sistemas/images/valores.jpg" class="d-block w-100" alt="...">
+                <img src="../images/valores.jpg" class="d-block w-100" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="/sistemas/images/pol_calidad.jpg" class="d-block w-100" alt="...">
+                <img src="../images/pol_calidad.jpg" class="d-block w-100" alt="...">
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
@@ -83,5 +83,5 @@ include $_SERVER['DOCUMENT_ROOT'] . '/sistemas/views/header.php';
 </body>
 
 <?php
-include $_SERVER['DOCUMENT_ROOT'] . '/sistemas/views/footer.php';
+include 'footer.php';
 ?>
