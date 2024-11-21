@@ -22,5 +22,5 @@ include 'header.php';
 </body>
 
 <?php
-include $_SERVER['DOCUMENT_ROOT'] . '/sistemas/views/footer.php';
+include 'footer.php';
 ?>
