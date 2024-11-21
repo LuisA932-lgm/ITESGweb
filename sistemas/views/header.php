@@ -164,7 +164,7 @@
 
 
                     <div class="col text-center wow animate__fadeIn" data-wow-delay="0.8s">
-                        <a href="https://surguanajuato.tecnm.mx"><img src="../images/grecas/client-logo-7.png" alt=""/></a>
+                        <a href="https://surguanajuato.tecnm.mx"><img src="../images/grecas/client-logo-7.png" alt="" height="342px" width="136px"/></a>
                     </div>
 
                 </div>
@@ -318,7 +318,7 @@
                                 <li class="dropdown"><a href="tecnm.mx">Estudiantes</a></li>
                                 <li class="dropdown"><a href="guia.html">Control Escolar</a></li>
                                 <li class="dropdown"><a href="tecnm.mx">Inscripciones / Reinscripciones</a></li>
-                                <li class="dropdown"><a href="tecnm.mx">Becas</a></li>
+                                <li class="dropdown"><a href="becas.php">Becas</a></li>
                                 <li class="dropdown"><a href="guia.html">Deporte y Cultura</a></li>
                                 <li class="dropdown"><a href="tecnm.mx">Residencias profesionales</a></li>
                                 <li class="dropdown"><a href="tecnm.mx">Proyección internacional</a></li>
@@ -375,11 +375,11 @@
                             <a href="#" class="nav-link">Oferta Educativa</a>
                             <i class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
                             <ul class="dropdown-menu" role="menu">
-                                <li class="dropdown"><a href=".html">Ingeniería en Gestión Empresarial</a></li>
-                                <li class="dropdown"><a href=".html">Industrias Alimentarias&oacute;n</a></li>
-                                <li class="dropdown"><a href=".html">Ingeniería en Sistemas Computacionales</a></li>
-                                <li class="dropdown"><a href=".html">Ingeniería Industrial</a></li>
-                                <li class="dropdown"><a href=".mx">Ingeniería en Mecatrónica</a></li>
+                                <li class="dropdown"><a href="gestion.php">Ingeniería en Gestión Empresarial</a></li>
+                                <li class="dropdown"><a href="alimentarias.php">Industrias Alimentarias&oacute;n</a></li>
+                                <li class="dropdown"><a href="sistemas.php">Ingeniería en Sistemas Computacionales</a></li>
+                                <li class="dropdown"><a href="industrial.php">Ingeniería Industrial</a></li>
+                                <li class="dropdown"><a href="mecatronica.php">Ingeniería en Mecatrónica</a></li>
                             </ul>
                         </li>
 
