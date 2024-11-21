@@ -1,12 +1,12 @@
 <?php
-include $_SERVER['DOCUMENT_ROOT'] . '/sistemas/views/header.php';
+include 'header.php';
 ?>
 
 <body>
     <article class="article fulltext ">
         <section class="article-body">
             <div class="text-center">
-                <img src="/sistemas/images/headers/marc_jur.png">
+                <img src="../images/headers/marc_jur.png">
                 <h3 style="font-size:300%;">General</h3>
                 <?php
                 $texto = ["Decreto de creación", "Estatuto orgánico", "Manual de organización"];
@@ -14,9 +14,9 @@ include $_SERVER['DOCUMENT_ROOT'] . '/sistemas/views/header.php';
                 for ($i = 0; $i < 3; $i++) {
                     echo '<h4>' . $texto[$i] . '</h4>
                     <div class="alert alert-success mx-4 text-center">
-                        <img src="/sistemas/images/desc_pdf.png" width="44" height="50" alt="Icono de descarga"> 
+                        <img src="../images/desc_pdf.png" width="44" height="50" alt="Icono de descarga"> 
                         <br>
-                        <a href="/sistemas/images/documentos/' . $pdf[$i] . '" download="' . $pdf[$i] . '" target="_blank">
+                        <a href="../images/documentos/' . $pdf[$i] . '" download="' . $pdf[$i] . '" target="_blank">
                             Descarga aquí
                         </a>
                     </div>';
@@ -58,9 +58,9 @@ include $_SERVER['DOCUMENT_ROOT'] . '/sistemas/views/header.php';
                 for ($i = 0; $i < 7; $i++) {
                     echo '<h4>' . $texto[$i] . '</h4>
                         <div class="alert alert-success mx-4 text-center">
-                            <img src="/sistemas/images/desc_pdf.png" width="44" height="50" alt="Icono de descarga"> 
+                            <img src="../images/desc_pdf.png" width="44" height="50" alt="Icono de descarga"> 
                             <br>
-                            <a href="/sistemas/images/documentos/' . $pdf[$i] . '" download="' . $pdf[$i] . '" target="_blank">
+                            <a href="../images/documentos/' . $pdf[$i] . '" download="' . $pdf[$i] . '" target="_blank">
                                 Descarga aquí
                             </a>
                         </div>';
@@ -74,5 +74,5 @@ include $_SERVER['DOCUMENT_ROOT'] . '/sistemas/views/header.php';
 
 </body>
 <?php
-include $_SERVER['DOCUMENT_ROOT'] . '/sistemas/views/footer.php';
+include 'footer.php';
 ?>
