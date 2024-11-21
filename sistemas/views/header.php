@@ -242,20 +242,20 @@
                                                         class="fas fa-angle-right dropdown-toggle"></i></a>
                                                 <ul class="dropdown-menu">
                                                     <li class="dropdown"><a
-                                                            href="/sistemas/images/display/datos_contacto.jpg"
+                                                            href="../images/display/datos_contacto.jpg"
                                                             target="_blank">Datos Contacto</a></li>
-                                                    <li class="dropdown"><a href="/sistemas/images/display/adm_insc.jpg"
+                                                    <li class="dropdown"><a href="../images/display/adm_insc.jpg"
                                                             target="_blank">Admisión Inscripción</a></li>
                                                     <li class="dropdown"><a
-                                                            href="/sistemas/images/display/aviso_titulacion.jpg"
+                                                            href="../images/display/aviso_titulacion.jpg"
                                                             target="_blank">Titulación</a></li>
                                                 </ul>
                                             </li>
                                             <li class="dropdown"><a
-                                                    href="/sistemas/images/display/avisoprivacidadrh.jpg"
+                                                    href="../images/display/avisoprivacidadrh.jpg"
                                                     target="_blank">Recursos Humanos</a></li>
                                             <li class="dropdown"><a
-                                                    href="/sistemas/images/display/aviso_priv_compras.jpg"
+                                                    href="../images/display/aviso_priv_compras.jpg"
                                                     target="_blank">Compras</a></li>
                                         </ul>
                                     </li>
