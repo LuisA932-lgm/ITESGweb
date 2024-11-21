@@ -13,7 +13,7 @@ include 'header.php';
                 $pdf = ["decreto_itesg.pdf", "estatuto_itesg.pdf", "Manual_organización_24_08_16.pdf"];
                 for ($i = 0; $i < 3; $i++) {
                     echo '<h4>' . $texto[$i] . '</h4>
-                    <div class="alert alert-success mx-4 text-center">
+                    <div class="alert alert-success mx-5 text-center">
                         <img src="../images/desc_pdf.png" width="44" height="50" alt="Icono de descarga"> 
                         <br>
                         <a href="../images/documentos/' . $pdf[$i] . '"  target="_blank">
@@ -57,7 +57,7 @@ include 'header.php';
                 ];
                 for ($i = 0; $i < 7; $i++) {
                     echo '<h4>' . $texto[$i] . '</h4>
-                        <div class="alert alert-success mx-4 text-center">
+                        <div class="alert alert-success mx-5 text-center">
                             <img src="../images/desc_pdf.png" width="44" height="50" alt="Icono de descarga"> 
                             <br>
                             <a href="../images/documentos/' . $pdf[$i] . '"  target="_blank">
