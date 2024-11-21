@@ -34,7 +34,10 @@ include ("header.php");?>
 </section>
 
 <p align="center"><img src="../images/headers/h_convenios.png"></p>
-<table class="table table-condensed" width="85%" align="center">
+<table class="table table-condensed" width="85%" align="center" 
+       style="border-left: 180px solid white; 
+              border-right: 180px solid white; 
+              border-collapse: collapse;">
   <thead>
 </thead>
 
@@ -137,7 +140,10 @@ include ("header.php");?>
 
 
 <p align="center"><img src="../images/headers/h_publicos.png"></p>
-<table class="table table-condensed" width="85%" align="center">
+<table class="table table-condensed" width="85%" align="center" 
+       style="border-left: 180px solid white; 
+              border-right: 180px solid white; 
+              border-collapse: collapse;">
   <thead>
 </thead>
 
