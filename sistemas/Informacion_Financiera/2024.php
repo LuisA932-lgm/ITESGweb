@@ -160,9 +160,9 @@
     }
 
     .CPC {
-        margin-left: 400px;
+        margin-left: 500px;
         color: black;
-        margin-top:10px;
+        margin-top:80px;
     }
 
 
