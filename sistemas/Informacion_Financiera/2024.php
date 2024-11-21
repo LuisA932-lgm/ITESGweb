@@ -154,6 +154,7 @@
     .LIC.F{
         margin-left:25px;
         color:black;
+    
     }
 
 
