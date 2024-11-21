@@ -327,27 +327,27 @@
             <tr>
                 <td style="width: 80%; color:black">Información Adicional a la Iniciativa de Ingresos</td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/1.INF.%20ADICIONAL%20INIC.%20INGRESOS%20ITSG%202024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="/LGCGyLDF/EJ2024/1.INF.%20ADICIONAL%20INIC.%20INGRESOS%20ITSG%202024.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/1.INF.%20ADICIONAL%20INIC.%20INGRESOS%20ITSG%202024.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/1.INF.%20ADICIONAL%20INIC.%20INGRESOS%20ITSG%202024.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Dictámenes Acuerdo y Actas </td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/Dictamenes_Acuerdo_y_Actas_ingreso_2024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="/LGCGyLDF/EJ2024/Dictamenes_Acuerdo_y_Actas_ingreso_2024.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 80%; color:black">Ley de Ingresos </td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/Ley_de_Ingresos_2024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="/LGCGyLDF/EJ2024/Ley_de_Ingresos_2024.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Calendario de Ingresos</td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/2.CALENDARIO%20INGRESOS%20ITSG%202024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="/LGCGyLDF/EJ2024/2.CALENDARIO%20INGRESOS%20ITSG%202024.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="/LGCGyLDF/EJ2024/2.CALENDARIO%20INGRESOS%20ITSG%202024.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="/LGCGyLDF/EJ2024/2.CALENDARIO%20INGRESOS%20ITSG%202024.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
         </tbody>
