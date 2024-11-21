@@ -152,7 +152,7 @@
         margin-top: 20px;
     }
     .LICF{
-        margin-left:25px;
+        margin-left:40px;
         color:black;
     
     }
