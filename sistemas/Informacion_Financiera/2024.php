@@ -1543,10 +1543,12 @@
     <br>
     <p><b class="RI">Responsables de la publicación de la Información:</b></p>
 
-    <td class="LICF" style="width: 33%;">Lic. Félix Valencia Rocha <br>
+    <div class="LICF">
+    <td style="width: 33%;">Lic. Félix Valencia Rocha <br>
         Subdirector de Administración y Finanzas <br>
         Tel. 473 73 4 78 78 Ext. 4 
     </td>
+    </div>
 </body>
 
 </html>
