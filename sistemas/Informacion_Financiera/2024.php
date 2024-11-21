@@ -1537,6 +1537,11 @@
     <p class="FE">Fecha de la última actualización de la Información: 16-10-2024</p>
     <br>
     <p><b class="RI">Responsables de la publicación de la Información:</b></p>
+
+    <td style="width: 33%;">Lic. Félix Valencia Rocha <br>
+        Subdirector de Administración y Finanzas <br>
+        Tel. 473 73 4 78 78 Ext. 4 
+    </td>
 </body>
 
 </html>
