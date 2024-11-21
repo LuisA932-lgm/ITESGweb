@@ -1609,7 +1609,7 @@
     <p><b class="Enlaces">Enlaces:</b></p>
 
     <a style="color: #0073D1; margin-top:-10px" href="http://www.conac.gob.mx/"> <i class="consejo" aria-hidden="true" title="Liga">
-    </i> Consejo Nacional de Armonización Contable</a>
+    </i> Consejo Nacional de Armonización Contable</a><br>
 
     <a style="color: #0073D1;" href="https://caceg.guanajuato.gob.mx/"> <i class="Armo" aria-hidden="true" title="Liga">
     </i> Consejo de Armonización Contable del Estado de Guanajuato</a>
