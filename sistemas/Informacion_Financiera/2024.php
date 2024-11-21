@@ -138,9 +138,10 @@
         margin-top: 10px;
         font-weight: bold;
     }
-    .FE{
+
+    .FE {
         font-size: 16px;
-        color:black;
+        color: black;
         margin-left: 15px;
         margin-top: 20px;
     }
@@ -1528,7 +1529,8 @@
         </tbody>
     </table><br>
     <p class="FE">Fecha de la última actualización de la Información: 16-10-2024</p>
-
+    <br>
+    <p><b>Responsables de la publicación de la Información:</b></p>
 </body>
 
 </html>
