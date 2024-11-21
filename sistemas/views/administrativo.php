@@ -7,7 +7,7 @@ include 'header.php';
 
 <body>
 <article class="article fulltext ">
-<section class="article-body">
+<section class="article-body"  style="padding-right:100px;">
     <div class="text-center">
         <img src="../images/headers/h_directorio.jpg">
     </div>
