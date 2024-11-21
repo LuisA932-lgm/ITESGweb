@@ -1,12 +1,12 @@
 <?php
-include $_SERVER['DOCUMENT_ROOT'] . '/sistemas/views/header.php';
+include 'header.php';
 ?>
 
 <body>
     <article class="article fulltext ">
         <section class="article-body">
             <div class="text-center">
-                <img src="/sistemas/images/headers/h_directorio.jpg">
+                <img src="../images/headers/h_directorio.jpg">
             </div>
             <h4 style="font-size:200%;" align="center">PERSONAL DOCENTE DE TIEMPO COMPLETO</h4>
             <?php
@@ -262,5 +262,5 @@ include $_SERVER['DOCUMENT_ROOT'] . '/sistemas/views/header.php';
     </article>
 </body>
 <?php
-include $_SERVER['DOCUMENT_ROOT'] . '/sistemas/views/footer.php';
+include 'footer.php';
 ?>
