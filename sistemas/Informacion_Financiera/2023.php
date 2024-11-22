@@ -351,7 +351,7 @@
     </table>
     <h3 class="Egre" style="color: #FB008A">Egreso</h3>
 
-    <table align="center" width="70%" class="table2">
+    <table align="center" width="90%" class="table5">
         <thead style="background-color: #0073D1; color: #FFFFFF">
             <tr>
                 <th>Documento</th>
@@ -402,7 +402,7 @@
 
     <h3 class="PR" style="color: #FB008A">Presupuesto Basado En Resultados</h3>
 
-    <table align="center" width="70%" class="table3">
+    <table align="center" width="90%" class="table5">
         <thead style="background-color: #0073D1; color: #FFFFFF">
             <tr>
                 <th>Documento</th>
@@ -421,7 +421,7 @@
 
     <h3 class="ID" style="color: #FB008A">Información Disciplina Financiera</h3>
 
-    <table align="center" width="70%" class="table4 ">
+    <table align="center" width="90%" class="table5">
         <thead style="background-color: #0073D1; color: #FFFFFF">
             <tr>
                 <th>Documento</th>
