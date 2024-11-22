@@ -201,7 +201,7 @@
         margin-left: 300px;
     }
 
-    .table2 {
+    #t2{
         width: 800px;
         border-collapse: collapse;
         border-radius: 5px;
@@ -355,7 +355,7 @@
 
     <h3 class="Egre" style="color: #FB008A">Egreso</h3>
 
-    <table align="center" width="70%" class="table2">
+    <table align="center" width="70%" class="table2" id=t2>
         <thead style="background-color: #0073D1; color: #FFFFFF">
             <tr>
                 <th>Documento</th>
