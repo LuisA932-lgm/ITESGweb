@@ -31,7 +31,7 @@
         margin-left: 15px;
     }
 
-    .sub3 {
+    #subtitulo3 {
         color: rgb(181, 129, 45);
         font-size: 24px;
         text-align: left;
@@ -125,70 +125,70 @@
         font-weight: bold;
     }
 
-    .IDFI {
+    #InfoDiFin {
         font-size: 18px;
         margin-left: 15px;
         margin-top: 10px;
         font-weight: bold;
     }
 
-    .MCG {
+    #ManCon {
         font-size: 18px;
         margin-left: 15px;
         margin-top: 10px;
         font-weight: bold;
     }
 
-    .FE {
+    #FechaL {
         font-size: 16px;
         color: black;
         margin-left: 15px;
         margin-top: 20px;
     }
 
-    .RI {
+    #ResInfo {
         font-size: 17px;
         color: black;
         margin-left: 15px;
         margin-top: 20px;
     }
 
-    .LICF {
+   #LiceFel {
         margin-left: 100px;
         color: black;
 
     }
 
-    .CPC {
+    #Clara {
         margin-left: 430px;
         color: black;
         margin-top: -90px;
     }
 
-    .CPCL {
+    #Claudia {
         margin-left: 800px;
         color: black;
         margin-top: -90px;
     }
 
-    .INGE {
+    #Eduardo {
         margin-left: 100px;
         color: black;
         margin-top: 10px;
 
     }
 
-    .Enlaces {
+    #Enla {
         font-size: 17px;
         color: black;
         margin-left: 15px;
     }
 
-    .consejo {
+    #ConsejoN {
         margin-left: 15px;
     }
 
-    .Armo {
+    #ConsejoA {
         margin-left: 15px;
     }
 
@@ -274,7 +274,8 @@
         margin-left: 300px;
     }
 
-    .table11 {
+    
+    #t11 {
         width: 1000px;
         border-collapse: collapse;
         border-radius: 5px;
@@ -282,7 +283,7 @@
         margin-left: 300px;
     }
 
-    .table12 {
+    #t12 {
         width: 1000px;
         border-collapse: collapse;
         border-radius: 5px;
@@ -290,7 +291,7 @@
         margin-left: 300px;
     }
 
-    .table13 {
+    #t13 {
         width: 1000px;
         border-collapse: collapse;
         border-radius: 5px;
@@ -1521,9 +1522,9 @@
         </tbody>
     </table>
 
-    <h2 class="sub3">Cuenta Pública</h2>
+    <h2 class="sub3" id="subtitulo3">Cuenta Pública</h2>
 
-    <table align="center" width="70%" class="table11 ">
+    <table align="center" width="70%" class="table11 " id="t11">
         <thead style="background-color: #0073D1; color: #FFFFFF">
             <tr>
                 <th>Nombre</th>
@@ -1540,8 +1541,8 @@
             </tr>
         </tbody>
     </table>
-    <h3 class="IDFI" style="color: #FB008A">Información Disciplina Financiera</h3>
-    <table align="center" width="70%" class="table12">
+    <h3 class="IDFI" id="InfoDiFin" style="color: #FB008A">Información Disciplina Financiera</h3>
+    <table align="center" width="70%" class="table12"  id="t12">
         <thead style="background-color: #0073D1; color: #FFFFFF">
             <tr>
                 <th>Documento</th>
@@ -1558,8 +1559,8 @@
         </tbody>
     </table>
 
-    <h3 class="MCG" style="color: #FB008A">Manual de Contabilidad Gubernamental</h3>
-    <table align="center" width="70%" class="table13 ">
+    <h3 class="MCG" id="ManCon" style="color: #FB008A">Manual de Contabilidad Gubernamental</h3>
+    <table align="center" width="70%" class="table13 " id="t13">
         <thead style="background-color: #0073D1; color: #FFFFFF">
             <tr>
                 <th>Documento</th>
@@ -1575,25 +1576,25 @@
             </tr>
         </tbody>
     </table><br>
-    <p class="FE">Fecha de la última actualización de la Información: 16-10-2024</p>
+    <p class="FE" id="FechaL">Fecha de la última actualización de la Información: 16-10-2024</p>
     <br>
-    <p><b class="RI">Responsables de la publicación de la Información:</b></p>
+    <p><b class="RI" id="ResInfo">Responsables de la publicación de la Información:</b></p>
 
-    <div class="LICF">
+    <div class="LICF" id="LiceFel">
         <td style="width: 33%;">Lic. Félix Valencia Rocha <br>
             Subdirector de Administración y Finanzas <br>
             Tel. 473 73 4 78 78 Ext. 4
         </td>
     </div>
 
-    <div class="CPC">
+    <div class="CPC" id="Clara">
         <td style="width: 33%;">C.P. Clara Vanesa Villar García<br>
             Jefa de Departamento de Recursos Financieros<br>
             Tel. 473 73 4 78 78 Ext. 4
         </td>
     </div>
 
-    <div class="CPCL">
+    <div class="CPCL" id="Claudia">
         <td style="width: 34%;">C.P. Claudia Jaqueline García Juárez<br>
             Jefa de Departamento de Planeación, Programación y Presupuesto <br>
             Tel. 473 73 4 78 78 Ext. 3
@@ -1602,19 +1603,19 @@
     </div>
 
 
-    <div class="INGE">
+    <div class="INGE" id="Eduardo">
         <td style="width: 34%;">Ing. Eduardo Rojas González <br>
             Jefe de Departamento de Centro de Cómputo<br>
             Tel. 473 73 4 78 78 Ext. 4
         </td>
     </div><br>
 
-    <p><b class="Enlaces">Enlaces:</b></p>
+    <p><b class="Enlaces" id="Enla">Enlaces:</b></p>
 
-    <a style="color: #0073D1; margin-top:-10px" href="http://www.conac.gob.mx/"> <i class="consejo" aria-hidden="true" title="Liga">
+    <a style="color: #0073D1; margin-top:-10px" href="http://www.conac.gob.mx/"> <i class="consejo" id="ConsejoN" aria-hidden="true" title="Liga">
         </i> Consejo Nacional de Armonización Contable</a><br>
 
-    <a style="color: #0073D1;" href="https://caceg.guanajuato.gob.mx/"> <i class="Armo" aria-hidden="true" title="Liga">
+    <a style="color: #0073D1;" href="https://caceg.guanajuato.gob.mx/"> <i class="Armo" id="ConsejoA" aria-hidden="true" title="Liga">
         </i> Consejo de Armonización Contable del Estado de Guanajuato</a>
 
     <p align="center"><img src="https://www.itesg.edu.mx/images/logos/todos.jpg"></p>
