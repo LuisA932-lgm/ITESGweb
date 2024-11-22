@@ -31,37 +31,43 @@
     </script>
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js"></script>
     <style>
+        <style>
         .article-body{
             padding-top: 0px;
         }
-        .article-body h3 {
+        .article-body1{
+            padding-right: 10px;
+            padding-left: 10px;
+            padding-top: 0px;
+        }
+        .article-body h3, .article-body1 h3 {
             color: #039;
             font-family: 'Lato', sans-serif;
             font-size: 28px;
             font-weight: bold;
         }
 
-        .article-body h4 {
+        .article-body h4, .article-body1 h4 {
             color: #b5812d;
             font-family: 'Lato', sans-serif;
             font-size: 28px;
             font-weight: bold;
         }
 
-        .article-body h5 {
+        .article-body h5, .article-body1 h5{
             color: #b5812d;
             font-family: 'Lato', sans-serif;
             font-size: 28px;
             font-weight: bold;
         }
 
-        .article-body a {
+        .article-body a, .article-body1 a {
             color: blue;
             text-decoration: none;
             font-size: 15px;
         }
 
-        .article-body a:hover {
+        .article-body a:hover, .article-body1 a:hover {
             color: darkblue;
             text-decoration: underline;
         }
@@ -73,28 +79,28 @@
             padding-top: 30px;
         }
 
-        .article-body p {
+        .article-body p, .article-body1 p {
             color: #333;
             font-family: 'Lato', sans-serif;
             font-size: 24px;
             font-weight: normal;
         }
 
-        .article-body td {
+        .article-body td, .article-body1 td {
             color: #333;
             font-family: 'Lato', sans-serif;
             font-size: 15px;
             font-weight: normal;
         }
 
-        .article-body th {
+        .article-body th, .article-body1 th {
             color: #333;
             font-family: 'Lato', sans-serif;
             font-size: 15px;
             font-weight: bold;
         }
 
-        .article-body li {
+        .article-body li, .article-body1 li {
             color: #333;
             font-family: 'Lato', sans-serif;
             font-size: 24px;
