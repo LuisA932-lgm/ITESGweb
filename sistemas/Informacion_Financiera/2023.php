@@ -362,7 +362,7 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Proyecto de presupuesto de egresos</td>
                 <td style="width: 20%;">
-                    <a href="https://congreso-gto.s3.amazonaws.com/uploads/orden_archivo/archivo/27432/05__LeyEgresos_ELD_404-LXV-I.pdf" target="_blank"> <img src="images/desc_pdf.jpg" title="Archivo PDF"></a>
+                    <a href="https://congreso-gto.s3.amazonaws.com/uploads/orden_archivo/archivo/27432/05__LeyEgresos_ELD_404-LXV-I.pdf" target="_blank"> <img src="../images/desc_pdf.png" title="Archivo PDF"></a>
                 </td>
             </tr>
             <tr>
