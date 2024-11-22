@@ -4,12 +4,12 @@ include 'header.php';
 
 <div class="block">
 
-    <header class="page-header">
-        <h1 class="page-title">
-            Artículos </h1>
-    </header>
     <article class="article fulltext mx-5">
-        <section class="article-body">
+        <section class="article-body1">
+        <header class="page-header">
+        <h3 class="page-title" style="font-size:300%;">
+            Artículos </h3>
+    </header>
             <p align="center"><img src="../images/comite/titulo_ciilynd.png" alt="Titulo_ILyND"></p><br>
 
             <left>
@@ -256,3 +256,4 @@ include 'header.php';
 <?php
 include 'footer.php';
 ?>
+
