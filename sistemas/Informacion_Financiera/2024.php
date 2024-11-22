@@ -104,21 +104,21 @@
         font-weight: bold;
     }
 
-    .IDB {
+    #InvB {
         font-size: 18px;
         margin-left: 15px;
         margin-top: 10px;
         font-weight: bold;
     }
 
-    .EJ {
+    #EjerP {
         font-size: 18px;
         margin-left: 15px;
         margin-top: 10px;
         font-weight: bold;
     }
 
-    .IDF {
+    #InfoDi {
         font-size: 18px;
         margin-left: 15px;
         margin-top: 10px;
@@ -250,7 +250,7 @@
         margin-left: 300px;
     }
 
-    .table8 {
+    #t8 {
         width: 1000px;
         border-collapse: collapse;
         border-radius: 5px;
@@ -258,7 +258,7 @@
         margin-left: 300px;
     }
 
-    .table9 {
+    #t9 {
         width: 1000px;
         border-collapse: collapse;
         border-radius: 5px;
@@ -266,7 +266,7 @@
         margin-left: 300px;
     }
 
-    .table10 {
+    #t10 {
         width: 1000px;
         border-collapse: collapse;
         border-radius: 5px;
@@ -1047,8 +1047,8 @@
         </tbody>
     </table>
 
-    <h3 class="IDB" style="color: #FB008A">Inventario De Bienes</h3>
-    <table align="center" width="90%" class="table8">
+    <h3 class="IDB" id="InvB" style="color: #FB008A">Inventario De Bienes</h3>
+    <table align="center" width="90%" class="table8" id="t8">
         <thead style="background-color: #0073D1; color: #FFFFFF">
             <tr>
                 <th>Documento</th>
@@ -1108,8 +1108,8 @@
         </tbody>
     </table>
 
-    <h3 class="EJ" style="color: #FB008A">Ejercicio Presupuestario</h3>
-    <table align="center" width="90%" class="table9">
+    <h3 class="EJ" id="EjerP" style="color: #FB008A">Ejercicio Presupuestario</h3>
+    <table align="center" width="90%" class="table9" id="t9">
         <thead style="background-color: #0073D1; color: #FFFFFF">
             <tr>
                 <th>Documento</th>
@@ -1344,8 +1344,8 @@
         </tbody>
     </table>
 
-    <h3 class="IDF" style="color: #FB008A">Información Disciplina Financiera</h3>
-    <table align="center" width="90%" class="table10 ">
+    <h3 class="IDF" id="InfoDi" style="color: #FB008A">Información Disciplina Financiera</h3>
+    <table align="center" width="90%" class="table10 " id="t10">
         <thead style="background-color: #0073D1; color: #FFFFFF">
             <tr>
                 <th>Documento</th>
