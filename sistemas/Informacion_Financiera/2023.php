@@ -307,7 +307,7 @@
 
     <h3 class="ing" style="color: #FB008A">Ingreso</h3>
 
-    <table width="70%"  class="table1 " id="t1">
+    <table align="center" width="90%" class="table5">
         <thead style="background-color: #0073D1; color: #FFFFFF">
             <tr>
                 <th>Documento</th>
