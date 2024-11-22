@@ -22,7 +22,7 @@
         margin-left: 15px;
     }
 
-    .sub2 {
+    #subtitulo2 {
         color: rgb(181, 129, 45);
         font-size: 24px;
         text-align: left;
@@ -76,14 +76,14 @@
         font-weight: bold;
     }
 
-    .ID {
+    #ide {
         font-size: 18px;
         margin-left: 15px;
         margin-top: 10px;
         font-weight: bold;
     }
 
-    .IC {
+    #InfC {
         font-size: 18px;
         margin-left: 15px;
         margin-top: 10px;
@@ -217,7 +217,7 @@
         margin-left: 300px;
     }
 
-    .table4 {
+    #t4 {
         width: 800px;
         border-collapse: collapse;
         border-radius: 5px;
@@ -225,7 +225,8 @@
         margin-left: 300px;
     }
 
-    .table5 {
+    
+    #t5 {
         width: 1000px;
         border-collapse: collapse;
         border-radius: 5px;
@@ -423,9 +424,9 @@
         </tbody>
     </table>
 
-    <h3 class="ID" style="color: #FB008A">Información Disciplina Financiera</h3>
+    <h3 class="ID" id="ide" style="color: #FB008A">Información Disciplina Financiera</h3>
 
-    <table align="center" width="70%" class="table4 ">
+    <table align="center" width="70%" class="table4 " id="t4">
         <thead style="background-color: #0073D1; color: #FFFFFF">
             <tr>
                 <th>Documento</th>
@@ -466,10 +467,10 @@
         </tbody>
     </table>
 
-    <h2 class="sub2">Información Trimestral</h2>
-    <h3 class="IC" style="color: #FB008A">Información Contable</h3>
+    <h2 class="sub2" id="subtitulo2">Información Trimestral</h2>
+    <h3 class="IC" id="InfC" style="color: #FB008A">Información Contable</h3>
 
-    <table align="center" width="90%" class="table5">
+    <table align="center" width="90%" class="table5" id="t5">
         <thead style="background-color: #0073D1; color: #FFFFFF">
             <tr>
                 <th>Documento</th>
