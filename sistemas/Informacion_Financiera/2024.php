@@ -90,14 +90,14 @@
         font-weight: bold;
     }
 
-    .IP {
+    #InfP {
         font-size: 18px;
         margin-left: 15px;
         margin-top: 10px;
         font-weight: bold;
     }
 
-    .IPro {
+    #IProgra {
         font-size: 18px;
         margin-left: 15px;
         margin-top: 10px;
@@ -234,7 +234,7 @@
         margin-left: 300px;
     }
 
-    .table6 {
+    #t6 {
         width: 1000px;
         border-collapse: collapse;
         border-radius: 5px;
@@ -242,7 +242,7 @@
         margin-left: 300px;
     }
 
-    .table7 {
+    #t7 {
         width: 1000px;
         border-collapse: collapse;
         border-radius: 5px;
@@ -718,8 +718,8 @@
             </tr>
         </tbody>
     </table>
-    <h3 class="IP" style="color: #FB008A">Información Presupuestaria</h3>
-    <table align="center" width="90%" class="table6">
+    <h3 class="IP" id="InfP" style="color: #FB008A">Información Presupuestaria</h3>
+    <table align="center" width="90%" class="table6"  id="t6">
         <thead style="background-color: #0073D1; color: #FFFFFF">
             <tr>
                 <th>Documento</th>
@@ -963,8 +963,8 @@
         </tbody>
     </table>
 
-    <h3 class="IPro" style="color: #FB008A">Información Programática</h3>
-    <table align="center" width="90%" class="table7">
+    <h3 class="IPro" id="IProgra" style="color: #FB008A">Información Programática</h3>
+    <table align="center" width="90%" class="table7" id="t7">
         <thead style="background-color: #0073D1; color: #FFFFFF">
             <tr>
                 <th>Documento</th>
