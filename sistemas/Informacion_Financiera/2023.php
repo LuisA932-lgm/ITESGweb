@@ -318,7 +318,7 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Iniciativa de Ingresos</td>
                 <td style="width: 20%;">
-                    <a href="https://congreso-gto.s3.amazonaws.com/uploads/orden_archivo/archivo/27431/04__LeyIngresos_ELD_403-LXV-I.pdf" target="_blank"> <img src="../images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://congreso-gto.s3.amazonaws.com/uploads/orden_archivo/archivo/27431/04__LeyIngresos_ELD_403-LXV-I.pdf" target="_blank"> <img src="../images/excel_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
             <tr>
