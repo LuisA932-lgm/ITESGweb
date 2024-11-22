@@ -47,7 +47,7 @@
         font-weight: bold;
     }
 
-    .Trans {
+    #trans {
         color: black;
         font-size: 18px;
         margin-left: 15px;
@@ -306,7 +306,7 @@
         <h3 class="lin" id="link" style="color:  #095ba3 ">Liga de Cuenta Pública 2024 (SFIyA)</h3>
     </a>
 
-    <h5 class="Trans">Transparencia y Difusión de la Información Financiera LGCG</h5>
+    <h5 class="Trans" id="trans">Transparencia y Difusión de la Información Financiera LGCG</h5>
 
     <h3 class="ing" style="color: #FB008A">Ingreso</h3>
 
