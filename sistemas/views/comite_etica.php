@@ -1,7 +1,6 @@
 <?php
 include 'header.php';
 ?>
-
 <body>
     <article class="article fulltext mx-5">
         <section class="article-body">
@@ -73,7 +72,7 @@ include 'header.php';
                 </a>
             </div>
             <?php
-            $img = ["6.1%20VALORES.png", "COM_SENSI.jpg", "7%20SENSIBILIZACION.png", "COM_EVA.jpg", "8 EVALUACIÓN.png"];
+            $img = ["6.1%20VALORES.png", "COM_SENSI.jpg", "7%20SENSIBILIZACION.png", "COM_EVA.jpg", "8%20EVALUACIÓN.png"];
             for ($i = 0; $i < 5; $i++) {
                 if ($i % 2 == 1) {
                     echo '<div>
