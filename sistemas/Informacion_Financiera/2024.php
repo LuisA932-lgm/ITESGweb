@@ -55,21 +55,21 @@
         font-weight: bold;
     }
 
-    .ing {
+    #ingreso {
         font-size: 18px;
         margin-left: 15px;
         margin-top: -20px;
         font-weight: bold;
     }
 
-    .Egre {
+    #egreso {
         font-size: 18px;
         margin-left: 15px;
         margin-top: -20px;
         font-weight: bold;
     }
 
-    .PR {
+    #presupuesto {
         font-size: 18px;
         margin-left: 15px;
         margin-top: 10px;
@@ -209,7 +209,7 @@
         margin-left: 300px;
     }
 
-    .table3 {
+    #t3 {
         width: 800px;
         border-collapse: collapse;
         border-radius: 5px;
@@ -308,7 +308,7 @@
 
     <h5 class="Trans" id="trans">Transparencia y Difusión de la Información Financiera LGCG</h5>
 
-    <h3 class="ing" style="color: #FB008A">Ingreso</h3>
+    <h3 class="ing" id="ingreso" style="color: #FB008A">Ingreso</h3>
 
     <table width="70%" align="center" class="table1 " id="t1">
         <thead style="background-color: #0073D1; color: #FFFFFF">
@@ -353,7 +353,7 @@
         </tbody>
     </table>
 
-    <h3 class="Egre" style="color: #FB008A">Egreso</h3>
+    <h3 class="Egre" id="egreso" style="color: #FB008A">Egreso</h3>
 
     <table align="center" width="70%" class="table2" id=t2>
         <thead style="background-color: #0073D1; color: #FFFFFF">
@@ -404,9 +404,9 @@
         </tbody>
     </table>
 
-    <h3 class="PR" style="color: #FB008A">Presupuesto Basado En Resultados</h3>
+    <h3 class="PR" id="presupuesto" style="color: #FB008A">Presupuesto Basado En Resultados</h3>
 
-    <table align="center" width="70%" class="table3">
+    <table align="center" width="70%" class="table3" id="t3">
         <thead style="background-color: #0073D1; color: #FFFFFF">
             <tr>
                 <th>Documento</th>
