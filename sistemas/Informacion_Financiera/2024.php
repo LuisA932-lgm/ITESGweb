@@ -13,7 +13,7 @@
 
 </head>
 <style>
-    .sub {
+    #subtitulo1{
         color: rgb(181, 129, 45);
         font-size: 24px;
         text-align: left;
@@ -300,7 +300,7 @@
 </style>
 
 <body>
-    <h2 class="sub">Información Anual</h2>
+    <h2 class="sub" id="subtitulo1">Información Anual</h2>
     <a href="https://portaldgi.guanajuato.gob.mx/CuentaPublica/public/main" target="_blank">
 
         <h3 class="lin" style="color:  #095ba3 ">Liga de Cuenta Pública 2024 (SFIyA)</h3>
