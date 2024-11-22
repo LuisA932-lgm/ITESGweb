@@ -1570,7 +1570,7 @@
             </tr>
         </tbody>
     </table><br>
-    <p class="FE">Fecha de la última actualización de la Información: 16-10-2024</p>
+    <p class="FE">Fecha de la última actualización de la Información: 24-01-2024</p>
     <br>
     <p><b class="RI">Responsables de la publicación de la Información:</b></p>
 
