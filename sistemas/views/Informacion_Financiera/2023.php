@@ -1215,7 +1215,7 @@
                           <td style="width: 10%;">
                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/2T/DISCIPLINA/ESF-GTO-ITESG-2T-23.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
- <td style="width: 10%;">
+                        <td style="width: 10%;">
                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/3T/LEY%20DE%20DISCIPLINA/Formato%201%20ESF-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
@@ -1230,7 +1230,7 @@
                           <td style="width: 10%;">
                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/2T/DISCIPLINA/EADOP-GTO-ITESG-2T-23.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
- <td style="width: 10%;">
+                        <td style="width: 10%;">
                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/3T/LEY%20DE%20DISCIPLINA/Formato%202%20EADOP-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
@@ -1245,7 +1245,7 @@
                           <td style="width: 10%;">
                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/2T/DISCIPLINA/IAODF-GTO-ITESG-2T-23.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
- <td style="width: 10%;">
+                        <td style="width: 10%;">
                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/3T/LEY%20DE%20DISCIPLINA/Formato%203%20IAODF-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
@@ -1260,7 +1260,7 @@
                           <td style="width: 10%;">
                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/2T/DISCIPLINA/BP-GTO-ITESG-2T-23.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
- <td style="width: 10%;">
+                        <td style="width: 10%;">
                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/3T/LEY%20DE%20DISCIPLINA/Formato%204%20BP-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
@@ -1275,7 +1275,7 @@
                           <td style="width: 10%;">
                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/2T/DISCIPLINA/EAI-GTO-ITESG-2T-23.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
- <td style="width: 10%;">
+                        <td style="width: 10%;">
                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/3T/LEY%20DE%20DISCIPLINA/Formato%205%20EAI-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
@@ -1290,7 +1290,7 @@
                           <td style="width: 10%;">
                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/2T/DISCIPLINA/EAEPECOG-GTO-ITESG-2T-23.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
-<td style="width: 10%;">
+                        <td style="width: 10%;">
                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/3T/LEY%20DE%20DISCIPLINA/Formato%206a%20EAEPECOG-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
@@ -1305,7 +1305,7 @@
                           <td style="width: 10%;">
                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/2T/DISCIPLINA/EAEPE CA-GTO-ITESG-2T-23.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
-<td style="width: 10%;">
+                        <td style="width: 10%;">
                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/3T/LEY%20DE%20DISCIPLINA/Formato%206b%20EAEPE%20CA-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
@@ -1320,7 +1320,7 @@
                           <td style="width: 10%;">
                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/2T/DISCIPLINA/EAEPE CF-GTO-ITESG-2T-23.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
- <td style="width: 10%;">
+                        <td style="width: 10%;">
                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/3T/LEY%20DE%20DISCIPLINA/Formato%206c%20EAEPE%20CF-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
@@ -1335,7 +1335,7 @@
                           <td style="width: 10%;">
                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/2T/DISCIPLINA/EAEPECSPC-GTO-ITESG-2T-23.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
- <td style="width: 10%;">
+                        <td style="width: 10%;">
                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/3T/LEY%20DE%20DISCIPLINA/Formato%206d%20EAEPECSPC-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
