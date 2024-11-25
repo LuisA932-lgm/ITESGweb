@@ -19,7 +19,7 @@
         text-align: left;
         font-weight: bold;
         margin-bottom: 20px;
-        margin-left: 35px;
+        margin-left: 100px;
     }
 
     #subtitulo2 {
