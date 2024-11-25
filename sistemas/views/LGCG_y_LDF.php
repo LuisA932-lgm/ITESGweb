@@ -84,7 +84,7 @@ fieldset[disabled] a.btn {
 .btn-default.focus,
 .btn-default:focus {
     color: #FFF;
-    background-color: #333;
+    background-color: #042433;
     border-color: #6F7271
 }
 
@@ -131,7 +131,7 @@ fieldset[disabled] .btn-default:focus,
 fieldset[disabled] .btn-default:hover {
     color: #FFF;
     background-color: #6F7271;
-    border-color:#042433;
+    border-color: #6F7271
 }
 .btn-default .badge {
     color: #fff;
