@@ -1376,7 +1376,7 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%;  color: black">Guía de cumplimiento</td>
                 <td style="width: 20%;">
-                    <a href="" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/4T/DISCIPLINA/Guia_de_cumplimiento_LDF_2023.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
             </tr>
         </tbody>
@@ -1394,7 +1394,7 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%;  color: black">Manual de Contabilidad Gubernamental</td>
                 <td style="width: 20%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/manual_conta_itesg230524.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/mcgse2023.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
         </tbody>
