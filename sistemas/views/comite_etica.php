@@ -15,6 +15,7 @@ include 'header.php';
             <div class="text-center">
                 <a href="../images/comite/cod_etica.pdf" target="_blank">
                     <img src="../images/display/info_ccond.jpg" class="img-full-width">
+                    [click aquí para ver]
                 </a>
             </div>
 
@@ -31,7 +32,7 @@ include 'header.php';
                     <img src="../images/comite/codigo.png" alt="Ícono de Código" class="me-3"
                         style="width: 70px; height: 70px;">
                 </a>
-                <p class="mb-0">Lineamientos Generales CIEyPCI</p>
+                <p class="mb-0" style="font-size:95%;">Lineamientos Generales CIEyPCI</p>
             </div>
 
             <div>
@@ -69,6 +70,7 @@ include 'header.php';
             <div class="text-center">
                 <a href="../images/documentos/codigo_conducta23.pdf" target="_blank">
                     <img src="../images/display/info_cetica.jpg" class="img-full-width">
+                    [click aquí para ver]
                 </a>
             </div>
             <?php
@@ -90,3 +92,4 @@ include 'header.php';
 <?php
 include 'footer.php';
 ?>
+
