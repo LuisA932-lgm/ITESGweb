@@ -1376,7 +1376,7 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%;  color: black">Guía de cumplimiento</td>
                 <td style="width: 20%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/4T/DISCIPLINA/Guia_de_cumplimiento_LDF_2023.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/4T/DISCIPLINA/Guia_de_cumplimiento_LDF_2023.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Excel No Disponible"></a>
                 </td>
             </tr>
         </tbody>
