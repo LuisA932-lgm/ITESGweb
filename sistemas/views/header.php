@@ -115,7 +115,7 @@
         .dropdown-item:active {
             color: #fff;
             text-decoration: none;
-            background-color: #E4E4E4;
+            background-color: #FFF;
         }
     </style>
 </head>
