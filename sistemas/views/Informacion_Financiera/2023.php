@@ -330,7 +330,7 @@
                 <td style="width: 80%; color:black">Información Adicional a la Iniciativa de Ingresos</td>
                 <td style="width: 20%;">
                     <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/IAII_ITSG_2023.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/IAII_ITSG_2023.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/IAII_ITSG_2023.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
@@ -349,7 +349,7 @@
                 <td style="width: 80%; color:black">Calendario de Ingresos</td>
                 <td style="width: 20%;">
                     <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/CI_ITSG_2023.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/CI_ITSG_2023.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/CI_ITSG_2023.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
         </tbody>
@@ -375,7 +375,7 @@
                 <td style="width: 80%; color:black">Información Adicional al proyecto de presupuesto de egresos</td>
                 <td style="width: 20%;">
                     <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/IAPPPTOE_ITSG_2023.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/IAPPPTOE_ITSG_2023.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/IAPPPTOE_ITSG_2023.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
@@ -394,7 +394,7 @@
                 <td style="width: 80%; color:black">Calendario de Egreso</td>
                 <td style="width: 20%;">
                     <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/CE_ITSG_2023.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/CE_ITSG_2023.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/CE_ITSG_2023.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
             <tr>
