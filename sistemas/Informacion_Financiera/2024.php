@@ -462,7 +462,7 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Informe de Estudios Actuariales</td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/9.%20Informe%20Estudios%20Actuariales%202024.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg title="Archivo Excel"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/9.%20Informe%20Estudios%20Actuariales%202024.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
         </tbody>
