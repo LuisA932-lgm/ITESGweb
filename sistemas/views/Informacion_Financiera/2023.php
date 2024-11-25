@@ -705,7 +705,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Estado analítico de ingresos CFF</td>
+                        <td style="width: 60%; color: black">Estado analítico de ingresos CFF</td>
                        <td style="width: 10%;">
                          <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIA/EAIF-GTO-ITESG-1T-23.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                             <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIA/EAIF-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
@@ -724,7 +724,7 @@
                         </td>
                     </tr>
                      <tr>
-                        <td style="width: 60%;">Estado analítico de ingresos Concepto</td>
+                        <td style="width: 60%; color: black">Estado analítico de ingresos Concepto</td>
                         <td style="width: 10%;">
                           <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIA/EAIF-GTO-ITESG-1T-23.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                             <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIA/EAIF-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
@@ -743,7 +743,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Estado analítico del ejercicio del presupuesto de egresos (Administrativa)</td>
+                        <td style="width: 60%; color: black">Estado analítico del ejercicio del presupuesto de egresos (Administrativa)</td>
                        <td style="width: 10%;">
                          <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIA/EAEPEA-GTO-ITESG-1T-23.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                             <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIA/EAEPEA-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
@@ -762,7 +762,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Estado analítico del ejercicio del presupuesto de egresos  (Económica) </td>
+                        <td style="width: 60%; color: black">Estado analítico del ejercicio del presupuesto de egresos  (Económica) </td>
                         <td style="width: 10%;">
                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIA/EAEPEE-GTO-ITESG-1T-23.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                             <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIA/EAEPEE-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
@@ -781,7 +781,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Estado analítico del ejercicio del presupuesto de egresos  (COG)</td>
+                        <td style="width: 60%; color: black">Estado analítico del ejercicio del presupuesto de egresos  (COG)</td>
                        <td style="width: 10%;">
                           <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIA/EAEPEC-GTO-ITESG-1T-23.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                             <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIA/EAEPEC-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
@@ -800,7 +800,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Estado analítico del ejercicio del presupuesto de egresos  (Funcional) </td>
+                        <td style="width: 60%; color: black">Estado analítico del ejercicio del presupuesto de egresos  (Funcional) </td>
                        <td style="width: 10%;">
                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIA/EAEPEF-GTO-ITESG-1T-23.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                             <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIA/EAEPEF-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
@@ -819,7 +819,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Endeudamiento neto</td>
+                        <td style="width: 60%; color: black">Endeudamiento neto</td>
                         <td style="width: 10%;">
                             <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIA/EN-GTO-ITESG-1T-23.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                             <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIA/EN-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
@@ -838,7 +838,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Intereses de la deuda</td>
+                        <td style="width: 60%; color: black">Intereses de la deuda</td>
                         <td style="width: 10%;">
                           <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIA/ID-GTO-ITESG-1T-23.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                             <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIA/ID-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
@@ -857,7 +857,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Un flujo de fondos</td>
+                        <td style="width: 60%; color: black">Un flujo de fondos</td>
                          <td style="width: 10%;">
                           <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIA/FF-GTO-ITESG-1T-23.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                             <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIA/FF-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
@@ -883,7 +883,7 @@
                     <thead style="background-color: #0073D1; color: #FFFFFF"><tr><th>Documento</th><th>1er. Trim.</th><th>2do. Trim.</th><th>3er. Trim.</th><th>4to. Trim.</th></tr></thead>
                     <tbody>
                     <tr>
-                         <td style="width: 60%;">Gasto por categoría programática</td>
+                         <td style="width: 60%; color: black">Gasto por categoría programática</td>
                        <td style="width: 10%;">
                           <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PROGRAMATICA/GCP-GTO-ITESG-1T-23.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                             <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PROGRAMATICA/GCP-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
@@ -902,7 +902,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Programas y proyectos de inversión</td>
+                        <td style="width: 60%; color: black">Programas y proyectos de inversión</td>
                        <td style="width: 10%;">
                           <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PROGRAMATICA/PPI-GTO-ITESG-1T-23.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                             <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PROGRAMATICA/PPI-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
@@ -921,7 +921,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Indicadores de resultados</td>
+                        <td style="width: 60%; color: black">Indicadores de resultados</td>
                         <td style="width: 10%;">
                             <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PROGRAMATICA/IR-GTO-ITESG-1T-23.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                             <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PROGRAMATICA/IR-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
@@ -947,7 +947,7 @@
                     <thead style="background-color: #0073D1; color: #FFFFFF"><tr><th>Documento</th><th>1er. Trim.</th><th>2do. Trim.</th><th>3er. Trim.</th><th>4to. Trim.</th></tr></thead>
                     <tbody>
                     <tr>
-                         <td style="width: 60%;">Relación de Bienes Muebles</td>
+                         <td style="width: 60%; color: black">Relación de Bienes Muebles</td>
                        <td style="width: 10%;">
                             <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/INVENTARIO/RBM-GTO-ITESG-1T-23.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                             <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/INVENTARIO/RBM-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
@@ -966,7 +966,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Relación de Bienes Inmuebles</td>
+                        <td style="width: 60%; color: black">Relación de Bienes Inmuebles</td>
                         <td style="width: 10%;">
                            <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/INVENTARIO/RBI-GTO-ITESG-1T-23.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                             <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/INVENTARIO/RBI-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
@@ -992,7 +992,7 @@
                     <thead style="background-color: #0073D1; color: #FFFFFF"><tr><th>Documento</th><th>1er. Trim.</th><th>2do. Trim.</th><th>3er. Trim.</th><th>4to. Trim.</th></tr></thead>
                     <tbody>
                     <tr>
-                        <td style="width: 60%;">Ayudas y Subsidios</td>
+                        <td style="width: 60%; color: black">Ayudas y Subsidios</td>
                        <td style="width: 10%;">
                          <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIO/AYS-GTO-ITESG-1T-23.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                             <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIO/AYS-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
@@ -1011,7 +1011,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Programas con recursos Federales por orden de Gobierno</td>
+                        <td style="width: 60%; color: black">Programas con recursos Federales por orden de Gobierno</td>
                         <td style="width: 10%;">
                             <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                             <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
@@ -1030,7 +1030,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Cuentas Bancarias Productivas Federales</td>
+                        <td style="width: 60%; color: black">Cuentas Bancarias Productivas Federales</td>
                         <td style="width: 10%;">
                          <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIO/CBP-GTO-ITESG-1T-23.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                             <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIO/CBP-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
@@ -1049,7 +1049,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Aportación Federal para la Salud</td>
+                        <td style="width: 60%; color: black">Aportación Federal para la Salud</td>
                         <td style="width: 10%;">
                             <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                             <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
@@ -1068,7 +1068,7 @@
                         </td>
                      </tr>
 		     <tr>
-                        <td style="width: 60%;">Aportación a la Infraestructura Social (FAIS)</td>
+                        <td style="width: 60%; color: black">Aportación a la Infraestructura Social (FAIS)</td>
                         <td style="width: 10%;">
                             <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                             <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
@@ -1087,7 +1087,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Aportación Fortalecimiento Municipios (FORTAMUN)</td>
+                        <td style="width: 60%; color: black">Aportación Fortalecimiento Municipios (FORTAMUN)</td>
                         <td style="width: 10%;">
                             <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                             <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
@@ -1106,7 +1106,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Aportación Federal para Seguridad Pública</td>
+                        <td style="width: 60%; color: black">Aportación Federal para Seguridad Pública</td>
                        <td style="width: 10%;">
                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                             <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
@@ -1125,7 +1125,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Aportación para la Educación Tecnológica y de Adultos  (FAETA)</td>
+                        <td style="width: 60%; color: black">Aportación para la Educación Tecnológica y de Adultos  (FAETA)</td>
                        <td style="width: 10%;">
                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                             <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
@@ -1144,7 +1144,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Obligaciones con Fondos Federales</td>
+                        <td style="width: 60%; color: black">Obligaciones con Fondos Federales</td>
                         <td style="width: 10%;">
                             <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                             <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
@@ -1163,7 +1163,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Ejercicio y Destino de Gasto Federalizado</td>
+                        <td style="width: 60%; color: black">Ejercicio y Destino de Gasto Federalizado</td>
                        <td style="width: 10%;">
                           <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIO/EYDGF-GTO-ITESG-1T-23.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                             <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIO/EYDGF-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
@@ -1182,7 +1182,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Evaluación de Recursos Federales</td>
+                        <td style="width: 60%; color: black">Evaluación de Recursos Federales</td>
                         <td style="width: 10%;">
                             <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                             <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
@@ -1208,7 +1208,7 @@
                     <thead style="background-color: #0073D1; color: #FFFFFF"><tr><th>Documento</th><th>1er. Trim.</th><th>2do. Trim.</th><th>3er. Trim.</th><th>4to. Trim.</th></tr></thead>
                     <tbody>
                     <tr>
-                        <td style="width: 60%;">Estado de Situación financiera</td>
+                        <td style="width: 60%; color: black">Estado de Situación financiera</td>
                         <td style="width: 10%;">
                             <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/DISCIPLINA/ESF-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
@@ -1223,7 +1223,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Informe Analítico de la Deuda Pública y otros Pasivos</td>
+                        <td style="width: 60%; color: black">Informe Analítico de la Deuda Pública y otros Pasivos</td>
                            <td style="width: 10%;">
                              <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/DISCIPLINA/EADOP-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
@@ -1238,7 +1238,7 @@
                         </td>
                     </tr>
                      <tr>
-                        <td style="width: 60%;">Informe Analítico de Obligaciones Diferentes de Financiamientos</td>
+                        <td style="width: 60%; color: black">Informe Analítico de Obligaciones Diferentes de Financiamientos</td>
                            <td style="width: 10%;">
                               <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/DISCIPLINA/IAODF-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
@@ -1253,7 +1253,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Balance Presupuestario</td>
+                        <td style="width: 60%; color: black">Balance Presupuestario</td>
                           <td style="width: 10%;">
                               <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/DISCIPLINA/BP-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
@@ -1268,7 +1268,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Estado Analítico de Ingresos</td>
+                        <td style="width: 60%; color: black">Estado Analítico de Ingresos</td>
                         <td style="width: 10%;">
                               <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/DISCIPLINA/EAI-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
@@ -1283,7 +1283,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Estado Analítico del Presupuesto de Egresos (Objeto)</td>
+                        <td style="width: 60%; color: black">Estado Analítico del Presupuesto de Egresos (Objeto)</td>
                      <td style="width: 10%;">
                              <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/DISCIPLINA/EAEPECOG-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
@@ -1298,7 +1298,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Estado Analítico del Presupuesto de Egresos (Administrativa)</td>
+                        <td style="width: 60%; color: black">Estado Analítico del Presupuesto de Egresos (Administrativa)</td>
                        <td style="width: 10%;">
                               <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/DISCIPLINA/EAEPE CA-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
@@ -1313,7 +1313,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Estado Analítico del Presupuesto de Egresos (Funcional)</td>
+                        <td style="width: 60%; color: black">Estado Analítico del Presupuesto de Egresos (Funcional)</td>
                          <td style="width: 10%;">
                              <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/DISCIPLINA/EAEPE CF-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
@@ -1328,7 +1328,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="width: 60%;">Estado Analítico del Presupuesto de Egresos (Categoría)</td>
+                        <td style="width: 60%; color: black">Estado Analítico del Presupuesto de Egresos (Categoría)</td>
                         <td style="width: 10%;">
                               <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/DISCIPLINA/EAEPECSPC-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
