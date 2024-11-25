@@ -266,8 +266,12 @@
                                                             target="_blank">Titulación</a></li>
                                                 </ul>
                                             </li>
-                                            <li class="dropdown"><a href="rh.php">Recursos Humanos</a></li>
-                                            <li class="dropdown"><a href="compras.php">Compras</a></li>
+                                            <li class="dropdown"><a
+                                                    href="../images/display/avisoprivacidadrh.jpg"
+                                                    target="_blank">Recursos Humanos</a></li>
+                                            <li class="dropdown"><a
+                                                    href="../images/display/aviso_priv_compras.jpg"
+                                                    target="_blank">Compras</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown">
