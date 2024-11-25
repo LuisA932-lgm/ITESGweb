@@ -1619,6 +1619,6 @@
         </i> Consejo de Armonización Contable del Estado de Guanajuato</a>
 
     <p align="center"><img src="https://www.itesg.edu.mx/images/logos/todos.jpg"></p>
+    <p class="FE" id="FechaL">LO HIZO JULIO</p>
 </body>
-
 </html>
