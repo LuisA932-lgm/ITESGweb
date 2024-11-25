@@ -84,7 +84,7 @@ fieldset[disabled] a.btn {
 .btn-default.focus,
 .btn-default:focus {
     color: #FFF;
-    background-color: #333;
+    background-color: #042433;
     border-color: #6F7271
 }
 
@@ -213,7 +213,7 @@ fieldset[disabled] .btn-primary:hover {
 }
 
 .font-changer button:hover {
-    background: -webkit-linear-gradient(top, #042433 0, #fff 100%);
+    background: -webkit-linear-gradient(top, #e0e0e0 0, #fff 100%);
     background: linear-gradient(to bottom, #e0e0e0 0, #fff 100%)
 }
 
