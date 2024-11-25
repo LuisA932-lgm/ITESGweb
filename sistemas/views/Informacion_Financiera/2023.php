@@ -686,7 +686,7 @@
     <thead style="background-color: #0073D1; color: #FFFFFF"><tr><th>Documento</th><th>1er. Trim.</th><th>2do. Trim.</th><th>3er. Trim.</th><th>4to. Trim.</th></tr></thead>
                     <tbody>
                     <tr>
-                        <td style="width: 60%;">Estado analítico de ingresos CE</td>
+                        <td style="width: 60%; color: black">Estado analítico de ingresos CE</td>
                         <td style="width: 10%;">
                           <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIA/EAIE-GTO-ITESG-1T-23.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                             <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/PRESUPUESTARIA/EAIE-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
