@@ -85,56 +85,56 @@
 
     #InfC {
         font-size: 18px;
-        margin-left: 15px;
+        margin-left: 100px;
         margin-top: 10px;
         font-weight: bold;
     }
 
     #InfP {
         font-size: 18px;
-        margin-left: 15px;
+        margin-left: 100px;
         margin-top: 10px;
         font-weight: bold;
     }
 
     #IProgra {
         font-size: 18px;
-        margin-left: 15px;
+        margin-left:100px;
         margin-top: 10px;
         font-weight: bold;
     }
 
     #InvB {
         font-size: 18px;
-        margin-left: 15px;
+        margin-left: 100px;
         margin-top: 10px;
         font-weight: bold;
     }
 
     #EjerP {
         font-size: 18px;
-        margin-left: 15px;
+        margin-left: 100px;
         margin-top: 10px;
         font-weight: bold;
     }
 
     #InfoDi {
         font-size: 18px;
-        margin-left: 15px;
+        margin-left: 100px;
         margin-top: 10px;
         font-weight: bold;
     }
 
     #InfoDiFin {
         font-size: 18px;
-        margin-left: 15px;
+        margin-left: 100px;
         margin-top: 10px;
         font-weight: bold;
     }
 
     #ManCon {
         font-size: 18px;
-        margin-left: 15px;
+        margin-left: 100px;
         margin-top: 10px;
         font-weight: bold;
     }
@@ -142,14 +142,14 @@
     #FechaL {
         font-size: 16px;
         color: black;
-        margin-left: 15px;
+        margin-left: 100px;
         margin-top: 20px;
     }
 
     #ResInfo {
         font-size: 17px;
         color: black;
-        margin-left: 15px;
+        margin-left: 100px;
         margin-top: 20px;
     }
 
