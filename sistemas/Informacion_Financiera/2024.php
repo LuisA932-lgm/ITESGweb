@@ -181,15 +181,15 @@
     #Enla {
         font-size: 17px;
         color: black;
-        margin-left: 15px;
+        margin-left: 100px;
     }
 
     #ConsejoN {
-        margin-left: 15px;
+        margin-left: 100px;
     }
 
     #ConsejoA {
-        margin-left: 15px;
+        margin-left: 100px;
     }
 
 
