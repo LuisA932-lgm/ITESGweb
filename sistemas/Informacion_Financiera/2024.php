@@ -28,7 +28,7 @@
         text-align: left;
         font-weight: bold;
         margin-bottom: 20px;
-        margin-left: 15px;
+        margin-left: 100px;
     }
 
     #subtitulo3 {
@@ -37,27 +37,27 @@
         text-align: left;
         font-weight: bold;
         margin-bottom: 20px;
-        margin-left: 15px;
+        margin-left: 100px;
     }
 
     #link {
         font-size: 18px;
         margin-top: -25px;
-        margin-left: 15px;
+        margin-left: 100px;
         font-weight: bold;
     }
 
     #trans {
         color: black;
         font-size: 18px;
-        margin-left: 15px;
+        margin-left: 100px;
         margin-top: -20px;
         font-weight: bold;
     }
 
     #ingreso {
         font-size: 18px;
-        margin-left: 15px;
+        margin-left: 100px;
         margin-top: -20px;
         font-weight: bold;
     }
