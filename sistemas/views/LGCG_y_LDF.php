@@ -239,12 +239,13 @@ fieldset[disabled] .btn-primary:hover {
   </html>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
-    function loadContent(year) {
-        $(document).ready(function() {
-        loadContent(2024); 
+
+
+$(document).ready(function() {
+        loadContent(2023); // Carga el año 2023 por defecto
     });
 
-        
+    function loadContent(year) {
         $.ajax({
             url: `http://localhost/ITESGWEB/sistemas/Informacion_Financiera/${year}.php`, 
             type: "GET",
