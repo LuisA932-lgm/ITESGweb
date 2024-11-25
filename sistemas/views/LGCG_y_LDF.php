@@ -240,6 +240,10 @@ fieldset[disabled] .btn-primary:hover {
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
     function loadContent(year) {
+        $(document).ready(function() {
+        loadContent(2024); 
+    });
+
         
         $.ajax({
             url: `http://localhost/ITESGWEB/sistemas/Informacion_Financiera/${year}.php`, 
