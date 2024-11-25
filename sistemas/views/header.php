@@ -31,7 +31,6 @@
     </script>
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js"></script>
     <style>
-        <style>
         .article-body{
             padding-top: 0px;
         }
