@@ -1,0 +1,22 @@
+.imagen_1{
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    padding: auto;
+    display: flex;
+    }
+    h5{
+        text-align: center;
+        align-items: center;
+        margin: auto;
+        padding: auto;
+        display: flex;
+        color:#b5812d;
+    }
+
+    .pconv{
+        color:blue;
+    }
+    .uconv{
+        color:blue;
+    }
