@@ -438,31 +438,31 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Proyecciones de Ingresos</td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/5.%20Proyecciones%20de%20Ingresos%202024.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/5.%20Proyecciones%20de%20Ingresos%202024.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 80%; color:black">Proyecciones de Egresos</td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/6.%20Proyecciones%20de%20Egresos%202024.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/6.%20Proyecciones%20de%20Egresos%202024.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Resultados de Ingresos</td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/7.%20Resultados%20de%20los%20ingresos%202024.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/7.%20Resultados%20de%20los%20ingresos%202024.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 80%; color:black">Resultados de Egresos</td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/8.%20Resultados%20de%20los%20egresos%202024.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/8.%20Resultados%20de%20los%20egresos%202024.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Informe de Estudios Actuariales</td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/9.%20Informe%20Estudios%20Actuariales%202024.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/9.%20Informe%20Estudios%20Actuariales%202024.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg title="Archivo Excel"></a>
                 </td>
             </tr>
         </tbody>
