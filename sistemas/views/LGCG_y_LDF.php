@@ -242,7 +242,7 @@ fieldset[disabled] .btn-primary:hover {
 
 
 $(document).ready(function() {
-        loadContent(2023); // Carga el año 2023 por defecto
+        loadContent(2024);
     });
 
     function loadContent(year) {
