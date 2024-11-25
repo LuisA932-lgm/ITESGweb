@@ -131,7 +131,7 @@ fieldset[disabled] .btn-default:focus,
 fieldset[disabled] .btn-default:hover {
     color: #FFF;
     background-color: #6F7271;
-    border-color:#042433;
+    border-color: #6F7271
 }
 .btn-default .badge {
     color: #fff;
@@ -194,7 +194,7 @@ fieldset[disabled] .btn-primary:focus,
 fieldset[disabled] .btn-primary:hover {
     color: #FFF;
     background-color: #9D2449;
-    border-color: #9D2449
+    border-color: #042433;
 }
 .font-changer button {
     display: block;
