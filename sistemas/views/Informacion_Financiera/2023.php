@@ -1013,20 +1013,20 @@
                     <tr>
                         <td style="width: 60%;">Programas con recursos Federales por orden de Gobierno</td>
                         <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                         <td style="width: 10%;">
-                           <a> <img src="images/NA.png" title="No Aplica"></a>
-                           <a> <img src="images/NA.png" title="No Aplica"></a>
+                           <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                           <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                        <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                        <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                     </tr>
                     <tr>
@@ -1051,115 +1051,115 @@
                     <tr>
                         <td style="width: 60%;">Aportación Federal para la Salud</td>
                         <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                         <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                         <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                         <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                      </tr>
 		     <tr>
                         <td style="width: 60%;">Aportación a la Infraestructura Social (FAIS)</td>
                         <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                         <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                         <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                         <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                     </tr>
                     <tr>
                         <td style="width: 60%;">Aportación Fortalecimiento Municipios (FORTAMUN)</td>
                         <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                         <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                         <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                         <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                     </tr>
                     <tr>
                         <td style="width: 60%;">Aportación Federal para Seguridad Pública</td>
                        <td style="width: 10%;">
-                           <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                           <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                         <td style="width: 10%;">
-                          <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                          <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                       <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                         <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                     </tr>
                     <tr>
                         <td style="width: 60%;">Aportación para la Educación Tecnológica y de Adultos  (FAETA)</td>
                        <td style="width: 10%;">
-                           <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                           <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                         <td style="width: 10%;">
-                           <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                           <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                         <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                         <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                     </tr>
                     <tr>
                         <td style="width: 60%;">Obligaciones con Fondos Federales</td>
                         <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                         <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                         <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                         <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                     </tr>
                     <tr>
@@ -1184,20 +1184,20 @@
                     <tr>
                         <td style="width: 60%;">Evaluación de Recursos Federales</td>
                         <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                         <td style="width: 10%;">
-                           <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                           <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                        <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                         <td style="width: 10%;">
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
-                            <a> <img src="images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                            <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                         </td>
                     </tr>
                 </tbody>
