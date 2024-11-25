@@ -394,7 +394,7 @@
                 <td style="width: 80%; color:black">Calendario de Egreso</td>
                 <td style="width: 20%;">
                     <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/4.CALENDARIO%20DE%20EGRESOS%202023.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/4.CALENDARIO%20DE%20EGRESOS%202023.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="https://www.itesg.edu.mx/images/excel_1.jpg"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/4.CALENDARIO%20DE%20EGRESOS%202023.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
             <tr>
