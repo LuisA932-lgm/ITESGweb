@@ -419,7 +419,7 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">PBR</td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/PBR_EjeDeGobierno_VI.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/PBR_EjeDeGobierno_VI.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
         </tbody>
