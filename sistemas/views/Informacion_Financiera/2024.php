@@ -941,16 +941,16 @@
             <tr>
                 <td style="width: 60%; color: black">Un flujo de fondos</td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIA/FF-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIA/FF-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIA/FF-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIA/FF-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIA/FF-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIA/FF-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIA/FF-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIA/FF-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIA/FF-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIA/FF-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIA/FF-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIA/FF-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
                     <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
@@ -1002,16 +1002,16 @@
             <tr>
                 <td style="width: 60%;  color: black"">Programas y proyectos de inversión</td>
                 <td style=" width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PROGRAMATICA/PPI-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PROGRAMATICA/PPI-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PROGRAMATICA/PPI-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PROGRAMATICA/PPI-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PROGRAMATICA/PPI-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PROGRAMATICA/PPI-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PROGRAMATICA/PPI-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PROGRAMATICA/PPI-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PROGRAMATICA/PPI-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PROGRAMATICA/PPI-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PROGRAMATICA/PPI-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PROGRAMATICA/PPI-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
                     <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
@@ -1025,16 +1025,16 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 60%;  color: black"">Indicadores de resultados</td>
                 <td style=" width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PROGRAMATICA/IR-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PROGRAMATICA/IR-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PROGRAMATICA/IR-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PROGRAMATICA/IR-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PROGRAMATICA/IR-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PROGRAMATICA/IR-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PROGRAMATICA/IR-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PROGRAMATICA/IR-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PROGRAMATICA/IR-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PROGRAMATICA/IR-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PROGRAMATICA/IR-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PROGRAMATICA/IR-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
                     <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
