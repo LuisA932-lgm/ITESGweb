@@ -490,7 +490,7 @@
 
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/EA-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg title=" Archivo PDF"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/EA-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title= Archivo PDF"></a>
                     <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/EA-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
@@ -532,8 +532,8 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 60%; color: black">Estado de variación en la hacienda pública</td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/EVHP-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/EVHP-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/EVHP-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/EVHP-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
                     <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/EVHP-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
