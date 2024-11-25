@@ -12,7 +12,7 @@ include 'header.php';
 
 <body>
     <article class="article fulltext ">
-        <section class="article-body1">
+        <section class="article-body">
             <div class="text-center">
                 <img src="../images/headers/h_directorio.jpg">
             </div>
