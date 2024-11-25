@@ -1605,7 +1605,7 @@
 
     <div class="INGE" id="Eduardo">
         <td style="width: 34%;">Ing. Eduardo Rojas González <br>
-            Jefe de Departamento de Centro de Cómputo
+            Jefe de Departamento de Centro de Cómputo<br>
             Tel. 473 73 4 78 78 Ext. 4
         </td>
     </div><br>
