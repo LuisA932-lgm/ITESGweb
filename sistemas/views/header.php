@@ -173,7 +173,7 @@
 
 
                     <div class="col text-center wow animate__fadeIn" data-wow-delay="0.8s">
-                        <a href="https://surguanajuato.tecnm.mx"><img src="../images/grecas/client-logo-7.png" alt="" height="342px" width="136px"/></a>
+                        <a href="https://surguanajuato.tecnm.mx"><img src="../images/grecas/client-logo-7.png" alt="" height="342px" width="136px" style="margin-top: 12px; margin-right: 200px "/></a>
                     </div>
 
                 </div>
