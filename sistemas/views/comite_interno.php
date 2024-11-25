@@ -82,26 +82,26 @@ include 'header.php';
                             <td><a href="../images/comite/2.1_Codigo_de_Etica.pdf"
                                     target="_blank">
                                     <img alt="Código de ética" src="../images/comite/2_Codigo.png" width="72" height="98"
-                                        border="5" style="hidden">
+                                         style="hidden">
                                 </a><strong>Código de ética</strong></td>
                         </tr>
 
                         <tr>
                             <td><a href="../images/comite/1.2_Valor_igualdad.jpg" target="_blank">
                                     <img alt="valor_igualdad" src="../images/comite/1.2a1.4_Prevenir.png" width="72"
-                                        height="98" border="5" style="hidden">
+                                        height="98"  style="hidden">
                                 </a><strong>Valor de la Igualdad</strong></td>
 
                             <td><a href="../images/comite/1.3_Practicas_de_discriminacion.jpg" target="_blank">
                                     <img alt="Practicas_discrimicacion" src="../images/comite/1.2a1.4_Prevenir.png"
-                                        width="72" height="98" border="5" style="hidden">
+                                        width="72" height="98"  style="hidden">
                                 </a><strong>Practicas de Discriminación</strong></td>
                         </tr>
 
                         <tr>
                             <td><a href="../images/comite/1.4_discriminacion_trabajo.jpg" target="_blank">
                                     <img alt="Discriminiacion_Trabajo" src="../images/comite/1.2a1.4_Prevenir.png"
-                                        width="72" height="98" border="5" style="hidden">
+                                        width="72" height="98"  style="hidden">
                                 </a><strong>Discriminación en el Trabajo</strong></td>
 
                             <td></td>
@@ -127,7 +127,7 @@ include 'header.php';
                 <font face="Arial,Verdana"><br>
 
                     <div style="text-align:center;">
-                        <img src="../images/comite/3_comite_ilynd.jpg"
+                        <img src="../images/comite/comite_igualdad.jpg"
                             alt="Cómite de Igualdad Laboral y No Discriminación">
                     </div>
                     <table>
@@ -141,12 +141,12 @@ include 'header.php';
                             <tr>
                                 <td><a href="../images/comite/3.2_Lineamientos_del_Comite.pdf" target="_blank">
                                         <img alt="Lineamientos" src="../images/comite/3.1_Lineamientos.png" width="72"
-                                            height="98" border="5" style="hidden">
+                                            height="98"  style="hidden">
                                     </a><strong>Lineamientos del comité</strong></td>
 
                                 <td><a href="../images/comite/3.4_como_funciona.jpg" target="_blank">
                                         <img alt="Como funciona" src="../images/comite/3.3_como_funciona.png" width="72"
-                                            height="98" border="5" style="hidden">
+                                            height="98"  style="hidden">
                                     </a><strong>Cómo funciona</strong></td>
                             </tr>
                         </tbody>
@@ -183,24 +183,24 @@ include 'header.php';
                                 <tr>
                                     <td><a href="../images/comite/Capacitacion.pdf" target="_blank">
                                             <img alt="Capacitación" src="../images/comite/5_Capacitacion.png" width="72"
-                                                height="98" border="5" style="hidden">
+                                                height="98"  style="hidden">
                                         </a><strong>Capacitación</strong></td>
 
                                     <td><a href="../images/comite/6.1_decalogo.pdf" target="_blank">
                                             <img alt="Lenguaje" src="../images/comite/6_Lenguaje.png" width="72"
-                                                height="98" border="5" style="hidden">
+                                                height="98"  style="hidden">
                                         </a><strong>Lenguaje</strong></td>
                                 </tr>
 
                                 <tr>
                                     <td><a href="../images/comite/acciones.pdf" target="_blank">
                                             <img alt="valor_igualdad" src="../images/comite/7_acciones.png" width="72"
-                                                height="98" border="5" style="hidden">
+                                                height="98"  style="hidden">
                                         </a><strong>Acciones</strong></td>
 
                                     <td><a href="../images/comite/7.3_ Reglamento_lactario.pdf" target="_blank">
                                             <img alt="Lactario" src="../images/comite/7.2_Reg_lactario.png" width="72"
-                                                height="98" border="5" style="hidden">
+                                                height="98"  style="hidden">
                                         </a><strong>Reglamento Lactario</strong></td>
                                 </tr>
                             </tbody>
@@ -213,20 +213,20 @@ include 'header.php';
                             <h4>Atención de quejas.</h4>
                         </left><br>
 
-                        <p align="center"><img src="../images/comite/ombusperson_ciilynd.jpg" alt="Ombudsperson"
-                                width="80%" height="60%"></p><br><br>
+                        <p align="center"><img src="../images/comite/ombusperson.jpg" alt="Ombudsperson"
+                                width="50%" height="auto"></p><br><br>
 
                         <table style="margin: 0 auto;">
                             <tbody>
                                 <tr>
                                     <td><a href="../images/comite/X_X_X.pdf" target="_blank">
                                             <img alt="Prevenir" src="../images/comite/6_PREVENIR.png" width="72"
-                                                height="98" border="5" style="hidden">
+                                                height="98"  style="hidden">
                                         </a><strong>Prevenir</strong></td>
 
                                     <td><a href="../images/comite/6.1.2_protocolo_gto.pdf" target="_blank">
                                             <img alt="Protocolo" src="../images/comite/6.1_protocolo.png" width="72"
-                                                height="98" border="5" style="hidden">
+                                                height="98"  border-style="hidden">
                                         </a><strong>Protocolo Guanajuato</strong></td>
                                 </tr>
                             </tbody>

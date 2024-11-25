@@ -318,33 +318,33 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Iniciativa de Ingresos</td>
                 <td style="width: 20%;">
-                    <a href="https://congreso-gto.s3.amazonaws.com/uploads/orden_archivo/archivo/27431/04__LeyIngresos_ELD_403-LXV-I.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://congreso-gto.s3.amazonaws.com/uploads/orden_archivo/archivo/27431/04__LeyIngresos_ELD_403-LXV-I.pdf" target="_blank"> <img src="../images/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 80%; color:black">Información Adicional a la Iniciativa de Ingresos</td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/IAII_ITSG_2023.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/IAII_ITSG_2023.pdf" target="_blank"> <img src="../images/pdf_1.jpg" title="Archivo PDF"></a>
                     <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/IAII_ITSG_2023.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Dictámenes Acuerdo y Actas </td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/Dictamenes_Acuerdo_y_Actas_ingreso_2024.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://congreso-gto.s3.amazonaws.com/uploads/dictamen/archivo/5558/6513654.pdf" target="_blank"> <img src="../images/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 80%; color:black">Ley de Ingresos </td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/Ley_de_Ingresos_2024.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://congreso-gto.s3.amazonaws.com/uploads/dictamen/decreto_firmado/5558/DECRETO_175.pdf" target="_blank"> <img src="../images/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Calendario de Ingresos</td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/2.CALENDARIO%20INGRESOS%20ITSG%202024.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/2.CALENDARIO%20INGRESOS%20ITSG%202024.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/CI_ITSG_2023.pdf" target="_blank"> <img src="../images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/CI_ITSG_2023.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
         </tbody>
@@ -362,39 +362,39 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Proyecto de presupuesto de egresos</td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/Proyecto_de_presupuesto_de_egresos_2024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://congreso-gto.s3.amazonaws.com/uploads/orden_archivo/archivo/27432/05__LeyEgresos_ELD_404-LXV-I.pdf" target="_blank"> <img src="../images/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 80%; color:black">Información Adicional al proyecto de presupuesto de egresos</td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/3.INF.%20ADIC.%20PROYECTO%20PPTO.%20EGRESOS%202024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="/LGCGyLDF/EJ2024/3.INF.%20ADIC.%20PROYECTO%20PPTO.%20EGRESOS%202024.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/IAPPPTOE_ITSG_2023.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/IAPPPTOE_ITSG_2023.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Dictámenes Acuerdo y Actas </td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/Dictamenes_Acuerdo_y_Actas_egreso_2024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://congreso-gto.s3.amazonaws.com/uploads/dictamen/archivo/5560/6513655.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 80%; color:black">Presupuesto de Egresos</td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/Presupuesto_de_Egresos_2024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://congreso-gto.s3.amazonaws.com/uploads/reforma/pdf/3448/LPGE_2023_PO_30Dic2022_ANX14.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Calendario de Egreso</td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/4.CALENDARIO%20DE%20EGRESOS%202023.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="/LGCGyLDF/EJ2024/4.CALENDARIO%20DE%20EGRESOS%202023.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/CE_ITSG_2023.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/CE_ITSG_2023.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 80%; color:black">Presupuesto Ciudadano</td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/PresupuestoCiudadano-2.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/PresupuestoCiudadano.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
         </tbody>
@@ -413,7 +413,7 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">PBR</td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/PBR_EjeDeGobierno_VI.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/PBR.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
         </tbody>
@@ -432,19 +432,19 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Proyecciones de Ingresos</td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/5.%20Proyecciones%20de%20Ingresos%202024.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/PI_ITESG_2023.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 80%; color:black">Proyecciones de Egresos</td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/6.%20Proyecciones%20de%20Egresos%202024.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/PE_ITSG_2023.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Resultados de Ingresos</td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/7.%20Resultados%20de%20los%20ingresos%202024.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/RI_ITSG_2023.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
             <tr>

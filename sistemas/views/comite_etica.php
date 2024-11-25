@@ -22,8 +22,8 @@ include 'header.php';
                 <img src="../images/comite/COM_INT_ET.jpg">
             </div>
 
-            <div class="text-center">
-                <img src="../images/comite/BAN_WEB_COM_INT.jpg" class="img-full-width">
+            <div class="text-center" >
+                <img src="../images/comite/comite_interno.jpg" class="img-full-width" style="width: 50%; height: auto;">
             </div>
 
             <div class="d-flex align-items-center my-3">
