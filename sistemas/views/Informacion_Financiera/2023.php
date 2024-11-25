@@ -682,7 +682,7 @@
         </tbody>
     </table>
     <h3 class="IP" id="InfP" style="color: #FB008A">Información Presupuestaria</h3>
-    <table align="center" width="90%" class="table5">
+    <table align="center" width="90%" class="table5" id="t5">
                     <thead style="background-color: #0073D1; color: #FFFFFF"><tr><th>Documento</th><th>1er. Trim.</th><th>2do. Trim.</th><th>3er. Trim.</th><th>4to. Trim.</th></tr></thead>
                     <tbody>
                     <tr>
