@@ -301,22 +301,24 @@
                             </li>
                                 
 
-                        <li class="nav-item dropdown simple-dropdown">
+                                          <li class="nav-item dropdown simple-dropdown ">
                             <a href="#" class="nav-link">Aspirantes</a><i class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
                             <ul class="dropdown-menu" role="menu">
                                 <li class="dropdown"><a href="#">Examen de Admisión 6 de diciembre <i class="fas fa-angle-right dropdown-toggle"></i></a>
                                     <ul class="dropdown-menu" role="menu">
-                                        <li class="dropdown"><a href=".html">Pre-registro examen de admisión</a></li>
+                                        <li class="dropdown"><a href="javascript: abrirNuevaVentana()">Pre-registro examen de admisión</a></li>
                                     </ul></li>
                                 <li class="dropdown"><a href="#">Convocatoria Admisión <i class="fas fa-angle-right dropdown-toggle"></i></a>
                                     <ul class="dropdown-menu" role="menu">
-                                        <li class="dropdown"><a href="#">Ago-Dic 2024 <i class="fas fa-angle-right dropdown-toggle"></i></a>
+                                        <li class="dropdown"><a href="#">Enero - Junio 2025 <i class="fas fa-angle-right dropdown-toggle"></i></a>
                                             <ul class="dropdown-menu" role="menu">
-                                                <li class="dropdown"><a href=".html">Convocatoria Examen Evaluatec</a></li>
+                                                <li class="dropdown"><a href="index_exevtec.php">Convocatoria Examen Evaluatec</a></li>
                                                 <li class="dropdown"><a href=".html">Convocatoria Curso Propedéutico</a></li>
                                                 <li class="dropdown"><a href=".html">Convocatoria 2 Examen Evaluatec</a></li>
                                             </ul></li>
                                     </ul></li>
+                                    
+                                <li class="dropdown"><a href=".html">Curso de inducción</a></li>    
                                 <li class="dropdown"><a href=".html">Interesados</a></li>
                             </ul>
                         </li>
@@ -770,5 +772,11 @@
     });
 </script>
 <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
+    function abrirNuevaVentana(parametros) {
+        var url = 'https://escolares.itesg.edu.mx/gw/preregistro/';
+        var nuevaVentana = (window.open(url, 'preresigstro'));
+        if (nuevaVentana ) {
+            nuevaVentana .focus();
+        }
+    }
 </html>
