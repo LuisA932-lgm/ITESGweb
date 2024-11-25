@@ -130,7 +130,7 @@ fieldset[disabled] .btn-default:active,
 fieldset[disabled] .btn-default:focus,
 fieldset[disabled] .btn-default:hover {
     color: #FFF;
-    background-color: #042433;
+    background-color: #6F7271;
     border-color: #6F7271
 }
 .btn-default .badge {
@@ -213,7 +213,7 @@ fieldset[disabled] .btn-primary:hover {
 }
 
 .font-changer button:hover {
-    background: -webkit-linear-gradient(top, #e0e0e0 0, #fff 100%);
+    background: -webkit-linear-gradient(top, #042433 0, #fff 100%);
     background: linear-gradient(to bottom, #e0e0e0 0, #fff 100%)
 }
 
