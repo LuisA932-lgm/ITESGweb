@@ -241,7 +241,7 @@ fieldset[disabled] .btn-primary:hover {
 <script>
     function loadContent(year) {
         $(document).ready(function() {
-        loadContent(2018); 
+        loadContent(2024); 
     });
 
         
