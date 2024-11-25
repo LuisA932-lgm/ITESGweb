@@ -39,34 +39,34 @@
             padding-left: 10px;
             padding-top: 0px;
         }
-        .article-body h3, .article-body1 h3 {
+        .article-body h3 {
             color: #039;
             font-family: 'Lato', sans-serif;
             font-size: 28px;
             font-weight: bold;
         }
 
-        .article-body h4, .article-body1 h4 {
+        .article-body h4 {
             color: #b5812d;
             font-family: 'Lato', sans-serif;
             font-size: 28px;
             font-weight: bold;
         }
 
-        .article-body h5, .article-body1 h5{
+        .article-body h5{
             color: #b5812d;
             font-family: 'Lato', sans-serif;
             font-size: 28px;
             font-weight: bold;
         }
 
-        .article-body a, .article-body1 a {
+        .article-body a {
             color: blue;
             text-decoration: none;
             font-size: 15px;
         }
 
-        .article-body a:hover, .article-body1 a:hover {
+        .article-body a:hover{
             color: darkblue;
             text-decoration: underline;
         }
@@ -78,28 +78,28 @@
             padding-top: 30px;
         }
 
-        .article-body p, .article-body1 p {
+        .article-body p {
             color: #333;
             font-family: 'Lato', sans-serif;
             font-size: 24px;
             font-weight: normal;
         }
 
-        .article-body td, .article-body1 td {
+        .article-body td{
             color: #333;
             font-family: 'Lato', sans-serif;
             font-size: 15px;
             font-weight: normal;
         }
 
-        .article-body th, .article-body1 th {
+        .article-body th{
             color: #333;
             font-family: 'Lato', sans-serif;
             font-size: 15px;
             font-weight: bold;
         }
 
-        .article-body li, .article-body1 li {
+        .article-body li {
             color: #333;
             font-family: 'Lato', sans-serif;
             font-size: 24px;
@@ -110,6 +110,12 @@
             /* Hace que la imagen ocupe todo el ancho del contenedor */
             height: auto;
             /* Mantiene la proporción de la imagen */
+        }
+        .dropdown-item.active,
+        .dropdown-item:active {
+            color: #fff;
+            text-decoration: none;
+            background-color: #E4E4E4;
         }
     </style>
 </head>
@@ -201,41 +207,43 @@
     </div>
 
 
-    <nav class="navbar navbar-expand-lg top-space navbar-dark bg-transparent-extra-dark-blue header-dark fixed-top header-reverse-scroll">
-        <div class="container-lg nav-header-container">
-<!--            //SE COMENTAN LAS IMAGENES PARA QUE SE CENTRE EL CONTENIDO DEL MENU-->
-            <!--<div class="col-2 col-lg-2 me-auto ps-lg-0">
+    <nav
+            class="navbar navbar-expand-lg top-space navbar-dark bg-transparent-extra-dark-blue header-dark fixed-top header-reverse-scroll">
+            <div class="container-lg nav-header-container">
+                <!--            //SE COMENTAN LAS IMAGENES PARA QUE SE CENTRE EL CONTENIDO DEL MENU-->
+                <!--<div class="col-2 col-lg-2 me-auto ps-lg-0">
                 <a class="navbar-brand" href="https://surguanajuato.tecnm.mx">
                     <img src="images/grecas/logo-white-NO.png" data-at2x="../images/grecas/logo-white-NO@2x.png" class="default-logo" alt="">
                     <img src="images/grecas/logo-white.png" data-at2x="../images/grecas/logo-whiteg@2x.png" class="alt-logo" alt="">
                     <img src="images/grecas/logo-white.png" data-at2x="../images/grecas/logo-white@2x.png" class="mobile-logo" alt="">
                 </a>
             </div>-->
-            <div class="col-auto col-lg-12 menu-order px-lg-0">
-                <button class="navbar-toggler float-end" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-line"></span>
-                    <span class="navbar-toggler-line"></span>
-                    <span class="navbar-toggler-line"></span>
-                    <span class="navbar-toggler-line"></span>
-                </button>
-                <div class=" collapse navbar-collapse justify-content-center" id="navbarNav">
-                    <ul class="navbar-nav alt-font">
+                <div class="col-auto col-lg-12 menu-order px-lg-0">
+                    <button class="navbar-toggler float-end" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#navbarNav" aria-controls="navbarNav" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-line"></span>
+                        <span class="navbar-toggler-line"></span>
+                        <span class="navbar-toggler-line"></span>
+                        <span class="navbar-toggler-line"></span>
+                    </button>
+                    <div class=" collapse navbar-collapse justify-content-center" id="navbarNav">
+                        <ul class="navbar-nav alt-font">
 
-                        <li class="nav-item dropdown simple-dropdown">
-                            <a href="" class="nav-link">
-                                <i class="fa-solid fa-house icon-extra-small align-middle text-fast-white"></i></a>
-                        </li>
+                            <li class="nav-item dropdown simple-dropdown">
+                                <a href="" class="nav-link">
+                                    <i class="fa-solid fa-house icon-extra-small align-middle text-fast-white"></i></a>
+                            </li>
 
 
-                        <li class="nav-item dropdown simple-dropdown">
+                            <li class="nav-item dropdown simple-dropdown">
                                 <a href="#" class="nav-link">La Instituci&oacute;n</a><i
                                     class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown"
                                     aria-hidden="true"></i>
-                                <ul class="dropdown-menu" role="menu">
+                                <ul class="dropdown-menu dropdown-menu-end" role="menu">
                                     <li class="dropdown"><a href=".html">Organigrama</a></li>
                                     <li class="dropdown"><a href="#">Directorio <i
                                                 class="fas fa-angle-right dropdown-toggle"></i></a>
-                                        <ul class="dropdown-menu">
+                                        <ul class="dropdown-menu dropdown-menu-end">
                                             <li class="dropdown"><a href="administrativo.php">Personal
                                                     Administrativo</a></li>
                                             <li class="dropdown"><a href="docente.php">Personal Docente</a></li>
@@ -245,12 +253,11 @@
                                             Política de Calidad y Ambiente</a></li>
                                     <li class="dropdown"><a href="#">Aviso de Privacidad <i
                                                 class="fas fa-angle-right dropdown-toggle"></i></a>
-                                        <ul class="dropdown-menu">
+                                        <ul class="dropdown-menu dropdown-menu-end">
                                             <li class="dropdown"><a href="#">Servicios Escolares <i
                                                         class="fas fa-angle-right dropdown-toggle"></i></a>
-                                                <ul class="dropdown-menu">
-                                                    <li class="dropdown"><a
-                                                            href="../images/display/datos_contacto.jpg"
+                                                <ul class="dropdown-menu dropdown-menu-end">
+                                                    <li class="dropdown"><a href="../images/display/datos_contacto.jpg"
                                                             target="_blank">Datos Contacto</a></li>
                                                     <li class="dropdown"><a href="../images/display/adm_insc.jpg"
                                                             target="_blank">Admisión Inscripción</a></li>
@@ -259,36 +266,36 @@
                                                             target="_blank">Titulación</a></li>
                                                 </ul>
                                             </li>
-                                            <li class="dropdown"><a
-                                                    href="../images/display/avisoprivacidadrh.jpg"
-                                                    target="_blank">Recursos Humanos</a></li>
-                                            <li class="dropdown"><a
-                                                    href="../images/display/aviso_priv_compras.jpg"
-                                                    target="_blank">Compras</a></li>
+                                            <li class="dropdown"><a href="rh.php">Recursos Humanos</a></li>
+                                            <li class="dropdown"><a href="compras.php">Compras</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="#">Calendario <i
-                                                class="fas fa-angle-right dropdown-toggle"></i></a>
-                                        <ul class="dropdown-menu">
-                                            <li class="dropdown"><a href=".html">2019-2020</a></li>
-                                            <li class="dropdown"><a href=".html">2020-2021</a></li>
-                                            <li class="dropdown"><a href=".html">2021-2022</a></li>
-                                            <li class="dropdown"><a href=".html">2022-2023</a></li>
-                                            <li class="dropdown"><a href=".html">2023-2024</a></li>
-                                            <li class="dropdown"><a href="2024-2025.php">2024-2025</a></li>
+                                    <li class="dropdown">
+                                        <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown">Calendario <i
+                                                class="fas fa-angle-right"></i></a>
+                                        <ul class="dropdown-menu dropdown-menu-end p-3"
+                                            style="max-height: 200px; overflow-y: auto;">
+                                            <li><a href=".html" class="dropdown-item">2019-2020</a></li>
+                                            <li><a href=".html" class="dropdown-item">2020-2021</a></li>
+                                            <li><a href=".html" class="dropdown-item">2021-2022</a></li>
+                                            <li><a href=".html" class="dropdown-item">2022-2023</a></li>
+                                            <li><a href=".html" class="dropdown-item">2023-2024</a></li>
+                                            <li><a href="2024-2025.php" class="dropdown-item">2024-2025</a></li>
                                         </ul>
                                     </li>
+
                                     <li class="dropdown"><a href="#">Comités <i
                                                 class="fas fa-angle-right dropdown-toggle"></i></a>
-                                        <ul class="dropdown-menu">
-                                            <li class="dropdown"><a href="comite_interno.php">Igualdad Laboral y No Disciminación</a>
+                                        <ul class="dropdown-menu dropdown-menu-end">
+                                            <li class="dropdown"><a href="comite_interno.php">Igualdad Laboral y No
+                                                    Disciminación</a>
                                             </li>
                                             <li class="dropdown"><a href="comite_etica.php">Comité de Ética</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="#">Calidad <i
                                                 class="fas fa-angle-right dropdown-toggle"></i></a>
-                                        <ul class="dropdown-menu">
+                                        <ul class="dropdown-menu dropdown-menu-end">
                                             <li class="dropdown"><a href=".html">SIGCA</a></li>
                                             <li class="dropdown"><a href=".html">Acceso Calidad</a></li>
                                             <li class="dropdown"><a href=".html">Imagen Institucional</a></li>
@@ -298,6 +305,7 @@
                                     <li class="dropdown"><a href=".html">Comunicados</a></li>
                                 </ul>
                             </li>
+
                                 
 
                                           <li class="nav-item dropdown simple-dropdown ">
