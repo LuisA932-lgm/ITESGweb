@@ -1228,7 +1228,7 @@
                 <td style="width: 60%; color: black">Aportación Fortalecimiento Municipios (FORTAMUN)</td>
                 <td style="width: 10%;">
                     <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
-                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                 </td>
                 <td style="width: 10%;">
                     <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
@@ -1247,11 +1247,11 @@
                 <td style="width: 60%; color: black">Aportación Federal para Seguridad Pública</td>
                 <td style="width: 10%;">
                     <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
-                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="https://www.itesg.edu.mx/images/NA.png"></a>
                 </td>
                 <td style="width: 10%;">
                     <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
-                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="https://www.itesg.edu.mx/images/NA.png"></a>
                 </td>
                 <td style="width: 10%;">
                     <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
