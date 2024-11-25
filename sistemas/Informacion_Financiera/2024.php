@@ -64,21 +64,21 @@
 
     #egreso {
         font-size: 18px;
-        margin-left: 15px;
+        margin-left: 100px;
         margin-top: -20px;
         font-weight: bold;
     }
 
     #presupuesto {
         font-size: 18px;
-        margin-left: 15px;
+        margin-left: 100px;
         margin-top: 10px;
         font-weight: bold;
     }
 
     #ide {
         font-size: 18px;
-        margin-left: 15px;
+        margin-left: 100px;
         margin-top: 10px;
         font-weight: bold;
     }
