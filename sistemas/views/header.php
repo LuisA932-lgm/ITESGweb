@@ -771,7 +771,7 @@
 
     });
 </script>
-<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
     function abrirNuevaVentana(parametros) {
         var url = 'https://escolares.itesg.edu.mx/gw/preregistro/';
         var nuevaVentana = (window.open(url, 'preresigstro'));
@@ -779,4 +779,5 @@
             nuevaVentana .focus();
         }
     }
+</script>
 </html>
