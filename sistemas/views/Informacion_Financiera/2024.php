@@ -1189,12 +1189,12 @@
             <tr>
                 <td style="width: 60%; color: black">Aportación Federal para la Salud</td>
                 <td style="width: 10%;">
-                    <a> <img src="images/NA.png" title="No Aplica"></a>
-                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                    <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a> <img src="images/NA.png" title="No Aplica"></a>
-                    <a> <img src="images/NA.png" title="No Aplica"></a>
+                    <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
+                    <a> <img src="https://www.itesg.edu.mx/images/NA.png" title="No Aplica"></a>
                 </td>
                 <td style="width: 10%;">
                     <a> <img src="images/NA.png" title="No Aplica"></a>
