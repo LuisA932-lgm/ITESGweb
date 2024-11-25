@@ -233,22 +233,22 @@ fieldset[disabled] .btn-primary:hover {
         <button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2024')">2024</button>
   </center>
   <div id="contentDiv">
-    <!-- Aquí se cargará el archivo PHP correspondiente -->
+    
 </div>
   </body>
   </html>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
     function loadContent(year) {
-        // Realiza la solicitud AJAX para cargar únicamente el archivo correspondiente al año seleccionado
+        
         $.ajax({
-            url: `http://localhost/ITESGWEB/sistemas/Informacion_Financiera/${year}.php`, // Archivo PHP específico
+            url: `http://localhost/ITESGWEB/sistemas/Informacion_Financiera/${year}.php`, 
             type: "GET",
             success: function(response) {
-                $('#contentDiv').html(response); // Actualiza el contenido solo con la respuesta correspondiente
+                $('#contentDiv').html(response);
             },
             error: function() {
-                $('#contentDiv').html('<p>Error al cargar el contenido. Por favor, intenta nuevamente.</p>'); // Manejo de errores
+                $('#contentDiv').html('<p>Error al cargar el contenido. Página no existe.</p>'); 
             }
         });
     }
