@@ -17,7 +17,7 @@ include ("header.php");
     <h5>Convocatoria Examen 6 de Diciembre</h5>
     <div class="alert alert-info">
         <a href="../images/convocatoria/ADM_EJ_2025.pdf" target="_blank"> <center>
-        <img src="../images/iconos/desc_pdf.png" width="52px" height="50px" >
+        <img src="../images/logos/desc_pdf.png" width="52px" height="50px" >
         <u class="uconv"><p class="pconv">Descargar convocatoria</p></center></a></style>
     </div>
     <p align="center">
