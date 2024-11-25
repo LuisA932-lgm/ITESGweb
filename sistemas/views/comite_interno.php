@@ -5,7 +5,7 @@ include 'header.php';
 <div class="block">
 
     <article class="article fulltext mx-5">
-        <section class="article-body1">
+        <section class="article-body">
         <header class="page-header">
         <h3 class="page-title" style="font-size:300%;">
             Artículos </h3>
