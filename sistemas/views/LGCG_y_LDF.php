@@ -93,7 +93,7 @@ fieldset[disabled] a.btn {
 .btn-default:hover,
 .open>.btn-default.dropdown-toggle {
     color: #FFF;
-    background-color: #D0D5E5;
+    background-color: #042433;
     border-color: #fff;
 }
 
@@ -194,7 +194,7 @@ fieldset[disabled] .btn-primary:focus,
 fieldset[disabled] .btn-primary:hover {
     color: #FFF;
     background-color: #9D2449;
-    border-color: #042433;
+    border-color: #9D2449
 }
 .font-changer button {
     display: block;
