@@ -368,39 +368,39 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Proyecto de presupuesto de egresos</td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/Proyecto_de_presupuesto_de_egresos_2024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/Proyecto_de_presupuesto_de_egresos_2024.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 80%; color:black">Información Adicional al proyecto de presupuesto de egresos</td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/3.INF.%20ADIC.%20PROYECTO%20PPTO.%20EGRESOS%202024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="/LGCGyLDF/EJ2024/3.INF.%20ADIC.%20PROYECTO%20PPTO.%20EGRESOS%202024.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/3.INF.%20ADIC.%20PROYECTO%20PPTO.%20EGRESOS%202024.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/3.INF.%20ADIC.%20PROYECTO%20PPTO.%20EGRESOS%202024.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Dictámenes Acuerdo y Actas </td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/Dictamenes_Acuerdo_y_Actas_egreso_2024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/Dictamenes_Acuerdo_y_Actas_egreso_2024.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 80%; color:black">Presupuesto de Egresos</td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/Presupuesto_de_Egresos_2024.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/Presupuesto_de_Egresos_2024.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Calendario de Egreso</td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/4.CALENDARIO%20DE%20EGRESOS%202023.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="/LGCGyLDF/EJ2024/4.CALENDARIO%20DE%20EGRESOS%202023.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/4.CALENDARIO%20DE%20EGRESOS%202023.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/4.CALENDARIO%20DE%20EGRESOS%202023.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 80%; color:black">Presupuesto Ciudadano</td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/Proyecto_de_presupuesto_de_egresos_2024.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/PresupuestoCiudadano-2.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
         </tbody>
@@ -419,7 +419,7 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">PBR</td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/PBR_EjeDeGobierno_VI.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/PBR_EjeDeGobierno_VI.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
         </tbody>
