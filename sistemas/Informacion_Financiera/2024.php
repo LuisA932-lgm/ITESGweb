@@ -400,7 +400,7 @@
             <tr>
                 <td style="width: 80%; color:black">Presupuesto Ciudadano</td>
                 <td style="width: 20%;">
-                    <a href="/LGCGyLDF/EJ2024/PresupuestoCiudadano-2.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/Proyecto_de_presupuesto_de_egresos_2024.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
         </tbody>
