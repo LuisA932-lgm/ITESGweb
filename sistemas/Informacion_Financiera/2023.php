@@ -498,7 +498,7 @@
             <tr>
                 <td style="width: 60%; color: black">Estado de situación financiera</td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/CONTABLE/ESF-GTO-ITESG-1T-23.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/CONTABLE/ESF-GTO-ITESG-1T-23.pdf" target="_blank"> <img src="../images/pdf_1.jpg" title="Archivo PDF"></a>
                     <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/CONTABLE/ESF-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
@@ -508,10 +508,6 @@
                 <td style="width: 10%;">
                     <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/3T/CONTABLE/EA-GTO-ITESG-3T-23.pdf" target="_blank"> <img src="images/pdf_1.jpg" title="Archivo PDF"></a>
                     <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/3T/CONTABLE/EA-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="images/excel_1.jpg" title="Archivo Excel"></a>
-                </td>
-                <td style="width: 10%;">
-                    <a><img src="https://itesg.edu.mx/LGCGyLDF/EJ2023/4T/CONTABLE/EA-GTO-ITESG-4T-23.pdf" title="PDF No Disponible"></a>
-                    <a><img src="https://itesg.edu.mx/LGCGyLDF/EJ2023/4T/CONTABLE/EA-GTO-ITESG-4T-23.xlsx" title="Excel No Disponible"></a>
                 </td>
                 <td style="width: 10%;">
                     <a><img src="https://itesg.edu.mx/LGCGyLDF/EJ2023/4T/CONTABLE/EA-GTO-ITESG-4T-23.pdf" title="PDF No Disponible"></a>
