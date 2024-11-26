@@ -526,7 +526,7 @@
                                     <a data-bs-toggle="dropdown" href=".html">ITESG Obligaciones de Transparencia<i class="fas fa-angle-right dropdown-toggle"></i></a>
                                     <ul class="dropdown-menu">
                                         <li>
-                                            <a href=".html">Obligaciones de Transparencia</a>
+                                            <a href="https://transparencia.guanajuato.gob.mx/transparencia/informacion_publica_pordependencia.php?dependencia=66">Obligaciones de Transparencia</a>
                                         </li>
                                         <li class="dropdown">
                                             <a data-bs-toggle="dropdown" href=".html">Obligaciones de Transparencia en materia Archivística<i class="fas fa-angle-right dropdown-toggle"></i></a>
