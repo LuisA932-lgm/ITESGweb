@@ -443,7 +443,7 @@
                                         <li class="dropdown">
                                             <a data-bs-toggle="dropdown" href=".html">Año 2021<i class="fas fa-angle-right dropdown-toggle"></i></a>
                                             <ul class="dropdown-menu">
-                                                    <li><a href=".html">Plan Anual de Compras 2021</a></li>
+                                                    <li><a href="../images/documentos/prog_anual_com24.pdf">Plan Anual de Compras 2021</a></li>
                                                     <li><a href=".html">1er Trímestre</a></li>
                                                     <li><a href=".html">2do Trímestre</a></li>
                                                     <li><a href=".html">3er Trímestre</a></li>
