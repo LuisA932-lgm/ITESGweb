@@ -18,7 +18,7 @@ include ("header.php");
     <div class="alert alert-info">
         <a href="../images/convocatoria/ADM_EJ_2025.pdf" target="_blank"> <center>
         <img src="../images/desc_pdf.png" width="52px" height="50px" >
-        <u class="uconv"><p class="pconv">Descargar convocatoria</p></center></a></style>
+        <u class="uconv"><p class="pconv">Descargar convocatoria</p></center></a></style> </u>
     </div>
     <p align="center">
         <img src="../images/convocatoria/todos.jpg">
