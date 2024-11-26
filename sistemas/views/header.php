@@ -523,50 +523,81 @@
 
                            </li>
                                 <li class="dropdown">
-                                    <a data-bs-toggle="dropdown" href=".html">ITESG Obligaciones de Transparencia<i class="fas fa-angle-right dropdown-toggle"></i></a>
-                                    <ul class="dropdown-menu">
-                                        <li>
-                                            <a href="https://transparencia.guanajuato.gob.mx/transparencia/informacion_publica_pordependencia.php?dependencia=66">Obligaciones de Transparencia</a>
-                                        </li>
-                                        <li class="dropdown">
-                                            <a data-bs-toggle="dropdown" href=".html">Obligaciones de Transparencia en materia Archivística<i class="fas fa-angle-right dropdown-toggle"></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href=".html">Cuadro General de Clasificación Archívistica</a></li>
-                                                <li><a href=".html">Catálogo de Disposición Documental</a></li>
-                                                <li><a href=".html">Inventario Archivístico</a></li>
-                                                <li><a href=".html">Guía de Archivo Documental</a></li>
-                                                <li><a href=".html">Guía simple de Archivo</a></li>
-                                                <li  class="dropdown">
-                                                    <a data-bs-toggle="dropdown" href=".html">Programa Anual de Desarrollo Archivístico<i class="fas fa-angle-right dropdown-toggle"></i></a>
-                                                    <ul class="dropdown-menu">
-                                                        <li><a href=".html">PADA 2021</a></li>
-                                                        <li><a href=".html">PADA 2022</a></li>
-                                                        <li><a href=".html">PADA 2023</a></li>
-                                                        <li><a href=".html">PADA 2024</a></li>
+                                        <a data-bs-toggle="dropdown" href=".html">ITESG Obligaciones de Transparencia<i
+                                                class="fas fa-angle-right dropdown-toggle"></i></a>
+                                        <ul class="dropdown-menu">
+                                            <li>
+                                                <a
+                                                    href="https://transparencia.guanajuato.gob.mx/transparencia/informacion_publica_pordependencia.php?dependencia=66wqA">Obligaciones
+                                                    de Transparencia</a>
+                                            </li>
+                                            <li class="dropdown">
+                                                <a data-bs-toggle="dropdown" href=".html">Obligaciones de Transparencia
+                                                    en materia Archivística<i
+                                                        class="fas fa-angle-right dropdown-toggle"></i></a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href=".html">Cuadro General de Clasificación Archívistica</a>
+                                                    </li>
+                                                    <li><a href=".html">Catálogo de Disposición Documental</a></li>
+                                                    <li><a href=".html">Inventario Archivístico</a></li>
+                                                    <li><a href=".html">Guía de Archivo Documental</a></li>
+                                                    <li><a href=".html">Guía simple de Archivo</a></li>
+                                                    <li class="dropdown">
+                                                        <a data-bs-toggle="dropdown" href=".html">Programa Anual de
+                                                            Desarrollo Archivístico<i
+                                                                class="fas fa-angle-right dropdown-toggle"></i></a>
+                                                        <ul class="dropdown-menu">
+                                                            <li><a href=".html">PADA 2021</a></li>
+                                                            <li><a href=".html">PADA 2022</a></li>
+                                                            <li><a href=".html">PADA 2023</a></li>
+                                                            <li><a href="../images/documentos/PADA 2024.pdf">PADA
+                                                                    2024</a></li>
 
-                                                    </ul>
+                                                        </ul>
 
-                                                </li>
-                                                <li class="dropdown">
-                                                    <a data-bs-toggle="dropdown" href=".html">Dictamen y Acta de Baja Documental<i class="fas fa-angle-right dropdown-toggle"></i> </a>
-                                                    <ul class="dropdown-menu">
-                                                        <li><a href=".html">2021</a></li>
-                                                        <li><a href=".html">2022</a></li>
-                                                        <li><a href=".html">2023</a></li>
-                                                        <li><a href=".html">2024</a></li>
+                                                    </li>
+                                                    <li class="dropdown">
+                                                        <a data-bs-toggle="dropdown" href=".html">Informe Anual de
+                                                            Cumplimiento<i
+                                                                class="fas fa-angle-right dropdown-toggle"></i> </a>
+                                                        <ul class="dropdown-menu">
+                                                            <li><a href=".html">2021</a></li>
+                                                            <li><a href=".html">2022</a></li>
+                                                            <li><a href=".html">2023</a></li>
+                                                            <li><a
+                                                                    href="../images/documentos/Informe de Cumplimiento PADA.pdf">2024</a>
+                                                            </li>
 
-                                                    </ul>
-                                                </li>
-                                                <li class="dropdown">
-                                                    <a data-bs-toggle="dropdown" href=".html">Dictamen y Acta de Transferencia Secundaria<i class="fas fa-angle-right dropdown-toggle"></i></a>
-                                                    <ul class="dropdown-menu">
-                                                        <li><a href=".html">2021</a></li>
-                                                        <li><a href=".html">2022</a></li>
-                                                        <li><a href=".html">2023</a></li>
-                                                        <li><a href=".html">2024</a></li>
+                                                        </ul>
+                                                    </li>
+                                                    <class="dropdown">
+                                                        <a data-bs-toggle="dropdown" href=".html">Dictamen y Acta de
+                                                            Baja Documental<i
+                                                                class="fas fa-angle-right dropdown-toggle"></i> </a>
+                                                        <ul class="dropdown-menu">
+                                                            <li><a href=".html">2021</a></li>
+                                                            <li><a href=".html">2022</a></li>
+                                                            <li><a href=".html">2023</a></li>
+                                                            <li><a
+                                                                    href="../images/documentos/Dictamen y Acta de Baja Documental.pdf">2024</a>
+                                                            </li>
 
-                                                    </ul>
-                                                </li>
+                                                        </ul>
+                                            </li>
+                                            <li class="dropdown">
+                                                <a data-bs-toggle="dropdown" href=".html">Dictamen y Acta de
+                                                    Transferencia Secundaria<i
+                                                        class="fas fa-angle-right dropdown-toggle"></i></a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href=".html">2021</a></li>
+                                                    <li><a href=".html">2022</a></li>
+                                                    <li><a href=".html">2023</a></li>
+                                                    <li><a
+                                                            href="../images/documentos/Dictamen y Acta de Transferencia Secundaria.pdf">2024</a>
+                                                    </li>
+
+                                                </ul>
+                                            </li>
 
                                             </ul>
 
@@ -615,61 +646,101 @@
                                             </ul>
                                         </li>
                                         <li class="dropdown">
-                                            <a data-bs-toggle="dropdown" href=".html">PPU247<i class="fas fa-angle-right dropdown-toggle"></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href=".html">PRODEP</a></li>
-                                                <li><a href=".html">Contraloría Social</a></li>
-                                                <li class="dropdown"><a data-bs-toggle="dropdown" href=".html">Documentos Normativos<i class="fas fa-angle-right dropdown-toggle"></i></a>
-                                                    <ul class="dropdown-menu">
-                                                        <li class="dropdown">
-                                                            <a data-bs-toggle="dropdown" href=".html">Documentos S247 2024<i class="fas fa-angle-right dropdown-toggle"></i></a>
-                                                            <ul class="dropdown-menu">
-                                                                <li><a href=".html">Lineamientos 2024</a></li>
-                                                                <li><a href=".html">Esquema Contraloría social</a></li>
-                                                                <li><a href=".html">Guía Operativa de Contraloría Social 2024</a></li>
-                                                                <li><a href=".html">Programa Anual de Trabajo</a></li>
-                                                                <li><a href=".html">Oficio de Validación S247 2024</a></li>
-                                                            </ul>
-                                                        </li>
-                                                        <li class="dropdown">
-                                                            <a data-bs-toggle="dropdown" href=".html">Formatos Guía Operativa<i class="fas fa-angle-right dropdown-toggle"></i></a>
-                                                            <ul class="dropdown-menu">
-                                                                <li><a href=".html">Acta de Constitución 2024</a></li>
-                                                                <li><a href=".html">Acta de Sustitución 2024</a></li>
-                                                                <li><a href=".html">Minutas de Reunión 2024</a></li>
-                                                                <li><a href=".html">Informe de Comité 2024</a></li>
-                                                            </ul>
-                                                        </li>
-                                                    </ul>
-                                                </li>
+                                        <a data-bs-toggle="dropdown" href=".html">PPS247<i
+                                                class="fas fa-angle-right dropdown-toggle"></i></a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="../images/documentos/INFORMACIONS247-2024.pdf">PRODEP</a></li>
+                                            <li><a href="../images/documentos/CS2024.pdf">Contraloría Social</a></li>
+                                            <li class="dropdown"><a data-bs-toggle="dropdown" href=".html">Documentos
+                                                    Normativos<i class="fas fa-angle-right dropdown-toggle"></i></a>
+                                                <ul class="dropdown-menu">
+                                                    <li class="dropdown">
+                                                        <a data-bs-toggle="dropdown" href=".html">Documentos S247 2024<i
+                                                                class="fas fa-angle-right dropdown-toggle"></i></a>
+                                                        <ul class="dropdown-menu">
+                                                            <li><a
+                                                                    href="../images/documentos/1.-Lineamientos%202024%20S247.pdf">Lineamientos
+                                                                    2024</a></li>
+                                                            <li><a href="../images/documentos/2.-Esquema2024.pdf">Esquema
+                                                                    Contraloría social</a></li>
+                                                            <li><a href="../images/documentos/3.-%20Modelo3GuiaOpe.pdf">Guía
+                                                                    Operativa de Contraloría Social
+                                                                    2024</a></li>
+                                                            <li><a href="../images/documentos/4.-%20Modelo4PATCS1.pdf">Programa
+                                                                    Anual de Trabajo</a></li>
+                                                            <li><a href="..">Oficio de Validación S247 2024</a></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li class="dropdown">
+                                                        <a data-bs-toggle="dropdown" href=".html">Formatos Guía
+                                                            Operativa<i
+                                                                class="fas fa-angle-right dropdown-toggle"></i></a>
+                                                        <ul class="dropdown-menu">
+                                                            <li><a href=".html">Acta de Constitución 2024</a></li>
+                                                            <li><a href=".html">Acta de Sustitución 2024</a></li>
+                                                            <li><a href=".html">Minutas de Reunión 2024</a></li>
+                                                            <li><a href=".html">Informe de Comité 2024</a></li>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </li>
 
-                                                <li class="dropdown">
-                                                    <a data-bs-toggle="dropdown" href=".html">Informes Anuales<i class="fas fa-angle-right dropdown-toggle"></i></a>
-                                                    <ul class="dropdown-menu">
-                                                        <li><a href=".html">Informe 2022</a></li>
-                                                        <li><a href=".html">Informe 2023</a></li>
-                                                    </ul>
+                                            <li class="dropdown">
+                                                <a data-bs-toggle="dropdown" href=".html">Informes Anuales<i
+                                                        class="fas fa-angle-right dropdown-toggle"></i></a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href=".html">Informe 2022</a></li>
+                                                    <li><a href=".html">Informe 2023</a></li>
+                                                </ul>
 
-                                                </li>
-                                                <li><a href=".html">Mecanismos de Quejas y Denuncias</a></li>
-                                                <li><a href=".html">Logotipo CS 2024</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown">
-                                            <a data-bs-toggle="dropdown" href=".html">PPU006<i class="fas fa-angle-right dropdown-toggle"></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href=".html">Contraloria Social 2024</a></li>
-                                                <li class="dropdown">
-                                                    <a data-bs-toggle="dropdown" href=".html">Documentos Normativos 2024<i class="fas fa-angle-right dropdown-toggle"></i></a>
-                                                    <ul class="dropdown-menu">
-                                                        <li><a href=".html">Documentos Normativos U006 2024</a></li>
-                                                        <li><a href=".html">Formatos Guía Operativa 2024</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href=".html">Informes 2024</a></li>
-                                                <li><a href=".html">Quejas, Denuncias, Peticiones o Irragularidades 2024</a></li>
-                                                <li><a href=".html">Logotipo de Contraloria Social 2024</a></li>
-                                            </ul>
+                                            </li>
+                                            <li><a href=".html">Mecanismos de Quejas y Denuncias</a></li>
+                                            <li><a href=".html">Logotipo CS 2024</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a data-bs-toggle="dropdown" href=".html">PPU006<i
+                                                class="fas fa-angle-right dropdown-toggle"></i></a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href=".html">Contraloria Social 2024</a></li>
+                                            <li class="dropdown">
+                                                <a data-bs-toggle="dropdown" href=".html">Documentos Normativos 2024<i
+                                                        class="fas fa-angle-right dropdown-toggle"></i></a>
+                                                <ul class="dropdown-menu">
+                                                    <li class="dropdown">
+                                                        <a data-bs-toggle="dropdown" href=".html">Documentos Normativos
+                                                            U006 2024<i
+                                                                class="fas fa-angle-right dropdown-toggle"></i></a>
+                                                        <ul class="dropdown-menu">
+                                                            <li><a
+                                                                    href="../images/documentos/1_Lineamientos_CS_28-10_2016.pdf">Lineamientos
+                                                                    U006</a></li>
+                                                            <li><a
+                                                                    href="../images/documentos/4.-PATCSU006TecNMEjecutoras.pdf">Programa
+                                                                    Anual de Trabajo</a></li>
+                                                            <li><a href="../images/documentos/OficioPpU006.pdf">Oficio
+                                                                    de Validación U006 2024</a></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li class="dropdown">
+                                                        <a data-bs-toggle="dropdown" href=".html">Formatos Guía
+                                                            Operativa 2024<i
+                                                                class="fas fa-angle-right dropdown-toggle"></i></a>
+                                                        <ul class="dropdown-menu">
+                                                            <li><a
+                                                                    href="../images/documentos/Anexo2ActasustituciU006.pdf">Acta de Sustitución</a></li>
+                                                            <li><a
+                                                                    href="../images/documentos/Anexo3Minuta%20euninU006.pdf">Minuta de Reunión</a></li>
+                                                            <li><a href="../images/documentos/Anexo4InformeFinalU006.pdf">Informe de Comité</a></li>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li><a href=".html">Informes 2024</a></li>
+                                            <li><a href=".html">Quejas, Denuncias, Peticiones o Irragularidades 2024</a>
+                                            </li>
+                                            <li><a href=".html">Logotipo de Contraloria Social 2024</a></li>
+                                        </ul>
                                         </li>
                                     </ul>
 
