@@ -475,9 +475,9 @@
                                             <a data-bs-toggle="dropdown" href=".html">Año 2024<i class="fas fa-angle-right dropdown-toggle"></i></a>
                                             <ul class="dropdown-menu">
                                                 <li><a href="../images/documentos/prog_anual_com24.pdf">Plan Anual de Compras</a></li>
-                                                <li><a href=".html">1er Trímestre</a></li>
-                                                <li><a href=".html">2do Trímestre</a></li>
-                                                <li><a href=".html">3er Trímestre</a></li>
+                                                <li><a href="../images/documentos/poac_1er_trim_2024.pdf">1er Trímestre</a></li>
+                                                <li><a href="../images/documentos/POAC_2DO_TRIMESTRE_2024.pdf">2do Trímestre</a></li>
+                                                <li><a href="../images/documentos/POAC_3ER_TRIMESTRE_2024.pdf">3er Trímestre</a></li>
                                                 <li><a href=".html">4to Trímestre</a></li>
                                             </ul>
                                         </li>
