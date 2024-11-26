@@ -590,24 +590,24 @@
                                         <li  class="dropdown">
                                             <a data-bs-toggle="dropdown" href=".html">PPU079<i class="fas fa-angle-right dropdown-toggle"></i></a>
                                             <ul class="dropdown-menu">
-                                                <li><a href=".html">Resultados Convocatorias 2024</a></li>
-                                                <li><a href=".html">Convenio 2024</a></li>
+                                                <li><a href="../images/documentos/01.%20Publicacioon_U079-2024.pdf">Resultados Convocatorias 2024</a></li>
+                                                <li><a href="../images/documentos/02.%20Convenio%20U079%202024%20Guanajuato%20firmado.pdf">Convenio 2024</a></li>
                                                 <li class="dropdown">
                                                     <a data-bs-toggle="dropdown" href=".html">Informes Trimestrales<i class="fas fa-angle-right dropdown-toggle"></i></a>
                                                     <ul class="dropdown-menu">
                                                         <li class="dropdown">
                                                             <a data-bs-toggle="dropdown" href=".html">1er Informe<i class="fas fa-angle-right dropdown-toggle"></i></a>
                                                             <ul class="dropdown-menu">
-                                                                <li><a href=".html">Oficio</a></li>
-                                                                <li><a href=".html">Informe Trimestal</a></li>
+                                                                <li><a href="../images/documentos/04.%20ITS%20Guanajuato%20Oficio%201er%20informe.pdf">Oficio</a></li>
+                                                                <li><a href="../images/documentos/04.%20ITS%20Guanajuato%20Oficio%201er%20informe.pdf">Informe Trimestal</a></li>
 
                                                             </ul>
                                                         </li>
                                                         <li class="dropdown">
                                                             <a data-bs-toggle="dropdown" href=".html">2do Informe<i class="fas fa-angle-right dropdown-toggle"></i></a>
                                                             <ul class="dropdown-menu">
-                                                                <li><a href=".html">Oficio</a></li>
-                                                                <li><a href=".html">Informe Trimestal</a></li>
+                                                                <li><a href="../images/documentos/01.%20Oficio%20DG-754-2024%202do%20Informe%20U079.pdf">Oficio</a></li>
+                                                                <li><a href="../images/documentos/02.%20ITS%20Guanajuato%20Oficio%202do%20Informe%20U079.pdf">Informe Trimestal</a></li>
                                                             </ul>
                                                         </li>
                                                     </ul>
