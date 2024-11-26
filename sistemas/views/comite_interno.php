@@ -6,10 +6,6 @@ include 'header.php';
 
     <article class="article fulltext mx-5">
         <section class="article-body">
-        <header class="page-header">
-        <h3 class="page-title" style="font-size:300%;">
-            Artículos </h3>
-    </header>
             <p align="center"><img src="../images/comite/titulo_ciilynd.png" alt="Titulo_ILyND"></p><br>
 
             <left>
