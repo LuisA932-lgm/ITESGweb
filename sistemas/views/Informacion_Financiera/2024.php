@@ -522,10 +522,7 @@
                     <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
                     <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
-                <td style="width: 10%;">
-                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="../images/iconos/excel_no.jpg title="Excel No Disponible"></a>
-                </td>
+             
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 60%; color: black">Estado de variación en la hacienda pública</td>
@@ -545,10 +542,7 @@
                     <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
                     <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
-                <td style="width: 10%;">
-                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
-                </td>
+               
             </tr>
             <tr>
                 <td style="width: 60%; color: black">Estado de cambios en la situación financiera</td>
@@ -568,10 +562,7 @@
                     <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
                     <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
-                <td style="width: 10%;">
-                    <a><img src="../images/iconos/pdf_no.jpg title="PDF No Disponible"></a>
-                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
-                </td>
+               
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 60%; color: black">Estado de flujos de efectivo</td>
@@ -591,10 +582,7 @@
                     <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
                     <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
-                <td style="width: 10%;">
-                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
-                </td>
+              
             </tr>
             <tr>
                 <td style="width: 60%; color: black">Estado analítico del activo</td>
@@ -614,10 +602,7 @@
                     <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
                     <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
-                <td style="width: 10%;">
-                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
-                </td>
+               
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 60%; color: black">Estado analítico de la deuda y otros pasivos</td>
@@ -637,10 +622,7 @@
                     <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
                     <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
-                <td style="width: 10%;">
-                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
-                </td>
+             
             </tr>
             <tr>
                 <td style="width: 60%; color: black">Informes sobre pasivos contingentes</td>
@@ -660,10 +642,7 @@
                     <a><img src="../images/iconos/pdf_no.jpg"></a>
                     <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
-                <td style="width: 10%;">
-                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
-                </td>
+              
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 60%; color: black"><b>Notas a los estados financieros:</b></td>
@@ -687,10 +666,7 @@
                     <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
                     <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
-                <td style="width: 10%;">
-                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
-                </td>
+               
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 60%; color: black">Gestión Administrativa</td>
@@ -710,10 +686,7 @@
                     <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
                     <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
-                <td style="width: 10%;">
-                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
-                </td>
+              
             </tr>
         </tbody>
     </table>
