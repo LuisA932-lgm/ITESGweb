@@ -323,7 +323,7 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Iniciativa de Ingresos</td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/Iniciativa_de_Ingresos_2024.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../Informacion_Financiera/LCGCyLDF_EJ2024/Info_anual/Ingreso/Iniciativa_de_Ingresos_2024.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
             <tr>
