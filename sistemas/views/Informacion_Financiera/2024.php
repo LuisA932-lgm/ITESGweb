@@ -368,7 +368,7 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Proyecto de presupuesto de egresos</td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/Proyecto_de_presupuesto_de_egresos_2024.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Proyecto_de_presupuesto_de_egresos_2024.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
             <tr>
