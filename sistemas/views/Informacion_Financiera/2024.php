@@ -502,10 +502,7 @@
                     <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
                     <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
-                <td style="width: 10%;">
-                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
-                </td>
+              
             </tr>
             <tr>
                 <td style="width: 60%; color: black">Estado de situación financiera</td>
