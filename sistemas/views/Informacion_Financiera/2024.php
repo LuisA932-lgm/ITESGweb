@@ -336,20 +336,20 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Dictámenes Acuerdo y Actas </td>
                 <td style="width: 20%;">
-                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Ingreso" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Ingreso/Dictamenes_Acuerdo_y_Actas_ingreso_2024.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 80%; color:black">Ley de Ingresos </td>
                 <td style="width: 20%;">
-                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Ingreso" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Ingreso/Ley_de_Ingresos_2024.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Calendario de Ingresos</td>
                 <td style="width: 20%;">
-                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Ingreso" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Ingreso" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Ingreso/2.CALENDARIO%20INGRESOS%20ITSG%202024.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Ingreso/2.CALENDARIO%20INGRESOS%20ITSG%202024.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
         </tbody>
