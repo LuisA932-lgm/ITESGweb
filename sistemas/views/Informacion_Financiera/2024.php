@@ -486,8 +486,8 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 60%; color: black">Estado de actividades/Resultados</td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/EA-GTO-ITESG-1T-24.pdf" download="1"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF" ></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/EA-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/1T/EA-GTO-ITESG-1T-24.pdf" download="1"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF" ></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/1T/EA-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
 
                 </td>
                 <td style="width: 10%;">
