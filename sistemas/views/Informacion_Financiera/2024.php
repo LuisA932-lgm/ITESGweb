@@ -564,7 +564,7 @@
                     <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/2T/ECSF-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/ECSF-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/ECSF-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
                     <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/ECSF-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
@@ -610,7 +610,7 @@
                     <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/2T/EAA-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/EAA-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpgg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/EAA-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
                     <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/EAA-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
@@ -625,7 +625,7 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 60%; color: black">Estado analítico de la deuda y otros pasivos</td>
                 <td style="width: 10%;">
-                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/1T/EADOP-GTO-ITESG-1T-24.pdf" target="_blank"> <img src=../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/1T/EADOP-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
                     <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/1T/EADOP-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
