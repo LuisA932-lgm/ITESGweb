@@ -323,7 +323,7 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Iniciativa de Ingresos</td>
                 <td style="width: 20%;">
-                    <a href="../sistemas/views/Informacion_Financiera/LCGCyLDF_EJ2024/Info_anual/Ingreso/Iniciativa_de_Ingresos_2024.pdf" target="_blank"> <img src="/sistemas/images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Ingreso/Iniciativa_de_Ingresos_2024.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
             <tr>
