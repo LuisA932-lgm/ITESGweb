@@ -491,20 +491,20 @@
 
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/EA-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title= Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/EA-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/2T/EA-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title= Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/2T/EA-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/CONTABLE/EA-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/CONTABLE/EA-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/EA-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/EA-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="Excel No Disponible"></a>
                 </td>
             </tr>
             <tr>
