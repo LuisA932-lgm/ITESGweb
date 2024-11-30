@@ -955,7 +955,7 @@
                 </td>
                 <td style="width: 10%;">
                     <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_programatica/2T/GCP-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_programatica/2T/GCP-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src=../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_programatica/2T/GCP-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
                     <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_programatica/3T/GCP-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
