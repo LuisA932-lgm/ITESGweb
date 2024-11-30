@@ -13,13 +13,13 @@ include ("header.php");
         .article-body h3 {
             color: #039;
             font-family: 'Lato', sans-serif;
-            font-size: 24px;
+            font-size: 18px;
             font-weight: bold;
         }
         .article-body h4 {
             color: #b5812d;
             font-family: 'Lato', sans-serif;
-            font-size: 24px;
+            font-size: 18px;
             font-weight: bold;
         }
         .iconos {
@@ -31,18 +31,18 @@ include ("header.php");
         .article-body p {
             color: #333;
             font-family: 'Lato', sans-serif;
-            font-size: 18px;
+            font-size: 14px;
             font-weight: normal;
         }
         .article-body li{
             color: #333;
             font-family: 'Lato', sans-serif;
-            font-size: 18px;
+            font-size: 14px;
         }
     </style>
 </head>
 
-<body class="green align-ltr page-id-476 com-content-article chrome breakpoint-1200">
+<body class="green align-ltr page-id-476 com-content-article chrome breakpoint-1200" style="background-image: url(../images/itesg2.png); background-attachment: fixed; background-repeat: no-repeat; background-position: center; background-size: cover;">
     <div class="container">
 
         <!--Start Main Body-->
@@ -50,24 +50,10 @@ include ("header.php");
             <section id="mainbody" role="main" class="grid12 offset0 clearfix" style="min-height: 1915px; padding: 0px;">
                 <section id="component" role="article" class="clearfix" style="padding: 0px;">
                     <div class="block">
-                        <article class="article fulltext ">
-                            <section class="actions" style="padding: 0px;">
-                            <ul class="iconos">
-                                    <li class="print-icon" style="margin-left: 15px;">
-                                        <a href="formulario-imprimir.html" title="Imprimir">
-                                            <i class="fas fa-print" style="color: #24398E;"></i> 
-                                        
-                                    </li>
-                                    <li class="email-icon" style="margin-left: 15px;">
-                                        <a href="formulario-correo.html" title="Enviar correo">
-                                            <i class="fas fa-envelope" style="color: #24398E"></i> 
-                                        </a>
-                                    </li>
-                                </ul>
-                            </section>
-                            <section class="article-body" style="padding: 0px; width: 1400px; padding-left: 100px; padding-right: 100px;">
-                                <p align="center">
-                                    <img src="../images/headers/h_industrial.png" style="margin-right: 250px;">
+                        <article class="article fulltext "> <p></p>
+                            <section class="article-body" style="padding: 0px; width: 1400px; padding-left: 50px; padding-right: 100px; background-color:white;">
+                                <p align="center" style="padding-top: 20px;">
+                                    <img src="../images/headers/h_industrial.png" style="margin-right: 200px;">
                                 </p>
                                 <table width="85%" align="center">
                                     <tbody>
@@ -129,7 +115,7 @@ include ("header.php");
                                                 Los créditos que la conforman son 260, los cuales se reparten 204 en asignaturas de la estructura genérica, 31 del módulo de especialidad, 10 del programa de residencias, 10 de servicio social y 5 de actividades complementarias.</p>
                                             </td>
                                             <td valign="top" width="290px" rowspan="3">
-                                                <p><img src="../images/articulos/industrial_v.jpg"></p>
+                                                <p><img src="../images/articulos/ban_industrial.jpg" style="height: 800px"></p>
                                             </td>
                                         </tr>
                                         <tr>
@@ -157,6 +143,9 @@ include ("header.php");
                                         </tr>
                                     </tbody>
                                 </table>
+                                <section id="main-bottom" class="row" style="padding: 0px; padding-right: 250px;">
+                                    <p align="center"><img src="../images/logos/todos.jpg"></p>        
+                                </section>
                             </section>
                         </article>
                     </div>
@@ -164,20 +153,8 @@ include ("header.php");
             </section>
         </section>
         <!--End Main Body-->
+        <p> <br> </p>
 
-        <!--Start Main-Bottom Modules-->
-        <section id="main-bottom" class="row" style="padding: 20px;">
-            <div class="grid12 column first last ex-odd mainbottom-1">
-                <div class="block module mod-108 no-title clearfix" style="min-height: 138px;">
-                    <div class="content">
-                        <div class="custom">
-                            <p align="center"><img src="../images/logos/todos.jpg"></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--End Main Bottom Modules--> 
     </div>
 </body
 

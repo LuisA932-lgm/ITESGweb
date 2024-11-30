@@ -162,8 +162,8 @@ include ("header.php");?>
 </tr>
 
 <tr>
-      <td><img src="../images/convenios/logoblanco.png"></td>
-      <td><a href="../images/convenios/pdf/convscit.pdf" target="_blank"><h4 style="text-align: justify; font-size: 27px; font-weight: bold; margin-left: 1cm; margin-right: 1cm;">Secretaria de Infraestructura, Comunicaciones y Transportes CONV-ITESG-002/2022</h4></a></td>
+      <td><img src="../images/convenios/SICOM.png"></td>
+      <td><a href="../images/convenios/pdf/convscit.pdf" target="_blank"><h4 style="text-align: justify; font-size: 27px; font-weight: bold; margin-left: 1cm; margin-right: 1cm;">Obra pública Secretaria de Obra Pública (SICOM)</h4></a></td>
 </tr>
 
 <tr>

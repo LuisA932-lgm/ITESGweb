@@ -323,33 +323,33 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Iniciativa de Ingresos</td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/Iniciativa_de_Ingresos_2024.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Ingreso/Iniciativa_de_Ingresos_2024.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 80%; color:black">Información Adicional a la Iniciativa de Ingresos</td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/1.INF.%20ADICIONAL%20INIC.%20INGRESOS%20ITSG%202024.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/1.INF.%20ADICIONAL%20INIC.%20INGRESOS%20ITSG%202024.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Ingreso/1.INF.%20ADICIONAL%20INIC.%20INGRESOS%20ITSG%202024.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Ingreso/1.INF.%20ADICIONAL%20INIC.%20INGRESOS%20ITSG%202024.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Dictámenes Acuerdo y Actas </td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/Dictamenes_Acuerdo_y_Actas_ingreso_2024.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Ingreso/Dictamenes_Acuerdo_y_Actas_ingreso_2024.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 80%; color:black">Ley de Ingresos </td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/Ley_de_Ingresos_2024.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Ingreso/Ley_de_Ingresos_2024.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Calendario de Ingresos</td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/2.CALENDARIO%20INGRESOS%20ITSG%202024.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/2.CALENDARIO%20INGRESOS%20ITSG%202024.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Ingreso/2.CALENDARIO%20INGRESOS%20ITSG%202024.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Ingreso/2.CALENDARIO%20INGRESOS%20ITSG%202024.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
         </tbody>
@@ -368,39 +368,40 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Proyecto de presupuesto de egresos</td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/Proyecto_de_presupuesto_de_egresos_2024.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Egreso/Proyecto_de_presupuesto_de_egresos_2024.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 80%; color:black">Información Adicional al proyecto de presupuesto de egresos</td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/3.INF.%20ADIC.%20PROYECTO%20PPTO.%20EGRESOS%202024.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/3.INF.%20ADIC.%20PROYECTO%20PPTO.%20EGRESOS%202024.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Egreso/3.INF.%20ADIC.%20PROYECTO%20PPTO.%20EGRESOS%202024.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Egreso/3.INF.%20ADIC.%20PROYECTO%20PPTO.%20EGRESOS%202024.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Dictámenes Acuerdo y Actas </td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/Dictamenes_Acuerdo_y_Actas_egreso_2024.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Egreso/Dictamenes_Acuerdo_y_Actas_egreso_2024.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 80%; color:black">Presupuesto de Egresos</td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/Presupuesto_de_Egresos_2024.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Egreso/Presupuesto_de_Egresos_2024.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Calendario de Egreso</td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/4.CALENDARIO%20DE%20EGRESOS%202023.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/4.CALENDARIO%20DE%20EGRESOS%202023.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Egreso/4.CALENDARIO%20DE%20EGRESOS%202023.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Egreso/4.CALENDARIO%20DE%20EGRESOS%202023.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 80%; color:black">Presupuesto Ciudadano</td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/PresupuestoCiudadano-2.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Egreso/PresupuestoCiudadano-2.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
         </tbody>
@@ -419,7 +420,7 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">PBR</td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/PBR_EjeDeGobierno_VI.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Presupuesto_BR/PBR_EjeDeGobierno_VI.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
         </tbody>
@@ -438,31 +439,31 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Proyecciones de Ingresos</td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/5.%20Proyecciones%20de%20Ingresos%202024.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Informacion_DF/5.%20Proyecciones%20de%20Ingresos%202024.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 80%; color:black">Proyecciones de Egresos</td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/6.%20Proyecciones%20de%20Egresos%202024.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Informacion_DF/6.%20Proyecciones%20de%20Egresos%202024.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Resultados de Ingresos</td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/7.%20Resultados%20de%20los%20ingresos%202024.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Informacion_DF/7.%20Resultados%20de%20los%20ingresos%202024.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 80%; color:black">Resultados de Egresos</td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/8.%20Resultados%20de%20los%20egresos%202024.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Informacion_DF/8.%20Resultados%20de%20los%20egresos%202024.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Informe de Estudios Actuariales</td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2024/9.%20Informe%20Estudios%20Actuariales%202024.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_anual/Informacion_DF/9.%20Informe%20Estudios%20Actuariales%202024.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
         </tbody>
@@ -485,187 +486,163 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 60%; color: black">Estado de actividades/Resultados</td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/EA-GTO-ITESG-1T-24.pdf" download="1"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF" ></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/EA-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/1T/EA-GTO-ITESG-1T-24.pdf" download="1"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF" ></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/1T/EA-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
 
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/EA-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title= Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/EA-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/2T/EA-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title= Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/2T/EA-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/CONTABLE/EA-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/CONTABLE/EA-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/EA-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/EA-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
-                <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
-                </td>
+              
             </tr>
             <tr>
                 <td style="width: 60%; color: black">Estado de situación financiera</td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/ESF-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/ESF-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/1T/ESF-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/1T/ESF-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/ESF-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/ESF-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/2T/ESF-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/2T/ESF-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/CONTABLE/ESF-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/CONTABLE/ESF-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/ESF-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/ESF-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
-                <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
-                </td>
+             
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 60%; color: black">Estado de variación en la hacienda pública</td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/EVHP-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/EVHP-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/1T/EVHP-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/1T/EVHP-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/EVHP-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/EVHP-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/2T/EVHP-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/2T/EVHP-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/CONTABLE/EVHP-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/CONTABLE/EVHP-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/EVHP-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/EVHP-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
-                <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
-                </td>
+               
             </tr>
             <tr>
                 <td style="width: 60%; color: black">Estado de cambios en la situación financiera</td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/ECSF-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/ECSF-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/1T/ECSF-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/1T/ECSF-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/ECSF-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/ECSF-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/2T/ECSF-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/2T/ECSF-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/CONTABLE/ECSF-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/CONTABLE/ECSF-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/ECSF-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/ECSF-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
-                <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
-                </td>
+               
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 60%; color: black">Estado de flujos de efectivo</td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/EFE-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/EFE-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/1T/EFE-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/1T/EFE-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/EFE-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/EFE-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/2T/EFE-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/2T/EFE-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/CONTABLE/EFE-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/CONTABLE/EFE-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/EFE-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/EFE-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
-                <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
-                </td>
+              
             </tr>
             <tr>
                 <td style="width: 60%; color: black">Estado analítico del activo</td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/EAA-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/EAA-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/1T/EAA-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/1T/EAA-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/EAA-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/EAA-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/2T/EAA-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/2T/EAA-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/CONTABLE/EAA-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/CONTABLE/EAA-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/EAA-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/EAA-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
-                <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
-                </td>
+               
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 60%; color: black">Estado analítico de la deuda y otros pasivos</td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/EADOP-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/EADOP-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/1T/EADOP-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/1T/EADOP-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/EADOP-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/EADOP-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/2T/EADOP-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/2T/EADOP-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/CONTABLE/EADOP-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/CONTABLE/EADOP-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/EADOP-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/EADOP-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
-                <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
-                </td>
+             
             </tr>
             <tr>
                 <td style="width: 60%; color: black">Informes sobre pasivos contingentes</td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/IPC-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/IPC-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/1T/IPC-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/1T/IPC-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/IPC-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/IPC-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/2T/IPC-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/2T/IPC-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/CONTABLE/IPC-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/CONTABLE/IPC-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/IPC-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/IPC-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
-                <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
-                </td>
+              
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 60%; color: black"><b>Notas a los estados financieros:</b></td>
@@ -674,48 +651,42 @@
             <tr>
                 <td style="width: 60%; color: black">Desglose y Memoria</td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/NDM-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/NDM-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/1T/NDM-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/1T/NDM-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/NDM-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/NDM-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/2T/NDM-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/2T/NDM-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/CONTABLE/NDM-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/CONTABLE/NDM-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/NDM-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/NDM-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
-                <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
-                </td>
+               
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 60%; color: black">Gestión Administrativa</td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/NGA-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/CONTABLE/NGA-GTO-ITESG-1T-24.docx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/1T/NGA-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/1T/NGA-GTO-ITESG-1T-24.docx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/NGA-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/CONTABLE/NGA-GTO-ITESG-2T-24.docx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/2T/NGA-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/2T/NGA-GTO-ITESG-2T-24.docx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/CONTABLE/NGA-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/CONTABLE/NGA-GTO-ITESG-3T-24.docx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/NGA-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_contable/3T/NGA-GTO-ITESG-3T-24.docx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
-                <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
-                </td>
+              
             </tr>
         </tbody>
     </table>
@@ -734,231 +705,231 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 60%; color: black">Estado analítico de ingresos CE</td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIA/EAIE-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIA/EAIE-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/1T/EAIE-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/1T/EAIE-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIA/EAIE-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIA/EAIE-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/2T/EAIE-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/2T/EAIE-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIA/EAIE-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIA/EAIE-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/3T/EAIE-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/3T/EAIE-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 60%; color: black">Estado analítico de ingresos CFF</td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIA/EAIF-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIA/EAIF-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/1T/EAIF-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/1T/EAIF-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIA/EAIF-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIA/EAIF-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/2T/EAIF-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/2T/EAIF-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIA/EAIF-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIA/EAIF-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/3T/EAIF-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/3T/EAIF-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 60%; color: black">Estado analítico de ingresos Concepto</td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIA/EAIF-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIA/EAIF-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/1T/EAIF-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/1T/EAIF-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIA/EAIF-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIA/EAIF-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/2T/EAIF-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/2T/EAIF-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIA/EAIF-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIA/EAIF-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/3T/EAIF-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/3T/EAIF-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 60%; color: black">Estado analítico del ejercicio del presupuesto de egresos (Administrativa)</td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIA/EAEPEA-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIA/EAEPEA-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href=../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/1T/EAEPEA-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/1T/EAEPEA-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIA/EAEPEA-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIA/EAEPEA-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/2T/EAEPEA-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href=../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/2T/EAEPEA-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIA/EAEPEA-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIA/EAEPEA-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/3T/EAEPEA-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/3T/EAEPEA-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 60%; color: black">Estado analítico del ejercicio del presupuesto de egresos (Económica) </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIA/EAEPEE-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIA/EAEPEE-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/1T/EAEPEE-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/1T/EAEPEE-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIA/EAEPEE-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIA/EAEPEE-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/2T/EAEPEE-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/2T/EAEPEE-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIA/EAEPEE-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIA/EAEPEE-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/3T/EAEPEE-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/3T/EAEPEE-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 60%; color: black">Estado analítico del ejercicio del presupuesto de egresos (COG)</td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIA/EAEPEC-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIA/EAEPEC-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/1T/EAEPEC-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/1T/EAEPEC-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIA/EAEPEC-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIA/EAEPEC-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/2T/EAEPEC-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/2T/EAEPEC-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIA/EAEPEC-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIA/EAEPEC-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/3T/EAEPEC-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/3T/EAEPEC-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 60%; color: black">Estado analítico del ejercicio del presupuesto de egresos (Funcional) </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIA/EAEPEF-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIA/EAEPEF-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/1T/EAEPEF-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/1T/EAEPEF-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIA/EAEPEF-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIA/EAEPEF-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/2T/EAEPEF-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/2T/EAEPEF-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIA/EAEPEF-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIA/EAEPEF-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/3T/EAEPEF-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/3T/EAEPEF-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 60%; color: black">Endeudamiento neto</td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIA/EN-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIA/EN-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/1T/EN-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/1T/EN-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIA/EN-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIA/EN-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/2T/EN-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/2T/EN-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIA/EN-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIA/EN-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/3T/EN-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/3T/EN-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
             </tr>
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 60%; color: black">Intereses de la deuda</td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIA/ID-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIA/ID-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/1T/ID-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/1T/ID-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIA/ID-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIA/ID-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/2T/ID-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/2T/ID-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIA/ID-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIA/ID-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/3T/ID-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/3T/ID-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
             </tr>
             <tr>
                 <td style="width: 60%; color: black">Un flujo de fondos</td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIA/FF-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/1T/PRESUPUESTARIA/FF-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/1T/FF-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/1T/FF-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIA/FF-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/2T/PRESUPUESTARIA/FF-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/2T/FF-GTO-ITESG-2T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/2T/FF-GTO-ITESG-2T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIA/FF-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2024/3T/PRESUPUESTARIA/FF-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/3T/FF-GTO-ITESG-3T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/3T/FF-GTO-ITESG-3T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a><img src="https://www.itesg.edu.mx/images/pdf_no.jpg" title="PDF No Disponible"></a>
-                    <a><img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a><img src="../images/iconos/pdf_no.jpg" title="PDF No Disponible"></a>
+                    <a><img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
             </tr>
         </tbody>

@@ -55,37 +55,24 @@ include ("header.php");
                 <section id="component" role="article" class="clearfix" style="padding: 0px;">
                     <div class="block" style="min-height: 0px;">
                         <article class="article fulltext ">
-                            <section class="actions" style="padding: 0px;">
-                                <ul class="iconos">
-                                    <li class="print-icon" style="margin-left: 15px;">
-                                        <a href="formulario-imprimir.html" title="Imprimir">
-                                            <i class="fas fa-print" style="color: #24398E;"></i> 
-                                        </a>
-                                    </li>
-                                    <li class="email-icon" style="margin-left: 15px;">
-                                        <a href="formulario-correo.html" title="Enviar correo">
-                                            <i class="fas fa-envelope" style="color: #24398E"></i> 
-                                        </a>
-                                    </li>
-                                </ul>
-                            </section> 
-                            <section class="article-body" style="padding-top: 0px; padding-bottom: 0px; padding-right: 150px; padding-left: 150px;">
+
+                            <section class="article-body" style="padding-top: 20px; padding-bottom: 0px; padding-right: 150px; padding-left: 150px;">
                                 <p align="center"><img src="../images/headers/h_becas.png" style="width: 700px; height: 95px;"></p>
-                                <h4>Convocatoria Apoyos Internos ITESG AD2024</h4>
+                                <h4>Convocatoria Apoyos Internos ITESG EJ2025</h4>
                                 <div class="alert alert-info">
-                                    <a href="../images/documentos/conv_apoy_AD24.pdf" target="_blank"> 
+                                    <a href="../images/documentos/conv_apoy_itesg_EJ2025.pdf" target="_blank"> 
                                         <p> <img src="../images/desc_pdf.png">Ver aquí</p></a>
                                 </div> <hr class="dotted">
 
-                                <h4>Solicitud Apoyo a Excelencia Académica</h4>
+                                <h4>Solicitud Aprovechamiento Acádemico</h4>
                                 <div class="alert alert-info">
-                                    <a href="../images/documentos/sol_apoy_excel.pdf" target="_blank"> 
+                                    <a href="../images/documentos/sol_aprov_acad.pdf" target="_blank"> 
                                         <p> <img src="../images/desc_pdf.png">Ver aquí</p></a>
                                 </div> <hr class="dotted">
                                 
-                                <h4>Solicitud Apoyo a Reinscripción</h4>
+                                <h4>Solicitud Apoyo Económico</h4>
                                 <div class="alert alert-info">
-                                    <a href="../images/documentos/sol_apoy_reins.pdf" target="_blank"> 
+                                    <a href="../images/documentos/sol_apoy_econ.pdf" target="_blank"> 
                                         <p> <img src="../images/desc_pdf.png">Ver aquí</p></a>
                                 </div> <hr class="dotted">
                                         
@@ -95,15 +82,15 @@ include ("header.php");
                                         <p> <img src="../images/desc_pdf.png">Ver aquí</p></a>
                                 </div> <hr class="dotted">
                                         
-                                <h4>Estudio Socioeconómico AD 2024</h4>
+                                <h4>Estudio Socioeconómico</h4>
                                 <div class="alert alert-info">
-                                    <a href="../images/documentos/est_socio_ad24.pdf" target="_blank"> 
+                                    <a href="../images/documentos/est_socio_EJ2025.pdf" target="_blank"> 
                                         <p> <img src="../images/desc_pdf.png">Ver aquí</p></a>
                                 </div> <hr class="dotted">
 
-                                <h4>Manifestación de Ingresos AD 2024</h4>
+                                <h4>Manifestación de Ingresos</h4>
                                 <div class="alert alert-info">
-                                    <a href="../images/documentos/ma_ing_itsg.pdf" target="_blank">
+                                    <a href="../images/documentos/man_ingr_itesg.pdf" target="_blank">
                                         <p> <img src="../images/desc_pdf.png">Ver aquí</p></a>
                                 </div> <hr class="dotted">
 
