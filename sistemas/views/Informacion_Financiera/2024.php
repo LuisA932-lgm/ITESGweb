@@ -1268,7 +1268,7 @@
                 </td>
                 <td style="width: 10%;">
                     <a> <img src="../images/iconos/NA.png" title="No Aplica"></a>
-                    <a> <img src=../images/iconos/NA.png" title="No Aplica"></a>
+                    <a> <img src="../images/iconos/NA.png" title="No Aplica"></a>
                 </td>
             </tr>
             <tr>
