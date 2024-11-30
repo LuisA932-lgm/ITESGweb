@@ -329,7 +329,9 @@
             <tr>
                 <td style="width: 80%; color:black">Información Adicional a la Iniciativa de Ingresos</td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/IAII_ITSG_2023.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+
+                <!-- CABIAR https://www.itesg.edu.mx POR http://localhost/ITESGweb/sistemas/views/Informacion_Financiera-->
+                    <a href="http://localhost/ITESGweb/sistemas/views/Informacion_Financiera/LGCGyLDF/EJ2023/IAII_ITSG_2023.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                     <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/IAII_ITSG_2023.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
