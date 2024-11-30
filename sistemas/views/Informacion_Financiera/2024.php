@@ -1524,7 +1524,7 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%;  color: black">Guía de cumplimiento</td>
                 <td style="width: 20%;">
-                    <a href="" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_no.jpg" title="Excel No Disponible"></a>
+                    <a href="" target="_blank"> <img src="../images/iconos/excel_no.jpg" title="Excel No Disponible"></a>
                 </td>
             </tr>
         </tbody>
