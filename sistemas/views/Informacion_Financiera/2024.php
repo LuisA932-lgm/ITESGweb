@@ -1542,7 +1542,7 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%;  color: black">Manual de Contabilidad Gubernamental</td>
                 <td style="width: 20%;">
-                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Cuenta_publica/Conta_Gube/manual_conta_itesg230524.pdf" target="_blank"> <img src=../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Cuenta_publica/Conta_Gube/manual_conta_itesg230524.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
                 </td>
             </tr>
         </tbody>
