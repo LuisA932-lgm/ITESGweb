@@ -331,7 +331,7 @@
                 <td style="width: 20%;">
 
                 <!-- CABIAR https://www.itesg.edu.mx POR http://localhost/ITESGweb/sistemas/views/Informacion_Financiera-->
-                    <a href="../Informacion_Financiera/LGCGyLDF/EJ2023/IAII_ITSG_2023.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/IAII_ITSG_2023.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                     <a href="../Informacion_Financiera/LGCGyLDF/EJ2023/IAII_ITSG_2023.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
