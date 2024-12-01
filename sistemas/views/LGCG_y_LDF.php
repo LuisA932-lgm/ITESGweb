@@ -244,26 +244,29 @@ fieldset[disabled] .btn-primary:hover {
   </body>
   </html>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script>
-
-
+  <script>
 $(document).ready(function() {
-        loadContent(2024);
-    });
+    loadContent(2024);  
+});
 
-    function loadContent(year) {
-        $.ajax({
-            url: `http://localhost/ITESGWEB/sistemas/views/Informacion_Financiera/${year}.php`, 
-            type: "GET",
-            success: function(response) {
+function loadContent(year) {
+    $.ajax({
+        url: `http://localhost/ITESGWEB/sistemas/views/Informacion_Financiera/${year}.php`, 
+        type: "GET",
+        success: function(response) {
+            if (response.trim() === "") {
+                $('#contentDiv').html('<img src="../sistemas/images/logos/1.png" />');
+            } else {
                 $('#contentDiv').html(response);
-            },
-            error: function() {
-                $('#contentDiv').html('<img src="../sistemas/images/logos/1.png" />'); 
             }
-        });
-    }
+        },
+        error: function() {
+            $('#contentDiv').html('<img src="../sistemas/images/logos/1.png" />');
+        }
+    });
+}
 </script>
+
 
 
 <?php
