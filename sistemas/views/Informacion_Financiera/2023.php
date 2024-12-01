@@ -1218,8 +1218,8 @@
                            <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/2T/DISCIPLINA/ESF-GTO-ITESG-2T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
-                           <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/3T/LEY%20DE%20DISCIPLINA/Formato%201%20ESF-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
-                        </td>
+                           <a href="../Informacion_Financiera/LGCGyLDF/EJ2023/3T/LEY_DE_DISCIPLINA/" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                        </td>../views/Informacion_Financiera/LGCGyLDF/EJ2023/3T/LEY%20DE%20DISCIPLINA/Formato%201%20ESF-GTO-ITESG-3T-23.xlsx
                         <td style="width: 10%;">
                            <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/4T/DISCIPLINA/1_ESF-GTO-ITESG-4T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
