@@ -1233,7 +1233,7 @@
                            <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/2T/DISCIPLINA/EADOP-GTO-ITESG-2T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
-                           <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/3T/LEY%20DE%20DISCIPLINA/Formato%202%20EADOP-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                           <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/3T/LEY_DE_DISCIPLINA/Formato2_EADOP-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
                            <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/4T/DISCIPLINA/2_EADOP-GTO-ITESG-4T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
@@ -1248,7 +1248,7 @@
                            <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/2T/DISCIPLINA/IAODF-GTO-ITESG-2T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
-                           <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/3T/LEY%20DE%20DISCIPLINA/Formato%203%20IAODF-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                           <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/3T/LEY_DE_DISCIPLINA/Formato_3_IAODF-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
                             <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/4T/DISCIPLINA/3_IAODF-GTO-ITESG-4T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
@@ -1263,7 +1263,7 @@
                            <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/2T/DISCIPLINA/BP-GTO-ITESG-2T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
-                           <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/3T/LEY%20DE%20DISCIPLINA/Formato%204%20BP-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                           <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/3T/LEY_DE_DISCIPLINA/Formato_4_BP-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
                            <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/4T/DISCIPLINA/4_BP-GTO-ITESG-4T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
@@ -1278,7 +1278,7 @@
                            <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/2T/DISCIPLINA/EAI-GTO-ITESG-2T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
-                           <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/3T/LEY%20DE%20DISCIPLINA/Formato%205%20EAI-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                           <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/3T/LEY_DE_DISCIPLINA/Formato_5_EAI-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
                            <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/4T/DISCIPLINA/5_EAI-GTO-ITESG-4T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
@@ -1293,7 +1293,7 @@
                            <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/2T/DISCIPLINA/EAEPECOG-GTO-ITESG-2T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
-                           <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/3T/LEY%20DE%20DISCIPLINA/Formato%206a%20EAEPECOG-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                           <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/3T/LEY_DE_DISCIPLINA/Formato_6a_EAEPECOG-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
                           <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/4T/DISCIPLINA/6a_EAEPECOG-GTO-ITESG-4T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
@@ -1308,7 +1308,7 @@
                            <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/2T/DISCIPLINA/EAEPE CA-GTO-ITESG-2T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
-                           <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/3T/LEY%20DE%20DISCIPLINA/Formato%206b%20EAEPE%20CA-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                           <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/3T/LEY_DE_DISCIPLINA/Formato_6b_EAEPE%20CA-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
                            <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/4T/DISCIPLINA/6b_EAEPE%20CA-GTO-ITESG-4T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
@@ -1323,7 +1323,7 @@
                            <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/2T/DISCIPLINA/EAEPE CF-GTO-ITESG-2T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
-                           <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/3T/LEY%20DE%20DISCIPLINA/Formato%206c%20EAEPE%20CF-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                           <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/3T/LEY_DE_DISCIPLINA/Formato_6c_EAEPE_CF-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
                            <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/4T/DISCIPLINA/6c_EAEPE%20CF-GTO-ITESG-4T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
@@ -1338,7 +1338,7 @@
                            <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/2T/DISCIPLINA/EAEPECSPC-GTO-ITESG-2T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
-                           <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/3T/LEY%20DE%20DISCIPLINA/Formato%206d%20EAEPECSPC-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                           <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/3T/LEY_DE_DISCIPLINA/Formato_6d_EAEPECSPC-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                         </td>
                         <td style="width: 10%;">
                            <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/4T/DISCIPLINA/6d_EAEPECSPC-GTO-ITESG-4T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
