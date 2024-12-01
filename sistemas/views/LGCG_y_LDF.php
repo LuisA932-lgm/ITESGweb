@@ -259,7 +259,7 @@ $(document).ready(function() {
                 $('#contentDiv').html(response);
             },
             error: function() {
-                $('#contentDiv').html('<img src="../images/logos/1.png" />'); 
+                $('#contentDiv').html('<img src="../sistemas/images/logos/1.png" />'); 
             }
         });
     }
