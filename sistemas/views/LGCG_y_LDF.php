@@ -261,8 +261,7 @@ function loadContent(year) {
             }
         },
         error: function() {
-            $('#contentDiv').html('<img src="../images/1.png" style="display:block; margin: 0 auto;"/>'); 
-            <p style="text-aling:center"> Página en mantenimiento  </p>
+            $('#contentDiv').html('<img src="../images/1.png" style="display:block; margin: 0 auto;"/> <p> Página en mantenimiento  </p>');
         }
     });
 }
