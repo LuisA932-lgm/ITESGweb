@@ -350,7 +350,7 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 80%; color:black">Calendario de Ingresos</td>
                 <td style="width: 20%;">
-                    <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/CI_ITSG_2023.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="http://localhost/ITESGweb/sistemas/views/Informacion_Financiera/LGCGyLDF/EJ2023/CI_ITSG_2023.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
                     <a href="https://www.itesg.edu.mx/LGCGyLDF/EJ2023/CI_ITSG_2023.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
             </tr>
