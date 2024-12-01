@@ -487,21 +487,21 @@
             <tr style="background-color: #f8f8f9;">
                 <td style="width: 60%; color: black">Estado de actividades/Resultados</td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/CONTABLE/EA-GTO-ITESG-1T-23.pdf" download="1"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF" ></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/1T/CONTABLE/EA-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/1T/CONTABLE/EA-GTO-ITESG-1T-23.pdf" download="1"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF" ></a>
+                    <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/1T/CONTABLE/EA-GTO-ITESG-1T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
 
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/2T/CONTABLE/EA-GTO-ITESG-2T-23.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title= Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/2T/CONTABLE/EA-GTO-ITESG-2T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/2T/CONTABLE/EA-GTO-ITESG-2T-23.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title= Archivo PDF"></a>
+                    <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/2T/CONTABLE/EA-GTO-ITESG-2T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/3T/CONTABLE/EA-GTO-ITESG-3T-23.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/3T/CONTABLE/EA-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/3T/CONTABLE/EA-GTO-ITESG-3T-23.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/3T/CONTABLE/EA-GTO-ITESG-3T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/4T/CONTABLE/EA-GTO-ITESG-4T-23.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
-                    <a href="https://itesg.edu.mx/LGCGyLDF/EJ2023/4T/CONTABLE/EA-GTO-ITESG-4T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
+                    <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/4T/CONTABLE/EA-GTO-ITESG-4T-23.pdf" target="_blank"> <img src="https://www.itesg.edu.mx/images/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_Financiera/LGCGyLDF/EJ2023/4T/CONTABLE/EA-GTO-ITESG-4T-23.xlsx" target="_blank"> <img src="https://www.itesg.edu.mx/images/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
 
             </tr>
