@@ -259,7 +259,7 @@ $(document).ready(function() {
                 $('#contentDiv').html(response);
             },
             error: function() {
-                $('#contentDiv').html('<p>Error al cargar el contenido. Página no existe.</p>'); 
+                $('#contentDiv').html('<img src="../images/'); 
             }
         });
     }
