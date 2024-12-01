@@ -261,7 +261,7 @@ function loadContent(year) {
             }
         },
         error: function() {
-            $('#contentDiv').html('<img src="../sistemas/images/1.png" />');
+            $('#contentDiv').html('<img src="../images/1.png" />');
         }
     });
 }
