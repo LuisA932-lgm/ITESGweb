@@ -255,13 +255,13 @@ function loadContent(year) {
         type: "GET",
         success: function(response) {
             if (response.trim() === "") {
-                $('#contentDiv').html('<img src="../sistemas/images/logos/1.png" style="display:block; margin: 0 auto;" />');
+                $('#contentDiv').html('<img src="../images/logos/1.png" style="display:block; margin: 0 auto;" />');
             } else {
                 $('#contentDiv').html(response);
             }
         },
         error: function() {
-            $('#contentDiv').html('< styleimg src="../images/1.png" style="display:block; margin: 0 auto;"/>');
+            $('#contentDiv').html('<img src="../images/1.png" style="display:block; margin: 0 auto;"/>');
         }
     });
 }
