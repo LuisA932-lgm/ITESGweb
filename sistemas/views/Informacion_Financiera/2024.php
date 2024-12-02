@@ -774,7 +774,7 @@
             <tr>
                 <td style="width: 60%; color: black">Estado analítico del ejercicio del presupuesto de egresos (Administrativa)</td>
                 <td style="width: 10%;">
-                    <a href=../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/1T/EAEPEA-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
+                    <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/1T/EAEPEA-GTO-ITESG-1T-24.pdf" target="_blank"> <img src="../images/iconos/pdf_1.jpg" title="Archivo PDF"></a>
                     <a href="../views/Informacion_FInanciera/LCGCyLDF_EJ2024/Info_trimestral/Info_presupuestaria/1T/EAEPEA-GTO-ITESG-1T-24.xlsx" target="_blank"> <img src="../images/iconos/excel_1.jpg" title="Archivo Excel"></a>
                 </td>
                 <td style="width: 10%;">
