@@ -263,7 +263,7 @@ function loadContent(year) {
             }
         },
         error: function() {
-            $('#contentDiv').html('<img src="../images/1.png" style="display:block; margin: 0 auto;"/> <p style="text-align:center; color="black;"> Página en mantenimiento. </p>');
+            $('#contentDiv').html('<img src="../images/1.png" style="display:block; margin: 0 auto;"/> <p style="text-align:center; color:black;"> Página en mantenimiento. </p>');
         }
     });
 }
