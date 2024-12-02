@@ -195,6 +195,7 @@ fieldset[disabled] .btn-primary:hover {
     color: #FFF;
     background-color: #9D2449;
     border-color: #9D2449
+    
 }
 .font-changer button {
     display: block;
@@ -210,6 +211,7 @@ fieldset[disabled] .btn-primary:hover {
     text-align: center;
     font-size: 13px;
     margin-bottom: 7px
+    
 }
 
 .font-changer button:hover {
@@ -261,7 +263,7 @@ function loadContent(year) {
             }
         },
         error: function() {
-            $('#contentDiv').html('<img src="../images/1.png" style="display:block; margin: 0 auto;"/> <p> Página en mantenimiento. </p>');
+            $('#contentDiv').html('<img src="../images/1.png" style="display:block; margin: 0 auto;"/> <p style="text-align:center;"> Página en mantenimiento. </p>');
         }
     });
 }
