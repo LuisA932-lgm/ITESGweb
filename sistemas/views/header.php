@@ -570,7 +570,7 @@
 
                                                         </ul>
                                                     </li>
-                                                    <class="dropdown">
+                                                    <li class="dropdown">
                                                         <a data-bs-toggle="dropdown" href=".html">Dictamen y Acta de
                                                             Baja Documental<i
                                                                 class="fas fa-angle-right dropdown-toggle"></i> </a>
@@ -668,7 +668,7 @@
                                                                     2024</a></li>
                                                             <li><a href="../images/documentos/4.-%20Modelo4PATCS1.pdf">Programa
                                                                     Anual de Trabajo</a></li>
-                                                            <li><a href="..">Oficio de Validación S247 2024</a></li>
+                                                            <li><a href="../images/documentos/OFVALIDACIONS242024.pdf">Oficio de Validación S247 2024</a></li>
                                                         </ul>
                                                     </li>
                                                     <li class="dropdown">
@@ -676,10 +676,10 @@
                                                             Operativa<i
                                                                 class="fas fa-angle-right dropdown-toggle"></i></a>
                                                         <ul class="dropdown-menu">
-                                                            <li><a href=".html">Acta de Constitución 2024</a></li>
-                                                            <li><a href=".html">Acta de Sustitución 2024</a></li>
-                                                            <li><a href=".html">Minutas de Reunión 2024</a></li>
-                                                            <li><a href=".html">Informe de Comité 2024</a></li>
+                                                            <li><a href="../images/documentos/Anexo1Acta%20constitucin2024.pdf">Acta de Constitución 2024</a></li>
+                                                            <li><a href="../images/documentos/Anexo2Actasustitucin2024.pdf">Acta de Sustitución 2024</a></li>
+                                                            <li><a href="../images/documentos/Anexo3MinutaReunin2024.pdf">Minutas de Reunión 2024</a></li>
+                                                            <li><a href="../images/documentos/Anexo4InformeFinal2024.pdf">Informe de Comité 2024</a></li>
                                                         </ul>
                                                     </li>
                                                 </ul>
@@ -730,7 +730,7 @@
                                                             <li><a
                                                                     href="../images/documentos/Anexo2ActasustituciU006.pdf">Acta de Sustitución</a></li>
                                                             <li><a
-                                                                    href="../images/documentos/Anexo3Minuta%20euninU006.pdf">Minuta de Reunión</a></li>
+                                                                    href="../images/documentos/Anexo3MinutaReunin2024.pdf">Minuta de Reunión</a></li>
                                                             <li><a href="../images/documentos/Anexo4InformeFinalU006.pdf">Informe de Comité</a></li>
                                                         </ul>
                                                     </li>
