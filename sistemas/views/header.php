@@ -306,6 +306,7 @@
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="marco_juridico.php">Marco Jurídico</a></li>
+                                    <li class="dropdown"><a href="normativa_escolar.php">Normativa Escolar</a></li>
                                     <li class="dropdown"><a href=".html">Comunicados</a></li>
                                 </ul>
                             </li>
