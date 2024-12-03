@@ -32,7 +32,7 @@ include 'header.php';
             </tr>
         </thead>
         <tbody>';
-            for ($i = 0; $i < 7; $i++) {
+            for ($i = 0; $i < count($nombre); $i++) {
                 if ($correo[$i] == "@guanajuato.tecnm.mx") {
                     $linea = '<td>' . $correo[$i] . '</td>';
                 } else {
@@ -120,7 +120,7 @@ include 'header.php';
             </tr>
         </thead>
         <tbody>';
-            for ($i = 0; $i < 16; $i++) {
+            for ($i = 0; $i < count($nombre); $i++) {
                 if ($correo[$i] == "@guanajuato.tecnm.mx") {
                     $linea = '<td>' . $correo[$i] . '</td>';
                 } else {
@@ -214,7 +214,7 @@ include 'header.php';
             </tr>
         </thead>
         <tbody>';
-            for ($i = 0; $i < 15; $i++) {
+            for ($i = 0; $i < count($nombre); $i++) {
                 if ($correo[$i] == "@guanajuato.tecnm.mx") {
                     $linea = '<td>' . $correo[$i] . '</td>';
                 } else {
@@ -302,7 +302,7 @@ include 'header.php';
             </tr>
         </thead>
         <tbody>';
-            for ($i = 0; $i < 15; $i++) {
+            for ($i = 0; $i < count($nombre); $i++) {
                 if ($correo[$i] == "@guanajuato.tecnm.mx") {
                     $linea = '<td>' . $correo[$i] . '</td>';
                 } else {
