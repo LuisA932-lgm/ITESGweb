@@ -261,17 +261,20 @@ function loadContent(year) {
         url: `http://localhost/ITESGweb/sistemas/views/Informacion_Financiera/${year}.php`,
         type: "GET",
         success: function(response) {
+            console.log(`Respuesta del servidor para el año ${year}:`, response); // Log para verificar la respuesta
             if (response.trim() === "") {
                 $('#contentDiv').html('<img src="../images/logos/1.png" style="display:block; margin: 0 auto;" />');
             } else {
                 $('#contentDiv').html(response);
             }
         },
-        error: function() {
+        error: function(xhr, status, error) {
+            console.log(`Error al cargar el contenido para el año ${year}:`, error); // Log para errores
             $('#contentDiv').html('<img src="../images/1.png" style="display:block; margin: 0 auto;"/> <p style="text-align:center; color:black;"> Página en mantenimiento. </p>');
         }
     });
 }
+
 
 </script>
 
