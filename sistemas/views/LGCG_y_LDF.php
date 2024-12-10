@@ -256,7 +256,7 @@ function loadContent(year) {
     $(`button[onclick="loadContent('${year}')"]`).addClass('selected');
 
     $.ajax({
-        url: `http://localhost/ITESGweb/sistemas/views/Informacion_Financiera/${year}.php`,
+        url: `./sistemas/views/Informacion_Financiera/${year}.php`,
         type: "GET",
         success: function(response) {
             console.log(`Respuesta del servidor para el año ${year}:`, response);
