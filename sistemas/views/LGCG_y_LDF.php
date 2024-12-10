@@ -252,11 +252,9 @@ $(document).ready(function() {
 });
 
 function loadContent(year) {
-    // Cambiar la clase 'selected' al botón correspondiente
     $('.btn-year').removeClass('selected');
     $(`button[onclick="loadContent('${year}')"]`).addClass('selected');
 
-    // Realizar la llamada AJAX
     $.ajax({
         url: `http://localhost/ITESGWEB/sistemas/views/Informacion_Financiera/${year}.php`,
         type: "GET",
@@ -274,3 +272,7 @@ function loadContent(year) {
 }
 
 </script>
+
+<?php
+include ("footer.php");
+?>
