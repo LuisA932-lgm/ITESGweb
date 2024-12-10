@@ -255,15 +255,11 @@ fieldset[disabled] .btn-primary:hover {
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
 $(document).ready(function() {
-    // Obtener el año actual
     const currentYear = new Date().getFullYear();
-    // Cargar el contenido del año actual al iniciar
     loadContent(currentYear);
-    // Pintar el botón correspondiente al año actual
     $(`.btn-year[data-year="${currentYear}"]`).addClass('selected');
 });
 
-// Función para cargar el contenido según el año seleccionado
 function loadContent(year) {
     $.ajax({
         url: `http://localhost/ITESGWEB/sistemas/views/Informacion_Financiera/${year}.php`,
@@ -279,10 +275,7 @@ function loadContent(year) {
             $('#contentDiv').html('<img src="../images/1.png" style="display:block; margin: 0 auto;"/> <p style="text-align:center; color:black;"> Página en mantenimiento. </p>');
         }
     });
-
-    // Quitar la clase 'selected' de todos los botones
     $('.btn-year').removeClass('selected');
-    // Agregar la clase 'selected' al botón correspondiente
     $(`.btn-year[data-year="${year}"]`).addClass('selected');
 }
 </script>
