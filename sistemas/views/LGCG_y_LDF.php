@@ -275,8 +275,7 @@ function loadContent(year) {
             $('#contentDiv').html('<img src="../images/1.png" style="display:block; margin: 0 auto;"/> <p style="text-align:center; color:black;"> Página en mantenimiento. </p>');
         }
     });
-    $('.btn-year').removeClass('selected');
-    $(`.btn-year[data-year="${year}"]`).addClass('selected');
+
 }
 </script>
 
