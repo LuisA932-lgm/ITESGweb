@@ -253,7 +253,7 @@ $(document).ready(function() {
 
 function loadContent(year) {
     $.ajax({
-        url: `http://localhost/ITESGWEB/sistemas/views/Informacion_Financiera/${year}.php`, 
+        url: `http://localhost/ITESGweb/sistemas/views/Informacion_Financiera/${year}.php`, 
         type: "GET",
         success: function(response) {
             if (response.trim() === "") {
