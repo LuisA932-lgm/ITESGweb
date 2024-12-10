@@ -221,7 +221,8 @@ fieldset[disabled] .btn-primary:hover {
     color: #fff;
 }
 
-</style><center class="Ti">Información Financiera - Armonización Contable LGCG y LDF</center>
+</style>
+<center class="Ti">Información Financiera - Armonización Contable LGCG y LDF</center>
 <center>
 <div class="btn-group btn-group-lg" role="group">
 <button type="button" class=" btn-year.selected btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2018')">2018</button>
@@ -238,13 +239,15 @@ fieldset[disabled] .btn-primary:hover {
 </html>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js">
 </script>
-<script>$(document).ready(function() {
+<script>
+
+$(document).ready(function() {
         loadContent(2024);
     });
 
 function loadContent(year) {
     $.ajax({
-        url: http://localhost/ITESGWEB/sistemas/views/Informacion_Financiera/${year}.php,
+        url: "http://localhost/ITESGWEB/sistemas/views/Informacion_Financiera/${year}.php",
         type: "GET",
         success: function(response) {
             if (response.trim() === "") {
