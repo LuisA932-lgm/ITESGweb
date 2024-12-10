@@ -225,12 +225,6 @@ fieldset[disabled] .btn-primary:hover {
     color: #fff; 
 }
 
-#btn-year.selected, .btn-year.selected {
-    background-color: #042433;  /* Color de fondo */
-    color: #fff;  /* Color del texto */
-}
-
-
 </style>
 
  <center class="Ti">Información Financiera - Armonización Contable LGCG y LDF</center>
@@ -238,13 +232,13 @@ fieldset[disabled] .btn-primary:hover {
           <div class="btn-group btn-group-lg" role="group">
    
       
-          <button type="button" class="btn-year btn btn-default" data-year="2018" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2018')">2018</button>
-    <button type="button" class="btn-year btn btn-default" data-year="2019" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2019')">2019</button>
-    <button type="button" class="btn-year btn btn-default" data-year="2020" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2020')">2020</button>
-    <button type="button" class="btn-year btn btn-default" data-year="2021" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2021')">2021</button>
-    <button type="button" class="btn-year btn btn-default" data-year="2022" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2022')">2022</button>
-    <button type="button" class="btn-year btn btn-default" data-year="2023" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2023')">2023</button>
-    <button type="button" class="btn-year btn btn-default" data-year="2024" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2024')">2024</button>
+      <button type="button" class=" btn-year.selected btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2018')">2018</button>
+        <button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2019')">2019</button>
+        <button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2020')">2020</button>
+        <button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2021')">2021</button>
+        <button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2022')">2022</button>
+        <button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2023')">2023</button>
+        <button type="button" class="btn-year.selected btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2024')">2024</button>
   </center>
   <div id="contentDiv">
     
@@ -252,17 +246,14 @@ fieldset[disabled] .btn-primary:hover {
   </body>
   </html>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script>
+  <script>
 $(document).ready(function() {
-    const currentYear = new Date().getFullYear();
-    loadContent(currentYear);
-    $(`.btn-year[data-year="${currentYear}"]`).addClass('selected');
+    loadContent(2024);  
 });
 
 function loadContent(year) {
     $.ajax({
-        url: `http://localhost/ITESGWEB/sistemas/views/Informacion_Financiera/${year}.php`,
+        url: `http://localhost/ITESGWEB/sistemas/views/Informacion_Financiera/${year}.php`, 
         type: "GET",
         success: function(response) {
             if (response.trim() === "") {
@@ -275,13 +266,5 @@ function loadContent(year) {
             $('#contentDiv').html('<img src="../images/1.png" style="display:block; margin: 0 auto;"/> <p style="text-align:center; color:black;"> Página en mantenimiento. </p>');
         }
     });
-    $('.btn-year').removeClass('selected');
-    $(`.btn-year[data-year="${year}"]`).addClass('selected');
 }
 </script>
-
-
-
-<?php
-include ("footer.php");
-?>
