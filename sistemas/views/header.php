@@ -366,14 +366,14 @@
                                     <ul class="dropdown-menu" role="menu">
                                         <li class="dropdown"><a href="#">Pagos <i class="fas fa-angle-right dropdown-toggle"></i></a>
                                             <ul class="dropdown-menu" role="menu">
-                                                <li class="dropdown"><a href="tecnm.mx">Esquema TyS</a></li>
-                                                <li class="dropdown"><a href="tecnm.mx">Pagos SPEI</a></li>
-                                                <li class="dropdown"><a href="tecnm.mx">Guía cta BBVA</a></li>
-                                                <li class="dropdown"><a href="tecnm.mx">Pagos BBVA</a></li>
+                                                <li class="dropdown"><a href="esquema_tys.php">Esquema TyS</a></li>
+                                                <li class="dropdown"><a href="pagos_spei.php">Pagos SPEI</a></li>
+                                                <li class="dropdown"><a href="../images/documentos/guiaapctabbva.pdf" target="_blank">Guía cta BBVA</a></li>
+                                                <li class="dropdown"><a href="pagos_bbva.php">Pagos BBVA</a></li>
                                             </ul>
                                         </li>
-                                        <li class="dropdown"><a href="tecnm.mx">Certificado</a></li>
-                                        <li class="dropdown"><a href="tecnm.mx">Tarifas 2024</a></li>
+                                        <li class="dropdown"><a href="certificado.php">Certificado</a></li>
+                                        <li class="dropdown"><a href="tarifas.php">Tarifas 2024</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown"><a href="tecnm.mx">Cursos de Verano 2024</a></li>
