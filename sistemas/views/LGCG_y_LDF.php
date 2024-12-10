@@ -245,7 +245,7 @@ fieldset[disabled] .btn-primary:hover {
     });
 
     function loadContent(year) {
-        fetch("http://localhost/ITESGWEB/sistemas/Informacion_Financiera/${year}.php")
+        fetch('http://localhost/ITESGWEB/sistemas/Informacion_Financiera/${year}.php')
             .then(response => response.text())
             .then(html => {
                 document.getElementById('contentDiv').innerHTML = html;
