@@ -238,7 +238,7 @@ fieldset[disabled] .btn-primary:hover {
         <button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2021')">2021</button>
         <button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2022')">2022</button>
         <button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2023')">2023</button>
-        <button type="button" class="btn-year selected btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2024')">2024</button>
+        <button type="button" class="btn-year.selected btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2024')">2024</button>
   </center>
   <div id="contentDiv">
     
@@ -252,11 +252,8 @@ $(document).ready(function() {
 });
 
 function loadContent(year) {
-    $('.btn-year').removeClass('selected');
-    $(`button[onclick="loadContent('${year}')"]`).addClass('selected');
-
     $.ajax({
-        url: `http://localhost/ITESGWEB/sistemas/views/Informacion_Financiera/${year}.php`,
+        url: `http://localhost/ITESGWEB/sistemas/views/Informacion_Financiera/${year}.php`, 
         type: "GET",
         success: function(response) {
             if (response.trim() === "") {
@@ -270,8 +267,4 @@ function loadContent(year) {
         }
     });
 }
-
 </script>
-<?php
-include ("footer.php");
-?>
