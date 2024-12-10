@@ -234,6 +234,8 @@ fieldset[disabled] .btn-primary:hover {
 <button type="button" class="btn-year.selected btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2024')">2024</button>
 </center>
 <div id="contentDiv">
+console.log("URL solicitada: http://localhost/ITESGWEB/sistemas/views/Informacion_Financiera/" + year + ".php");
+
 </div>
 </body>
 </html>
