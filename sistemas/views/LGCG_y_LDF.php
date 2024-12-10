@@ -244,7 +244,7 @@ fieldset[disabled] .btn-primary:hover {
     <button type="button" class="btn-year btn btn-default" data-year="2021" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2021')">2021</button>
     <button type="button" class="btn-year btn btn-default" data-year="2022" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2022')">2022</button>
     <button type="button" class="btn-year btn btn-default" data-year="2023" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2023')">2023</button>
-    <button type="button" class="btn-year btn btn-default" data-year="2024" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('20244')">2024</button>
+    <button type="button" class="btn-year btn btn-default" data-year="2024" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('20244')">20244</button>
   </center>
   <div id="contentDiv">
     
