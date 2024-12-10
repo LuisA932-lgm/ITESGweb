@@ -252,8 +252,15 @@ $(document).ready(function() {
 });
 
 function loadContent(year) {
+    // Eliminar la clase 'selected' de todos los botones
+    $('.btn-year.selected').removeClass('selected');
+
+    // Agregar la clase 'selected' al botón del año actual
+    $(`button[onclick="loadContent('${year}')"]`).addClass('selected');
+
+    // Realizar la llamada AJAX
     $.ajax({
-        url: `http://localhost/ITESGWEB/sistemas/views/Informacion_Financiera/${year}.php`, 
+        url: `http://localhost/ITESGWEB/sistemas/views/Informacion_Financiera/${year}.php`,
         type: "GET",
         success: function(response) {
             if (response.trim() === "") {
@@ -267,4 +274,5 @@ function loadContent(year) {
         }
     });
 }
+
 </script>
