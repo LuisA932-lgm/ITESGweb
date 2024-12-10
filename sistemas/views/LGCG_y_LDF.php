@@ -225,13 +225,13 @@ fieldset[disabled] .btn-primary:hover {
 <center class="Ti">Información Financiera - Armonización Contable LGCG y LDF</center>
 <center>
 <div class="btn-group btn-group-lg" role="group">
-<button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2018')">2018</button>
+<button type="button" class=" btn-year.selected btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2018')">2018</button>
 <button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2019')">2019</button>
 <button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2020')">2020</button>
 <button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2021')">2021</button>
 <button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2022')">2022</button>
 <button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2023')">2023</button>
-<button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2024')">2024</button>
+<button type="button" class="btn-year.selected btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2024')">2024</button>
 </center>
 <div id="contentDiv">
 </div>
