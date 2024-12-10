@@ -241,6 +241,9 @@ fieldset[disabled] .btn-primary:hover {
 </script>
 <script>
 
+$(document).ready(function() {
+        loadContent(2024);
+    });
 
     function loadContent(year) {
     $.ajax({
