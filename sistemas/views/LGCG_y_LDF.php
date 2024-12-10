@@ -538,3 +538,7 @@ function loadContent(year) {
     });
 }
 </script>
+
+<?php
+include ("footer.php");
+?>
