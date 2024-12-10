@@ -246,7 +246,6 @@ fieldset[disabled] .btn-primary:hover {
   </body>
   </html>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
     function loadContent(year) {
         // Realiza la solicitud AJAX para cargar únicamente el archivo correspondiente al año seleccionado
