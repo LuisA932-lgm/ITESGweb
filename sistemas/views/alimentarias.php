@@ -7,8 +7,6 @@ include ("header.php");
 <head>
     <title>Ingeniería en Industrias Alimentarias</title>
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-
     <style>
         .article-body h3 {
             color: #039;
@@ -42,7 +40,7 @@ include ("header.php");
     </style>
 </head>
 
-<body class="green align-ltr page-id-476 com-content-article chrome breakpoint-1200" style="background-image: url(../images/itesg2.png); background-attachment: fixed; background-repeat: no-repeat; background-position: center; background-size: cover;">
+<body class="green align-ltr page-id-476 com-content-article chrome breakpoint-1200" style="background-image: url(../images/fondos/fondo_alimentarias.jpg); background-attachment: fixed; background-repeat: no-repeat; background-position: center; background-size: cover;">
     <div class="container">
 
         <!--Start Main Body-->
@@ -50,15 +48,15 @@ include ("header.php");
             <section id="mainbody" role="main" class="grid12 offset0 clearfix" style="min-height: 1915px; padding: 0px;">
                 <section id="component" role="article" class="clearfix" style="padding: 0px;">
                     <div class="block">
-                        <article class="article fulltext "> <p></p>
+                        <article class="article fulltext "><p></p>
                             <section class="article-body" style="padding: 0px; width: 1400px; padding-left: 50px; padding-right: 100px; background-color: white;">
                                 <p align="center" style="padding-top: 20px;">
                                     <img src="../images/headers/h_industrias.png" style="margin-right: 200px;">
                                 </p>
-                                <table width="85%" align="center">
+                                <table width="85%">
                                     <tbody>
                                         <tr>
-                                            <td style="padding-right:30px" colspan="2">
+                                            <td style="padding-right: 30px">
                                                 <h3>OBJETIVO</h3>
                                                 <p>Formar profesionistas con sólidos conocimientos científicos y tecnológicos capaces de desarrollar, mejorar y producir alimentos inocuos e innovadores; bajo un esquema ético y sustentable acorde a las necesidades de la sociedad en el ámbito regional, nacional e internacional.
                                                 </p>
@@ -97,13 +95,10 @@ include ("header.php");
                                                 <li>
                                                     <b>Disciplina</b>
                                                 </li>
-                                                <p></p>
                                                 <li><b>Eficiencia</b>
                                                 </li>
-                                                <p></p>
                                                 <li><b>Profesionalismo</b>
                                                 </li>
-                                                <p></p>
                                                 <li><b>Innovación</b>
                                                 </li>
                                                 <p></p>
@@ -111,32 +106,20 @@ include ("header.php");
                                                 <p>El plan de estudios tiene una duración de 9 semestres con un total de 260 créditos.
                                                 Durante la trayectoria académica se cursan asignaturas de ciencias básicas, ciencias de la ingeniería, Ingeniería aplicada y cursos complementarios acordes al perfil de egreso del estudiante.</p>
                                             </td>
-                                            <td valign="top" width="290px" rowspan="3">
-                                                <p><img src="../images/articulos/ban_alimentarias.jpg" style="height: 800px;"></p>
+                                            <td valign="top" width="35%">
+                                                <p><img src="../images/articulos/ban_alimentarias.jpg"></p>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td width="400px" style="padding:0 20px" align="center">
+                                            <td align="center">
                                                 <h4>Retícula IIAL 2010-219</h4>
-                                                <div class="alert alert-success">
+                                                <div class="alert alert-info" style="width: 50%">
                                                     <a href="../images/documentos/ret_iial_219.pdf" target="_blank">
                                                         <img src="../images/desc_pdf.png" height="60px" width="50px">
                                                         <p style="color: darkblue;"> Descarga la Retícula aquí</p>  
                                                     </a>
                                                 </div>
                                             </td>
-                                            <td width="400px" style="padding:0 20px" align="center">
-                                                <h4>Flyer IIAL</h4>
-                                                <div class="alert alert-success">
-                                                    <a href="../images/documentos/flyer_iial2023.pdf" target="_blank">
-                                                        <img src="../images/desc_pdf.png" height="60px" width="50px">
-                                                        <p style="color: darkblue;"> Descarga el Flyer aquí</p>  
-                                                    </a>
-                                                </div>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td style="padding:0 20px" align="center">&nbsp;</td>
                                         </tr>
                                     </tbody>
                                 </table>

@@ -7,8 +7,6 @@ include ("header.php");
 <head>
     <title>Becas</title>
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-
     <style>
         .article-body h4 {
             color: #b5812d;
@@ -64,7 +62,7 @@ include ("header.php");
                                         <p> <img src="../images/desc_pdf.png">Ver aquí</p></a>
                                 </div> <hr class="dotted">
 
-                                <h4>Solicitud Aprovechamiento Acádemico</h4>
+                                <h4>Solicitud Apoyo Aprovechamiento Acádemico</h4>
                                 <div class="alert alert-info">
                                     <a href="../images/documentos/sol_aprov_acad.pdf" target="_blank"> 
                                         <p> <img src="../images/desc_pdf.png">Ver aquí</p></a>

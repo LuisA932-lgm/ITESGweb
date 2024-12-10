@@ -7,8 +7,6 @@ include ("header.php");
 <head>
     <title>Ingeniería en Mecatrónica</title>
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-
     <style>
         .article-body h3 {
             color: #039;
@@ -42,7 +40,7 @@ include ("header.php");
     </style>
 </head>
 
-<body class="green align-ltr page-id-476 com-content-article chrome breakpoint-1200" style="background-image: url(../images/itesg2.png); background-attachment: fixed; background-repeat: no-repeat; background-position: center; background-size: cover;">
+<body class="green align-ltr page-id-476 com-content-article chrome breakpoint-1200" style="background-image: url(../images/fondos/fondo_mecatronica.jpg); background-attachment: fixed; background-repeat: no-repeat; background-position: center; background-size: cover;">
     <div class="container">
 
         <!--Start Main Body-->
@@ -55,7 +53,7 @@ include ("header.php");
                                 <p align="center" style="padding-top: 20px">
                                     <img src="../images/headers/h_mecatronica.png" style="margin-right: 200px;">
                                 </p>
-                                <table width="85%" align="center">
+                                <table width="85%">
                                     <tbody>
                                         <tr>
                                             <td style="padding-right:30px" colspan="2">
@@ -108,41 +106,27 @@ include ("header.php");
                                                 <li>
                                                     <b>Respeto: </b>No discriminar por el modo de pensar, vivir, decidir; por sus gustos o creencias.
                                                 </li>
-                                                <p></p>
                                                 <li><b>Honestidad: </b>Actuar congruente con lo que se dice y se piensa; entre lo que se promete y lo que se cumple.
                                                 </li>
-                                                <p></p>
                                                 <li><b>Responsabilidad: </b>Responder correctamente a las obligaciones en tiempo, lugar y forma.</li>
                                                 <p></p>
                                                 <h3>PLAN DE ESTUDIOS</h3>
                                                 <p>La carrera está conformada por 44 Asignaturas, Residencias profesionales, Servicio Social, Actividades complementarias, Módulo de Especialidad, los cuales se cursan en 9 semestres.</p>
                                             </td>
-                                            <td valign="top" width="290px" rowspan="3">
-                                                <p><img src="../images/articulos/ban_mecatronica.jpg" style="height: 800px;"></p>
+                                            <td valign="top" width="35%">
+                                                <p><img src="../images/articulos/ban_mecatronica.jpg"></p>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td width="400px" style="padding:0 20px" align="center">
+                                            <td align="center">
                                                 <h4>Retícula IMCT 2010-229</h4>
-                                                <div class="alert alert-success">
+                                                <div class="alert alert-info" style="width: 50%">
                                                     <a href="../images/documentos/ret_imtc_10_29.pdf" target="_blank">
                                                         <img src="../images/desc_pdf.png" height="60px" width="50px">
                                                         <p style="color: darkblue;"> Descarga la Retícula aquí</p>  
                                                     </a>
                                                 </div>
                                             </td>
-                                            <td width="400px" style="padding:0 20px" align="center">
-                                                <h4>Flyer IMCT</h4>
-                                                <div class="alert alert-success">
-                                                    <a href="../images/documentos/flyer_imtc_2023.pdf" target="_blank">
-                                                        <img src="../images/desc_pdf.png" height="60px" width="50px">
-                                                        <p style="color: darkblue;"> Descarga el Flyer aquí</p>  
-                                                    </a>
-                                                </div>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td style="padding:0 20px" align="center">&nbsp;</td>
                                         </tr>
                                     </tbody>
                                 </table>

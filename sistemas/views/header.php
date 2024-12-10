@@ -306,6 +306,7 @@
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="marco_juridico.php">Marco Jurídico</a></li>
+                                    <li class="dropdown"><a href="normativa_escolar.php">Normativa Escolar</a></li>
                                     <li class="dropdown"><a href=".html">Comunicados</a></li>
                                 </ul>
                             </li>
@@ -474,10 +475,10 @@
                                         <li class="dropdown">
                                             <a data-bs-toggle="dropdown" href=".html">Año 2024<i class="fas fa-angle-right dropdown-toggle"></i></a>
                                             <ul class="dropdown-menu">
-                                                <li><a href="../images/documentos/prog_anual_com24.pdf">Plan Anual de Compras</a></li>
-                                                <li><a href="../images/documentos/poac_1er_trim_2024.pdf">1er Trímestre</a></li>
-                                                <li><a href="../images/documentos/POAC_2DO_TRIMESTRE_2024.pdf">2do Trímestre</a></li>
-                                                <li><a href="../images/documentos/POAC_3ER_TRIMESTRE_2024.pdf">3er Trímestre</a></li>
+                                                <li><a href="../images/documentos/prog_anual_com24.pdf" target="_blank">Plan Anual de Compras</a></li>
+                                                <li><a href="../images/documentos/poac_1er_trim_2024.pdf" target="_blank">1er Trímestre</a></li>
+                                                <li><a href="../images/documentos/POAC_2DO_TRIMESTRE_2024.pdf" target="_blank">2do Trímestre</a></li>
+                                                <li><a href="../images/documentos/POAC_3ER_TRIMESTRE_2024.pdf" target="_blank">3er Trímestre</a></li>
                                                 <li><a href=".html">4to Trímestre</a></li>
                                             </ul>
                                         </li>
@@ -550,7 +551,7 @@
                                                             <li><a href=".html">PADA 2021</a></li>
                                                             <li><a href=".html">PADA 2022</a></li>
                                                             <li><a href=".html">PADA 2023</a></li>
-                                                            <li><a href="../images/documentos/PADA 2024.pdf">PADA
+                                                            <li><a href="../images/documentos/PADA 2024.pdf" target="_blank">PADA
                                                                     2024</a></li>
 
                                                         </ul>
@@ -565,12 +566,12 @@
                                                             <li><a href=".html">2022</a></li>
                                                             <li><a href=".html">2023</a></li>
                                                             <li><a
-                                                                    href="../images/documentos/Informe de Cumplimiento PADA.pdf">2024</a>
+                                                                    href="../images/documentos/Informe de Cumplimiento PADA.pdf" target="_blank">2024</a>
                                                             </li>
 
                                                         </ul>
                                                     </li>
-                                                    <class="dropdown">
+                                                    <li class="dropdown">
                                                         <a data-bs-toggle="dropdown" href=".html">Dictamen y Acta de
                                                             Baja Documental<i
                                                                 class="fas fa-angle-right dropdown-toggle"></i> </a>
@@ -579,7 +580,7 @@
                                                             <li><a href=".html">2022</a></li>
                                                             <li><a href=".html">2023</a></li>
                                                             <li><a
-                                                                    href="../images/documentos/Dictamen y Acta de Baja Documental.pdf">2024</a>
+                                                                    href="../images/documentos/Dictamen y Acta de Baja Documental.pdf" target="_blank">2024</a>
                                                             </li>
 
                                                         </ul>
@@ -593,7 +594,7 @@
                                                     <li><a href=".html">2022</a></li>
                                                     <li><a href=".html">2023</a></li>
                                                     <li><a
-                                                            href="../images/documentos/Dictamen y Acta de Transferencia Secundaria.pdf">2024</a>
+                                                            href="../images/documentos/Dictamen y Acta de Transferencia Secundaria.pdf" target="_blank">2024</a>
                                                     </li>
 
                                                 </ul>
@@ -621,24 +622,24 @@
                                         <li  class="dropdown">
                                             <a data-bs-toggle="dropdown" href=".html">PPU079<i class="fas fa-angle-right dropdown-toggle"></i></a>
                                             <ul class="dropdown-menu">
-                                                <li><a href="../images/documentos/01.%20Publicacioon_U079-2024.pdf">Resultados Convocatorias 2024</a></li>
-                                                <li><a href="../images/documentos/02.%20Convenio%20U079%202024%20Guanajuato%20firmado.pdf">Convenio 2024</a></li>
+                                                <li><a href="../images/documentos/01.%20Publicacioon_U079-2024.pdf" target="_blank">Resultados Convocatorias 2024</a></li>
+                                                <li><a href="../images/documentos/02.%20Convenio%20U079%202024%20Guanajuato%20firmado.pdf" target="_blank">Convenio 2024</a></li>
                                                 <li class="dropdown">
                                                     <a data-bs-toggle="dropdown" href=".html">Informes Trimestrales<i class="fas fa-angle-right dropdown-toggle"></i></a>
                                                     <ul class="dropdown-menu">
                                                         <li class="dropdown">
                                                             <a data-bs-toggle="dropdown" href=".html">1er Informe<i class="fas fa-angle-right dropdown-toggle"></i></a>
                                                             <ul class="dropdown-menu">
-                                                                <li><a href="../images/documentos/04.%20ITS%20Guanajuato%20Oficio%201er%20informe.pdf">Oficio</a></li>
-                                                                <li><a href="../images/documentos/04.%20ITS%20Guanajuato%20Oficio%201er%20informe.pdf">Informe Trimestal</a></li>
+                                                                <li><a href="../images/documentos/04.%20ITS%20Guanajuato%20Oficio%201er%20informe.pdf" target="_blank">Oficio</a></li>
+                                                                <li><a href="../images/documentos/04.%20ITS%20Guanajuato%20Oficio%201er%20informe.pdf" target="_blank">Informe Trimestal</a></li>
 
                                                             </ul>
                                                         </li>
                                                         <li class="dropdown">
                                                             <a data-bs-toggle="dropdown" href=".html">2do Informe<i class="fas fa-angle-right dropdown-toggle"></i></a>
                                                             <ul class="dropdown-menu">
-                                                                <li><a href="../images/documentos/01.%20Oficio%20DG-754-2024%202do%20Informe%20U079.pdf">Oficio</a></li>
-                                                                <li><a href="../images/documentos/02.%20ITS%20Guanajuato%20Oficio%202do%20Informe%20U079.pdf">Informe Trimestal</a></li>
+                                                                <li><a href="../images/documentos/01.%20Oficio%20DG-754-2024%202do%20Informe%20U079.pdf" target="_blank">Oficio</a></li>
+                                                                <li><a href="../images/documentos/02.%20ITS%20Guanajuato%20Oficio%202do%20Informe%20U079.pdf" target="_blank">Informe Trimestal</a></li>
                                                             </ul>
                                                         </li>
                                                     </ul>
@@ -649,8 +650,8 @@
                                         <a data-bs-toggle="dropdown" href=".html">PPS247<i
                                                 class="fas fa-angle-right dropdown-toggle"></i></a>
                                         <ul class="dropdown-menu">
-                                            <li><a href="../images/documentos/INFORMACIONS247-2024.pdf">PRODEP</a></li>
-                                            <li><a href="../images/documentos/CS2024.pdf">Contraloría Social</a></li>
+                                            <li><a href="../images/documentos/INFORMACIONS247-2024.pdf" target="_blank">PRODEP</a></li>
+                                            <li><a href="../images/documentos/CS2024.pdf" target="_blank">Contraloría Social</a></li>
                                             <li class="dropdown"><a data-bs-toggle="dropdown" href=".html">Documentos
                                                     Normativos<i class="fas fa-angle-right dropdown-toggle"></i></a>
                                                 <ul class="dropdown-menu">
@@ -659,16 +660,16 @@
                                                                 class="fas fa-angle-right dropdown-toggle"></i></a>
                                                         <ul class="dropdown-menu">
                                                             <li><a
-                                                                    href="../images/documentos/1.-Lineamientos%202024%20S247.pdf">Lineamientos
+                                                                    href="../images/documentos/1.-Lineamientos%202024%20S247.pdf" target="_blank">Lineamientos
                                                                     2024</a></li>
-                                                            <li><a href="../images/documentos/2.-Esquema2024.pdf">Esquema
+                                                            <li><a href="../images/documentos/2.-Esquema2024.pdf" target="_blank">Esquema
                                                                     Contraloría social</a></li>
-                                                            <li><a href="../images/documentos/3.-%20Modelo3GuiaOpe.pdf">Guía
+                                                            <li><a href="../images/documentos/3.-%20Modelo3GuiaOpe.pdf" target="_blank">Guía
                                                                     Operativa de Contraloría Social
                                                                     2024</a></li>
-                                                            <li><a href="../images/documentos/4.-%20Modelo4PATCS1.pdf">Programa
+                                                            <li><a href="../images/documentos/4.-%20Modelo4PATCS1.pdf" target="_blank">Programa
                                                                     Anual de Trabajo</a></li>
-                                                            <li><a href="..">Oficio de Validación S247 2024</a></li>
+                                                            <li><a href="../images/documentos/OFVALIDACIONS242024.pdf" target="_blank">Oficio de Validación S247 2024</a></li>
                                                         </ul>
                                                     </li>
                                                     <li class="dropdown">
@@ -676,10 +677,10 @@
                                                             Operativa<i
                                                                 class="fas fa-angle-right dropdown-toggle"></i></a>
                                                         <ul class="dropdown-menu">
-                                                            <li><a href=".html">Acta de Constitución 2024</a></li>
-                                                            <li><a href=".html">Acta de Sustitución 2024</a></li>
-                                                            <li><a href=".html">Minutas de Reunión 2024</a></li>
-                                                            <li><a href=".html">Informe de Comité 2024</a></li>
+                                                            <li><a href="../images/documentos/Anexo1Acta%20constitucin2024.pdf" target="_blank">Acta de Constitución 2024</a></li>
+                                                            <li><a href="../images/documentos/Anexo2Actasustitucin2024.pdf" target="_blank">Acta de Sustitución 2024</a></li>
+                                                            <li><a href="../images/documentos/Anexo3MinutaReunin2024.pdf" target="_blank">Minutas de Reunión 2024</a></li>
+                                                            <li><a href="../images/documentos/Anexo4InformeFinal2024.pdf" target="_blank">Informe de Comité 2024</a></li>
                                                         </ul>
                                                     </li>
                                                 </ul>
@@ -713,12 +714,12 @@
                                                                 class="fas fa-angle-right dropdown-toggle"></i></a>
                                                         <ul class="dropdown-menu">
                                                             <li><a
-                                                                    href="../images/documentos/1_Lineamientos_CS_28-10_2016.pdf">Lineamientos
+                                                                    href="../images/documentos/1_Lineamientos_CS_28-10_2016.pdf" target="_blank">Lineamientos
                                                                     U006</a></li>
                                                             <li><a
-                                                                    href="../images/documentos/4.-PATCSU006TecNMEjecutoras.pdf">Programa
+                                                                    href="../images/documentos/4.-PATCSU006TecNMEjecutoras.pdf" target="_blank">Programa
                                                                     Anual de Trabajo</a></li>
-                                                            <li><a href="../images/documentos/OficioPpU006.pdf">Oficio
+                                                            <li><a href="../images/documentos/OficioPpU006.pdf" target="_blank">Oficio
                                                                     de Validación U006 2024</a></li>
                                                         </ul>
                                                     </li>
@@ -728,10 +729,10 @@
                                                                 class="fas fa-angle-right dropdown-toggle"></i></a>
                                                         <ul class="dropdown-menu">
                                                             <li><a
-                                                                    href="../images/documentos/Anexo2ActasustituciU006.pdf">Acta de Sustitución</a></li>
+                                                                    href="../images/documentos/Anexo2ActasustituciU006.pdf" target="_blank">Acta de Sustitución</a></li>
                                                             <li><a
-                                                                    href="../images/documentos/Anexo3Minuta%20euninU006.pdf">Minuta de Reunión</a></li>
-                                                            <li><a href="../images/documentos/Anexo4InformeFinalU006.pdf">Informe de Comité</a></li>
+                                                                    href="../images/documentos/Anexo3MinutaReunin2024.pdf" target="_blank">Minuta de Reunión</a></li>
+                                                            <li><a href="../images/documentos/Anexo4InformeFinalU006.pdf" target="_blank">Informe de Comité</a></li>
                                                         </ul>
                                                     </li>
                                                 </ul>

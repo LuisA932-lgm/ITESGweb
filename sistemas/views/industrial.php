@@ -7,8 +7,6 @@ include ("header.php");
 <head>
     <title>Ingeniería Industrial</title>
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-
     <style>
         .article-body h3 {
             color: #039;
@@ -42,7 +40,7 @@ include ("header.php");
     </style>
 </head>
 
-<body class="green align-ltr page-id-476 com-content-article chrome breakpoint-1200" style="background-image: url(../images/itesg2.png); background-attachment: fixed; background-repeat: no-repeat; background-position: center; background-size: cover;">
+<body class="green align-ltr page-id-476 com-content-article chrome breakpoint-1200" style="background-image: url(../images/fondos/fondo_industrial.jpg); background-attachment: fixed; background-repeat: no-repeat; background-position: center; background-size: cover;">
     <div class="container">
 
         <!--Start Main Body-->
@@ -55,10 +53,10 @@ include ("header.php");
                                 <p align="center" style="padding-top: 20px;">
                                     <img src="../images/headers/h_industrial.png" style="margin-right: 200px;">
                                 </p>
-                                <table width="85%" align="center">
+                                <table width="85%">
                                     <tbody>
                                         <tr>
-                                            <td style="padding-right:30px" colspan="2">
+                                            <td style="padding-right:30px">
                                                 <h3>OBJETIVO</h3>
                                                 <p>Formar profesionales que contribuyan al desarrollo sustentable, con una visión sistémica, que corresponda a los retos que presentan constantes cambios en los sistemas de producción de bienes y servicios de manera ética y comprometidos con la sociedad.
                                                 Esta carrera surge como una opción para aumentar la competitividad de nuestro país, aprovechando de la mejor manera posible los recursos naturales, materiales y humanos, lo que contribuye a elevar el desarrollo organizacional y sus niveles de calidad.
@@ -104,42 +102,28 @@ include ("header.php");
                                                 <li>
                                                     <b>Respeto: </b>No discriminar por el modo de pensar, vivir, decidir; por sus gustos o creencias.
                                                 </li>
-                                                <p></p>
                                                 <li><b>Honestidad: </b>Actuar congruente con lo que se dice y se piensa; entre lo que se promete y lo que se cumple.
                                                 </li>
-                                                <p></p>
                                                 <li><b>Responsabilidad: </b>Responder correctamente a las obligaciones en tiempo, lugar y forma.</li>
                                                 <p></p>
                                                 <h3>PLAN DE ESTUDIOS</h3>
                                                 <p>El Plan de Estudios vigente en la carrera de Ingeniería Industrial tiene la clave IIND-2010-227, ha estado vigente desde agosto de 2010 y es proyectado a que el estudiante lo pueda cursar de forma ordinaria en 9 semestres. 
                                                 Los créditos que la conforman son 260, los cuales se reparten 204 en asignaturas de la estructura genérica, 31 del módulo de especialidad, 10 del programa de residencias, 10 de servicio social y 5 de actividades complementarias.</p>
                                             </td>
-                                            <td valign="top" width="290px" rowspan="3">
-                                                <p><img src="../images/articulos/ban_industrial.jpg" style="height: 800px"></p>
+                                            <td valign="top" width="35%">
+                                                <p><img src="../images/articulos/ban_industrial.jpg"></p>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td width="400px" style="padding:0 20px" align="center">
+                                            <td align="center">
                                                 <h4>Retícula IIND 2010-227</h4>
-                                                <div class="alert alert-success">
+                                                <div class="alert alert-info" style="width: 50%">
                                                     <a href="../images/documentos/ret_iind_2010_227.pdf" target="_blank">
                                                         <img src="../images/desc_pdf.png" height="60px" width="50px">
                                                         <p style="color: darkblue;"> Descarga la Retícula aquí</p>  
                                                     </a>
                                                 </div>
                                             </td>
-                                            <td width="400px" style="padding:0 20px" align="center">
-                                                <h4>Flyer IIND</h4>
-                                                <div class="alert alert-success">
-                                                    <a href="../images/documentos/flyerindustrial.pdf" target="_blank">
-                                                        <img src="../images/desc_pdf.png" height="60px" width="50px">
-                                                        <p style="color: darkblue;"> Descarga el Flyer aquí</p>  
-                                                    </a>
-                                                </div>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td style="padding:0 20px" align="center">&nbsp;</td>
                                         </tr>
                                     </tbody>
                                 </table>
