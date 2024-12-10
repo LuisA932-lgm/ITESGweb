@@ -1,26 +1,14 @@
-<?php
-include ("header.php");
-?>
-<!DOCTYPE html>
+<?php include ("header.php");
 
-<html lang="en">
-  <head>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Ejercicios Fiscales</title>
-  </head>
-  <body>
-    <style>
-       .Ti {
-           
-            color: rgb(181, 129, 45);
-            font-family: Lato, sans-serif;
-            font-size: 21px;
-            font-weight:bold;
-       }
-     
-          .btn {
-            font-weight:bold;
+?>< !DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Ejercicios Fiscales 2021</title></head><body><style>.Ti {
+    color: rgb(181, 129, 45);
+    font-family: Lato, sans-serif;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.btn {
+    font-weight: bold;
     display: inline-block;
     margin-bottom: 0;
     font-weight: 300;
@@ -60,7 +48,6 @@ include ("header.php");
     box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125)
 }
 
-
 .btn.disabled,
 .btn[disabled],
 fieldset[disabled] .btn {
@@ -78,7 +65,7 @@ fieldset[disabled] a.btn {
 .btn-default {
     color: #6F7271;
     background-color: #fff;
-    font-weight:bold;
+    font-weight: bold;
 }
 
 .btn-default.focus,
@@ -131,8 +118,9 @@ fieldset[disabled] .btn-default:focus,
 fieldset[disabled] .btn-default:hover {
     color: #FFF;
     background-color: #6F7271;
-    border-color: #6F7271
+    border-color: #6F7271
 }
+
 .btn-default .badge {
     color: #fff;
     background-color: #333
@@ -195,8 +183,8 @@ fieldset[disabled] .btn-primary:hover {
     color: #FFF;
     background-color: #9D2449;
     border-color: #9D2449
-    
 }
+
 .font-changer button {
     display: block;
     background: 0 0;
@@ -211,7 +199,6 @@ fieldset[disabled] .btn-primary:hover {
     text-align: center;
     font-size: 13px;
     margin-bottom: 7px
-    
 }
 
 .font-changer button:hover {
@@ -221,48 +208,34 @@ fieldset[disabled] .btn-primary:hover {
 
 #btn-year.selected,
 .btn-year.selected {
-    background-color: #042433; 
-    color: #fff; 
+    background-color: #042433;
+    color: #fff;
 }
 
-#btn-year.selected, .btn-year.selected {
-    background-color: #042433;  /* Color de fondo */
-    color: #fff;  /* Color del texto */
-}
-
-
-</style>
-
- <center class="Ti">Información Financiera - Armonización Contable LGCG y LDF</center>
-  <center>   
-          <div class="btn-group btn-group-lg" role="group">
-   
-      
-    <button type="button" class="btn-year.selected btn btn-default" data-year="2018" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2018')">2018</button>
-    <button type="button" class="btn-year btn btn-default" data-year="2019" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2019')">2019</button>
-    <button type="button" class="btn-year btn btn-default" data-year="2020" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2020')">2020</button>
-    <button type="button" class="btn-year btn btn-default" data-year="2021" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2021')">2021</button>
-    <button type="button" class="btn-year btn btn-default" data-year="2022" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2022')">2022</button>
-    <button type="button" class="btn-year btn btn-default" data-year="2023" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2023')">2023</button>
-    <button type="button" class="btn-year btn btn-default" data-year="2024" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2024')">2024</button>
-  </center>
-  <div id="contentDiv">
-    
+</style><center class="Ti">Información Financiera - Armonización Contable LGCG y LDF</center>
+<center>
+<div class="btn-group btn-group-lg" role="group">
+<button type="button" class=" btn-year.selected btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2018')">2018</button>
+<button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2019')">2019</button>
+<button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2020')">2020</button>
+<button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2021')">2021</button>
+<button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2022')">2022</button>
+<button type="button" class="btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2023')">2023</button>
+<button type="button" class="btn-year.selected btn btn-default" style="color: #2EC3F8; font-size: 22px" onclick="loadContent('2024')">2024</button>
+</center>
+<div id="contentDiv">
 </div>
-  </body>
-  </html>
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script>
-$(document).ready(function() {
-    const currentYear = new Date().getFullYear();
-    loadContent(currentYear);
-    $(`.btn-year[data-year="${currentYear}"]`).addClass('selected');
-});
+</body>
+</html>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js">
+</script>
+<script>$(document).ready(function() {
+        loadContent(2024);
+    });
 
 function loadContent(year) {
     $.ajax({
-        url: `http://localhost/ITESGWEB/sistemas/views/Informacion_Financiera/${year}.php`,
+        url: http://localhost/ITESGWEB/sistemas/views/Informacion_Financiera/${year}.php,
         type: "GET",
         success: function(response) {
             if (response.trim() === "") {
@@ -275,12 +248,6 @@ function loadContent(year) {
             $('#contentDiv').html('<img src="../images/1.png" style="display:block; margin: 0 auto;"/> <p style="text-align:center; color:black;"> Página en mantenimiento. </p>');
         }
     });
-
 }
 </script>
-
-
-
-<?php
-include ("footer.php");
-?>
+<?php include ("footer.php"); ?>
