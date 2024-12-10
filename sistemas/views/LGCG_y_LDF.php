@@ -240,26 +240,19 @@ fieldset[disabled] .btn-primary:hover {
 <script src="https://code.jquery.com/jquery-3.6.0.min.js">
 </script>
 <script>
-
-$(document).ready(function() {
-        loadContent(2024);
+    document.addEventListener('DOMContentLoaded', function() {
+        loadContent(2023); // Carga el año 2023 por defecto
     });
 
     function loadContent(year) {
-    $.ajax({
-        url: "http://localhost/ITESGWEB/sistemas/views/Informacion_Financiera/2023.php",
-        type: "GET",
-        success: function(response) {
-            if (response.trim() === "") {
-                $('#contentDiv').html('<img src="../images/logos/1.png" style="display:block; margin: 0 auto;" />');
-            } else {
-                $('#contentDiv').html(response);
-            }
-        },
-        error: function() {
-            $('#contentDiv').html('<img src="../images/1.png" style="display:block; margin: 0 auto;"/> <p style="text-align:center; color:black;"> Página en mantenimiento. </p>');
-        }
-    });
-}
+        fetch(http://localhost/ITESGWEB/sistemas/Informacion_Financiera/${year}.php)
+            .then(response => response.text())
+            .then(html => {
+                document.getElementById('contentDiv').innerHTML = html;
+            })
+            .catch(() => {
+                document.getElementById('contentDiv').innerHTML = '<p>Error al cargar el contenido. Página no existe.</p>';
+            });
+    }
 </script>
 <?php include ("footer.php"); ?>
